@@ -2142,5 +2142,85 @@
     "foto": "https://i.postimg.cc/Z5v0Pc6b/laser.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
+  },
+  {
+    "id": 270,
+    "nombre": "AURICULAR INALAMBRICOS BT",
+    "precio": 7280,
+    "foto": "https://i.postimg.cc/6QShf9dY/auriinalam.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 271,
+    "nombre": "CABLE TIPO C 3.1 BOLSA",
+    "precio": 1105,
+    "foto": "https://i.postimg.cc/SQLWJLvx/cabletipoc.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 272,
+    "nombre": "CORTA BARBA 3 EN 1 RECARGABLE",
+    "precio": 15922,
+    "foto": "https://i.postimg.cc/DfcX2v8N/cortabarba.jpg",
+    "categoria": "ACCESORIOS MASCULINOS",
+    "suspendido": false
+  },
+  {
+    "id": 273,
+    "nombre": "PELOTA NRO. 5",
+    "precio": 7700,
+    "foto": "https://i.postimg.cc/Z5fkZdSN/PELO.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 274,
+    "nombre": "PELOTA SPINER VOLADOR",
+    "precio": 5670,
+    "foto": "https://i.postimg.cc/TYGBD92S/SPINERPELO.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 275,
+    "nombre": "PELOTA INTER MIAMI N05",
+    "precio": 7550,
+    "foto": "https://i.postimg.cc/sXdTRjvH/PELOMESSI.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 276,
+    "nombre": "PELOTA ARGENTUM",
+    "precio": 7840,
+    "foto": "https://i.postimg.cc/MK2qrV6X/PELONRO5.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 277,
+    "nombre": "BALANZA PERSONAL CUADRADA 180K",
+    "precio": 11830,
+    "foto": "https://i.postimg.cc/mk0Dm5d4/BALANZACUADRADA.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 278,
+    "nombre": "PARLANTE FABRIC FM/BT/USB",
+    "precio": 7560,
+    "foto": "https://i.postimg.cc/J0JDC8Hs/PARLANTEFABRIC.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 279,
+    "nombre": "BALANZA 50 KG EQUIPAJESMILE",
+    "precio": 4620,
+    "foto": "https://i.postimg.cc/kgNQtQ45/CX-E02.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
   }
 ]
