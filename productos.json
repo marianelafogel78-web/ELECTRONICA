@@ -637,7 +637,7 @@
     "precio": 26100,
     "foto": "https://i.postimg.cc/TPFh62g2/OR-JV1500.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 82,
@@ -1124,14 +1124,6 @@
     "nombre": "PILAS DOBLE AA 1.5V PACK X 60UNDS ORYX",
     "precio": 1040,
     "foto": "https://i.postimg.cc/Vs9hcQg8/OR-0155.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
-    "id": 144,
-    "nombre": "SOPORTE DE TV 14-55 TV50",
-    "precio": 11400,
-    "foto": "https://i.postimg.cc/LX99c4Wy/TVJ20.jpg",
     "categoria": "VARIOS",
     "suspendido": false
   },
@@ -2340,7 +2332,7 @@
     "nombre": "CARGADOR DE NOTEBOOK C/FICHA LENOVO",
     "precio": 11200,
     "foto": "https://i.postimg.cc/tTwQY1xw/cargadornot.jpg",
-    "categoria": "TECNOLOGIA",
+    "categoria": "CARGADORES",
     "suspendido": false
   }
 ]
