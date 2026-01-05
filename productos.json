@@ -109,7 +109,7 @@
     "precio": 5347,
     "foto": "https://i.postimg.cc/MH2rXtkX/Whats-App-Image-2025-09-10-at-20-57-10-2.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "precio": 4080,
     "foto": "https://i.postimg.cc/g2s95CCs/Whats-App-Image-2025-09-10-at-20-57-10.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "precio": 3850,
     "foto": "https://i.postimg.cc/025bhs3X/Whats-App-Image-2025-09-10-at-23-33-24.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 17,
@@ -397,7 +397,7 @@
     "precio": 30600,
     "foto": "https://i.postimg.cc/Z5r5wzzp/PARLANTE.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 51,
@@ -405,7 +405,7 @@
     "precio": 18200,
     "foto": "https://i.postimg.cc/zBwZHmFn/BT-21005.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 52,
@@ -461,7 +461,7 @@
     "precio": 14270,
     "foto": "https://i.postimg.cc/3RhS0kRw/KTS-1916.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 59,
@@ -469,7 +469,7 @@
     "precio": 29950,
     "foto": "https://i.postimg.cc/pdbk3mKB/H83.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 60,
@@ -477,7 +477,7 @@
     "precio": 14270,
     "foto": "https://i.postimg.cc/C5zjR0j1/KTS-2010.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 61,
@@ -580,14 +580,6 @@
     "nombre": "BATIDORA DE CAFE A PILA",
     "precio": 2500,
     "foto": "https://i.postimg.cc/nLghy1nz/Captura-de-pantalla-2025-09-11-172016.png",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 74,
-    "nombre": "CANILLA METALICA ESFERICA 1/2 COMUN DP-78",
-    "precio": 2580,
-    "foto": "https://i.postimg.cc/NGHsLNNd/WT-78.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -765,7 +757,7 @@
     "precio": 7150,
     "foto": "https://i.postimg.cc/t4wfgb80/AURI.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 97,
@@ -1158,14 +1150,6 @@
     "foto": "https://i.postimg.cc/SxytbC1G/PELOTA-NRO-2.jpg",
     "categoria": "NIÑOS",
     "suspendido": true
-  },
-  {
-    "id": 147,
-    "nombre": "DISPENSER DE AGUA",
-    "precio": 2250,
-    "foto": "https://i.postimg.cc/JzX7PJQx/disoenser-agua.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": false
   },
   {
     "id": 148,
@@ -1725,7 +1709,7 @@
     "precio": 16590,
     "foto": "https://i.postimg.cc/h4C6PJh0/UHS-I.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 218,
@@ -1789,7 +1773,7 @@
     "precio": 39900,
     "foto": "https://i.postimg.cc/jSqDfbtY/TVB-48021.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 226,
@@ -1797,7 +1781,7 @@
     "precio": 33460,
     "foto": "https://i.postimg.cc/XYZtGnty/TVB-48020.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 227,
@@ -1813,7 +1797,7 @@
     "precio": 20800,
     "foto": "https://i.postimg.cc/dVDdSFH6/RELOJ-2-MAYAS.jpg",
     "categoria": "RELOJES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 229,
@@ -1915,7 +1899,7 @@
     "id": 241,
     "nombre": "BOTELLA DE PLASTICO 700ML",
     "precio": 7000,
-    "foto": "https://i.postimg.cc/Kvhz5Fp2/botellas.jpg",
+    "foto": "https://i.postimg.cc/gkM9ZZpQ/vasos.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
   },
@@ -2221,6 +2205,142 @@
     "precio": 4620,
     "foto": "https://i.postimg.cc/kgNQtQ45/CX-E02.jpg",
     "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 280,
+    "nombre": "ESPEJO METAL N8",
+    "precio": 4970,
+    "foto": "https://i.postimg.cc/s2XBsSmD/espejo.png",
+    "categoria": "ACCESORIOS FEMENINOS",
+    "suspendido": false
+  },
+  {
+    "id": 281,
+    "nombre": "ARO LED LUZ FRIA / CALIDA",
+    "precio": 7700,
+    "foto": "https://i.postimg.cc/C1vX9R7x/aroled.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false
+  },
+  {
+    "id": 282,
+    "nombre": "AURICULAR M-LIBRES TIME",
+    "precio": 1345,
+    "foto": "https://i.postimg.cc/KYxWzPsm/aurirb.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 283,
+    "nombre": "AURICULAR BLUETOOTH TIME NEGROS",
+    "precio": 10990,
+    "foto": "https://i.postimg.cc/NfFJZPqy/auri1.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 284,
+    "nombre": "CARTEL KIOSKO",
+    "precio": 14520,
+    "foto": "https://i.postimg.cc/1tgbh9jD/cartel.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 285,
+    "nombre": "CINTA DE TEFLON 12MM 10M",
+    "precio": 1390,
+    "foto": "https://i.postimg.cc/7ZmR5GvN/teflon.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 286,
+    "nombre": "HUMIDIFICADOR LED AROMATIZADOR",
+    "precio": 11200,
+    "foto": "https://i.postimg.cc/DwZgYxDC/humificador.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 287,
+    "nombre": "AURICULAR INALAMBRICO 5.3",
+    "precio": 7000,
+    "foto": "https://i.postimg.cc/2SN7wzYB/JK605.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 288,
+    "nombre": "MANGUERA EXPANDIBLE 100FT 30M",
+    "precio": 21000,
+    "foto": "https://i.postimg.cc/P5fzcSC0/manguera.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 289,
+    "nombre": "SOPORTE FIJO TV 26-63 PLG",
+    "precio": 5670,
+    "foto": "https://i.postimg.cc/dV0dtzQ6/soportetn65pul.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 290,
+    "nombre": "SOPORTE FIJO TV 14-42 PLG",
+    "precio": 3640,
+    "foto": "https://i.postimg.cc/d0PqSyfD/soportetv24pul.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 291,
+    "nombre": "SOPORTE TV REFORZADO BRAZO 32-65 PLG",
+    "precio": 12600,
+    "foto": "https://i.postimg.cc/d0PqSyfD/soportetv24pul.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 292,
+    "nombre": "RELOJ DIGITAL CON TERMOMETRO",
+    "precio": 4200,
+    "foto": "https://i.postimg.cc/nzZ9Nzrt/reloj.jpg",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 293,
+    "nombre": "AURICULAR INALAMBRICO OPEN-EAR",
+    "precio": 7150,
+    "foto": "https://i.postimg.cc/SszQZGSV/auri.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 294,
+    "nombre": "AURICULAR GATITO VINCHA",
+    "precio": 7350,
+    "foto": "https://i.postimg.cc/Z5KbkmY5/aurigatito.jpg",
+    "categoria": "AURICULARES VINCHA",
+    "suspendido": false
+  },
+  {
+    "id": 295,
+    "nombre": "BOTELLA DEPORTIVA CON PARLANTE",
+    "precio": 15330,
+    "foto": "https://i.postimg.cc/bNYdQWD5/botellpar.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 296,
+    "nombre": "CARGADOR DE NOTEBOOK C/FICHA LENOVO",
+    "precio": 11200,
+    "foto": "https://i.postimg.cc/tTwQY1xw/cargadornot.jpg",
+    "categoria": "TECNOLOGIA",
     "suspendido": false
   }
 ]
