@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "nombre": "RECEPTOR BT",
-    "precio": 2510,
-    "foto": "https://i.postimg.cc/xjbNtv2s/CARWIRWLES.jpg",
+    "nombre": "RECEPTOR BT PARA  AUTO",
+    "precio": 2625,
+    "foto": "RECEPTOR BT",
     "categoria": "CARGADORES",
     "suspendido": false
   },
@@ -37,7 +37,7 @@
     "precio": 6267,
     "foto": "https://i.postimg.cc/MpXSgkBn/AURI-ULTRA-PRO.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 6,
@@ -101,7 +101,7 @@
     "precio": 3850,
     "foto": "https://i.postimg.cc/vHRNJ8fX/CAR-53001.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 14,
@@ -133,7 +133,7 @@
     "precio": 3970,
     "foto": "https://i.postimg.cc/9FbJpsxN/CARGADOR-LEGATUS.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 18,
@@ -225,8 +225,8 @@
   },
   {
     "id": 29,
-    "nombre": "CABLE MALLA TIPO C DATOS 3.1A X 1 UND",
-    "precio": 1330,
+    "nombre": "CABLE MALLA TIPO C DATOS 3.1A",
+    "precio": 1470,
     "foto": "https://i.postimg.cc/MpBny6Kj/CAB-41002.jpg",
     "categoria": "CABLES",
     "suspendido": false
@@ -432,26 +432,10 @@
     "suspendido": false
   },
   {
-    "id": 55,
-    "nombre": "PARLANTE 4PLG BT C/LUZ",
-    "precio": 11200,
-    "foto": "https://i.postimg.cc/pd5bJ5RY/KTX-1473.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 56,
     "nombre": "PARLANTE BT CON LUZ 1 MICROFONO",
     "precio": 10280,
     "foto": "https://i.postimg.cc/fTzGgrMb/K18.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 57,
-    "nombre": "PARLANTE BT/FM/MP3 1 MICROFONO",
-    "precio": 21440,
-    "foto": "https://i.postimg.cc/hvS56XWY/G70.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
   },
@@ -493,7 +477,7 @@
     "precio": 11200,
     "foto": "https://i.postimg.cc/Dw3K6zyj/JUEGOCUCHILLOS.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 63,
@@ -576,14 +560,6 @@
     "suspendido": false
   },
   {
-    "id": 73,
-    "nombre": "BATIDORA DE CAFE A PILA",
-    "precio": 2500,
-    "foto": "https://i.postimg.cc/nLghy1nz/Captura-de-pantalla-2025-09-11-172016.png",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 75,
     "nombre": "CAÑO PARA DUCHA 50CM AV2640",
     "precio": 3200,
@@ -640,14 +616,6 @@
     "suspendido": true
   },
   {
-    "id": 82,
-    "nombre": "KIT DE UTENSILIOS DE COCINA 19PCS",
-    "precio": 40665,
-    "foto": "https://i.postimg.cc/VLkwKQ0K/S-1161-01.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 83,
     "nombre": "MATE CLASICO NEO 150ML NEO-",
     "precio": 7780,
@@ -685,7 +653,7 @@
     "precio": 12200,
     "foto": "https://i.postimg.cc/N0GwV6Z1/G262-9-02.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 88,
@@ -749,15 +717,15 @@
     "precio": 6652,
     "foto": "https://i.postimg.cc/PqSK3TQX/JK603.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 96,
-    "nombre": "AURICULAES INALAMBRICOS TIME",
+    "nombre": "AURICULAES INALAMBRICOS TIME AU-17017",
     "precio": 7150,
     "foto": "https://i.postimg.cc/t4wfgb80/AURI.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 97,
@@ -901,7 +869,7 @@
     "precio": 29500,
     "foto": "https://i.postimg.cc/vHRT0yzV/DL-5241.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 115,
@@ -929,9 +897,9 @@
   },
   {
     "id": 118,
-    "nombre": "SECADOR DE PELO 2000W HYTOSHY",
-    "precio": 15350,
-    "foto": "https://i.postimg.cc/NFWKT9sN/HT-7701.jpg",
+    "nombre": "SECADOR DE PELO PROFESIONAL 2000W",
+    "precio": 14500,
+    "foto": "https://i.postimg.cc/NMHBcp9S/secador2000w.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
     "suspendido": false
   },
@@ -1037,7 +1005,7 @@
     "precio": 5400,
     "foto": "https://i.postimg.cc/0jMwQXMB/LAMP-MATA-MOSQUITOS.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 133,
@@ -1197,14 +1165,6 @@
     "precio": 7450,
     "foto": "https://i.postimg.cc/Hng277Xm/BOLA-LED.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
-    "id": 155,
-    "nombre": "VELADOR STITCH",
-    "precio": 13790,
-    "foto": "https://i.postimg.cc/k5mXnckr/VELADOR-STITCH.jpg",
-    "categoria": "NIÑOS",
     "suspendido": false
   },
   {
@@ -1513,9 +1473,9 @@
   },
   {
     "id": 194,
-    "nombre": "LINGA PARA BICI/MOTO C/SOPORTE 1.2M 120X12",
-    "precio": 4800,
-    "foto": "https://i.postimg.cc/MHPsnxX3/TBL611.jpg",
+    "nombre": "LINGA PARA BICI/MOTO",
+    "precio": 5040,
+    "foto": "https://i.postimg.cc/5yvnmFYF/lingamoto.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
@@ -1546,7 +1506,7 @@
   {
     "id": 198,
     "nombre": "ZAPATILLA 3M",
-    "precio": 2400,
+    "precio": 3080,
     "foto": "https://i.postimg.cc/J4p922zN/Captura-de-pantalla-2025-09-11-161504.png",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1554,7 +1514,7 @@
   {
     "id": 199,
     "nombre": "ZAPATILLA 5M",
-    "precio": 3850,
+    "precio": 4200,
     "foto": "https://i.postimg.cc/J4p922zN/Captura-de-pantalla-2025-09-11-161504.png",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1565,7 +1525,7 @@
     "precio": 9150,
     "foto": "https://i.postimg.cc/SRDWm8nP/Whats-App-Image-2025-09-10-at-20-57-03-2.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 201,
@@ -1853,7 +1813,7 @@
     "precio": 16900,
     "foto": "https://i.postimg.cc/15nVSdwg/VASO-U-PARLAMTE.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 237,
@@ -1916,14 +1876,6 @@
     "nombre": "TERMO DE 500ML SPORT",
     "precio": 14230,
     "foto": "https://i.postimg.cc/XJyvsMZZ/FLK1543.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
-    "id": 245,
-    "nombre": "TERMOS 500ML",
-    "precio": 14250,
-    "foto": "https://i.postimg.cc/SxX7Fk9f/20250908-1846-Colorful-Thermos-Bottles-remix-01k4nmk01jed4t13qnzxmphkx4.png",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
@@ -1994,7 +1946,7 @@
   {
     "id": 254,
     "nombre": "AURICULAR SAMSUNG MANOS LIBRES",
-    "precio": 1645,
+    "precio": 1780,
     "foto": "https://i.postimg.cc/Pr9vkFT9/Whats-App-Image-2025-09-12-at-12-29-10.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false
@@ -2077,7 +2029,7 @@
     "precio": 13990,
     "foto": "https://i.postimg.cc/wMMBbcRW/lampmosq.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 265,
@@ -2125,7 +2077,7 @@
     "precio": 7280,
     "foto": "https://i.postimg.cc/6QShf9dY/auriinalam.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 271,
@@ -2217,7 +2169,7 @@
   },
   {
     "id": 282,
-    "nombre": "AURICULAR M-LIBRES TIME",
+    "nombre": "AURICULAR M-LIBRES TIME AU-11018",
     "precio": 1345,
     "foto": "https://i.postimg.cc/KYxWzPsm/aurirb.jpg",
     "categoria": "AURICULARES C/CABLE",
@@ -2291,7 +2243,7 @@
     "id": 291,
     "nombre": "SOPORTE TV REFORZADO BRAZO 32-65 PLG",
     "precio": 12600,
-    "foto": "https://i.postimg.cc/d0PqSyfD/soportetv24pul.jpg",
+    "foto": "https://i.postimg.cc/3wMz5Yht/soportetv.jpg",
     "categoria": "VARIOS",
     "suspendido": false
   },
@@ -2325,7 +2277,7 @@
     "precio": 15330,
     "foto": "https://i.postimg.cc/bNYdQWD5/botellpar.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 296,
@@ -2333,6 +2285,70 @@
     "precio": 11200,
     "foto": "https://i.postimg.cc/tTwQY1xw/cargadornot.jpg",
     "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 297,
+    "nombre": "AURICULAR M-LIBRES TIME AU-11011",
+    "precio": 1360,
+    "foto": "https://i.postimg.cc/y8MLGjKJ/auri11011.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 298,
+    "nombre": "AURICULAR INALAMBRICOS BLUETOOTH JS602",
+    "precio": 6305,
+    "foto": "https://i.postimg.cc/Y9Kqj5Hm/auribt.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 299,
+    "nombre": "CARGADOR LEGATUS TIPO C 3.4A",
+    "precio": 2745,
+    "foto": "https://i.postimg.cc/Z5zS8rQj/cargadortipoc.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 300,
+    "nombre": "CABEZAL IPHONE 20W PATA ARGENTINA/ USB-C",
+    "precio": 4067,
+    "foto": "https://i.postimg.cc/bvGW4r4w/cabezal20w.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 301,
+    "nombre": "CABLE 4 EN 1 REFORZADO",
+    "precio": 2465,
+    "foto": "https://i.postimg.cc/vTGP8ZSR/cable4en1.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 302,
+    "nombre": "KIT DE MOUSE Y TECLADO INALAMBRICO TIME",
+    "precio": 12900,
+    "foto": "KIT DE MOUSE Y TECLADO INALAMBRICO TIME",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 303,
+    "nombre": "RADIO VINTAGE BT/FM/MP3 RECARGABLE",
+    "precio": 7500,
+    "foto": "https://i.postimg.cc/gJ2XY9qV/radiovinage.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 304,
+    "nombre": "ALARGUE USB",
+    "precio": 12460,
+    "foto": "https://i.postimg.cc/x8tqh6bM/alargueusb.jpg",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   }
 ]
