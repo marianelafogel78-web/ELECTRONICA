@@ -485,7 +485,7 @@
     "precio": 7140,
     "foto": "https://i.postimg.cc/5t5MKPP9/BLZ-5206.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 64,
@@ -1824,14 +1824,6 @@
     "suspendido": false
   },
   {
-    "id": 238,
-    "nombre": "VASO TERMICO 400ML",
-    "precio": 10290,
-    "foto": "https://i.postimg.cc/B6Pfb2ps/VASO-TERMICO.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
     "id": 239,
     "nombre": "BOTELLA PLEGABLE DEPORTIVA INFANTIL",
     "precio": 5800,
@@ -1893,7 +1885,7 @@
     "precio": 19150,
     "foto": "https://i.postimg.cc/6qgz7WYp/ISA-811.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 248,
