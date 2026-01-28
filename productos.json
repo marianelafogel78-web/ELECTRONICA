@@ -480,14 +480,6 @@
     "suspendido": true
   },
   {
-    "id": 63,
-    "nombre": "BALANZA DE COCINA 0.1-3000G",
-    "precio": 7140,
-    "foto": "https://i.postimg.cc/5t5MKPP9/BLZ-5206.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
-  },
-  {
     "id": 64,
     "nombre": "DISPENSER DE AGUA AUTOMATICO PORTATIL",
     "precio": 7720,
@@ -536,26 +528,10 @@
     "suspendido": false
   },
   {
-    "id": 70,
-    "nombre": "BALANZA DE BAÑO PERSONAJES $ 11620.00",
-    "precio": 11620,
-    "foto": "https://i.postimg.cc/7hCcpgYx/BL-91056.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 71,
     "nombre": "BALANZA DIGITAL DE BAÑO PERSONAL",
     "precio": 11690,
     "foto": "https://i.postimg.cc/66fy4ctX/BL-91057.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 72,
-    "nombre": "BATIDORA 7 VELOCIDADES HE-133 LB-133",
-    "precio": 17835,
-    "foto": "https://i.postimg.cc/SRxqMWfS/SK-133.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -629,7 +605,7 @@
     "precio": 20165,
     "foto": "https://i.postimg.cc/fR5wJVDh/MINILAVADORA-DE-ROPA.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 85,
@@ -653,7 +629,7 @@
     "precio": 12200,
     "foto": "https://i.postimg.cc/N0GwV6Z1/G262-9-02.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 88,
@@ -749,7 +725,7 @@
     "precio": 7420,
     "foto": "https://i.postimg.cc/7YB6ZR9C/VIV-23M.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 100,
@@ -1109,7 +1085,7 @@
     "precio": 3500,
     "foto": "https://i.postimg.cc/SxytbC1G/PELOTA-NRO-2.jpg",
     "categoria": "NIÑOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 148,
@@ -1117,7 +1093,7 @@
     "precio": 9790,
     "foto": "https://i.postimg.cc/2S7fq4WY/TABLETA-LED.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 149,
@@ -2069,7 +2045,7 @@
     "precio": 7280,
     "foto": "https://i.postimg.cc/6QShf9dY/auriinalam.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 271,
@@ -2341,6 +2317,150 @@
     "precio": 12460,
     "foto": "https://i.postimg.cc/x8tqh6bM/alargueusb.jpg",
     "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 305,
+    "nombre": "SET PLACARD X3 A PILA",
+    "precio": 8400,
+    "foto": "https://i.postimg.cc/ydJccg9P/setplacadluz.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 306,
+    "nombre": "MOCHILA PARA NOTEBOOK CON USB MOCHNEG",
+    "precio": 10500,
+    "foto": "https://i.postimg.cc/TYx5YHkJ/mochinootbook.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 307,
+    "nombre": "RELOJ DEPORTIVO INTELIGENTE TACTIL",
+    "precio": 6500,
+    "foto": "https://i.postimg.cc/qqTqqzGq/reloj.jpg",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 308,
+    "nombre": "CORTA BARBA ONICA DE 3 CABEZALES RECARGABLE",
+    "precio": 16380,
+    "foto": "https://i.postimg.cc/qq4B0Wkn/cortabarba.jpg",
+    "categoria": "ACCESORIOS MASCULINOS",
+    "suspendido": false
+  },
+  {
+    "id": 309,
+    "nombre": "ZAPATILLA FLOR 5 BOCAS + 2USB",
+    "precio": 8190,
+    "foto": "https://i.postimg.cc/3NSs6qNP/zapaflor.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 310,
+    "nombre": "MINI ZAPATILLA CARGADOR RACK CHARGER 66W",
+    "precio": 6860,
+    "foto": "https://i.postimg.cc/bNSVprB0/minizapa.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 311,
+    "nombre": "SET DE HERRAMIENTAS 4PCS",
+    "precio": 6720,
+    "foto": "https://i.postimg.cc/mZPW1bn9/setherramientas.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 312,
+    "nombre": "VASO TERMICO 500 ML ACERO",
+    "precio": 9500,
+    "foto": "https://i.postimg.cc/BbKzYvWD/va-SOTERMICO.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 313,
+    "nombre": "BATIDORA DE CAFE RECARGABLE",
+    "precio": 6825,
+    "foto": "https://i.postimg.cc/wBncWQ68/Btidora.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 314,
+    "nombre": "DESTORNILLADOR INALAMBRICO 48PC 5V",
+    "precio": 16800,
+    "foto": "https://i.postimg.cc/CMGHN8X2/destornillador.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 315,
+    "nombre": "NEBULIZADOR PORTATIL ADUL/NIÑO USB/PILA",
+    "precio": 18570,
+    "foto": "https://i.postimg.cc/vHmgV6sn/BEBILIZADOR.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 316,
+    "nombre": "CANDADO TRABAMANUBRIO CAFS LOCK",
+    "precio": 10850,
+    "foto": "https://i.postimg.cc/xdV1tXW7/CANDADOMOTO.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 317,
+    "nombre": "FUENTE DE ALIMENTACIÓN 5V 2A",
+    "precio": 3150,
+    "foto": "https://i.postimg.cc/pXnv42YN/FUENTE.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 318,
+    "nombre": "SET DE LLAVE TUBO 46PCS",
+    "precio": 10560,
+    "foto": "https://i.postimg.cc/9QYQgmV6/SETLLAVE.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 319,
+    "nombre": "PARLANTE DUCHA BT COLORES",
+    "precio": 5250,
+    "foto": "https://i.postimg.cc/gkvzrzwv/PARLDUCHA.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 320,
+    "nombre": "CADENA LINGA CON CODIGO 150GR",
+    "precio": 5810,
+    "foto": "https://i.postimg.cc/zvFQZcBK/CADENA.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 321,
+    "nombre": "CABLE PS4 (V8) BOLSITA C/FILTRO 2.2MM",
+    "precio": 1330,
+    "foto": "https://i.postimg.cc/zXDtHpvB/CABLE.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 322,
+    "nombre": "BALANZA DE COCINA 0.1-3000G",
+    "precio": 7700,
+    "foto": "https://i.postimg.cc/xCRG0Dvj/BALANZA.jpg",
+    "categoria": "HOGAR",
     "suspendido": false
   }
 ]
