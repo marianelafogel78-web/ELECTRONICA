@@ -21,7 +21,7 @@
     "precio": 3360,
     "foto": "https://i.postimg.cc/Th8jwQX2/USB.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "precio": 3790,
     "foto": "https://i.postimg.cc/PxSyymsB/cargador5A.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 5,
@@ -141,7 +141,7 @@
     "precio": 3700,
     "foto": "https://i.postimg.cc/43XfHbgL/Whats-App-Image-2025-09-10-at-20-57-09-1.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 19,
@@ -1021,7 +1021,7 @@
     "precio": 3900,
     "foto": "https://i.postimg.cc/QMFTKbmg/Captura-de-pantalla-2025-09-11-175002.png",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 138,
@@ -1090,7 +1090,7 @@
   {
     "id": 148,
     "nombre": "LED-83052 PIZARRA LED MARCADORES 15X15CM",
-    "precio": 9790,
+    "precio": 8550,
     "foto": "https://i.postimg.cc/2S7fq4WY/TABLETA-LED.jpg",
     "categoria": "NIÑOS",
     "suspendido": true
@@ -1197,7 +1197,7 @@
     "precio": 10080,
     "foto": "https://i.postimg.cc/Fz0dP4wM/linternagoma.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 163,
@@ -1212,7 +1212,7 @@
     "nombre": "ADAPTADOR PARA FOCO X 5 UNIDADES",
     "precio": 3745,
     "foto": "https://i.postimg.cc/cCqCLxQr/ADAPTADOR-PARA-FOCO.jpg",
-    "categoria": "ILUMINACION",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
@@ -1229,7 +1229,7 @@
     "precio": 17200,
     "foto": "https://i.postimg.cc/ry9HCGtT/MP3-LED-MAGIC.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 167,
@@ -1237,7 +1237,7 @@
     "precio": 3100,
     "foto": "https://i.postimg.cc/43knNDGb/TMFOC9757.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 168,
@@ -1269,7 +1269,7 @@
     "precio": 14960,
     "foto": "https://i.postimg.cc/XqLf205K/LED-83037.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 172,
@@ -1661,7 +1661,7 @@
     "precio": 19200,
     "foto": "https://i.postimg.cc/xCJxTMBq/HD-71074.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 221,
@@ -1677,7 +1677,7 @@
     "precio": 22990,
     "foto": "https://i.postimg.cc/BvpDNbpb/HD-71022.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 223,
@@ -1778,8 +1778,8 @@
   {
     "id": 235,
     "nombre": "TERMO ACERO 1.2L",
-    "precio": 19990,
-    "foto": "https://i.postimg.cc/SK7mtKKw/TERMO1-2.jpg",
+    "precio": 20500,
+    "foto": "https://i.postimg.cc/hPzMsfV8/termoacero.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
@@ -2275,7 +2275,7 @@
     "id": 299,
     "nombre": "CARGADOR LEGATUS TIPO C 3.4A",
     "precio": 2745,
-    "foto": "https://i.postimg.cc/Z5zS8rQj/cargadortipoc.jpg",
+    "foto": "CARGADOR LEGATUS TIPO C 3.4A",
     "categoria": "CARGADORES",
     "suspendido": false
   },
@@ -2461,6 +2461,30 @@
     "precio": 7700,
     "foto": "https://i.postimg.cc/xCRG0Dvj/BALANZA.jpg",
     "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 323,
+    "nombre": "ZAPATILLA FORMA PELOTA",
+    "precio": 9600,
+    "foto": "https://i.postimg.cc/qvWhpvFG/zapatillaformapelota.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 324,
+    "nombre": "CABLE UNIVERSAL 3 EN 1 IBEK",
+    "precio": 2400,
+    "foto": "https://i.postimg.cc/sgtp2cLL/cablleibek.png",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 325,
+    "nombre": "CARGADOR MICRO 5.0A 2USB C.RAPIDA LEGATUS",
+    "precio": 4245,
+    "foto": "https://i.postimg.cc/PqX8JR4M/Captura-de-pantalla-2026-01-31-143511.png",
+    "categoria": "CARGADORES",
     "suspendido": false
   }
 ]
