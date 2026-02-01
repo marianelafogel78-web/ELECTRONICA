@@ -130,10 +130,10 @@
   {
     "id": 17,
     "nombre": "CARGADOR LEGATUS TIPO C 5.0 2USB",
-    "precio": 3970,
+    "precio": 4250,
     "foto": "https://i.postimg.cc/9FbJpsxN/CARGADOR-LEGATUS.jpg",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 18,
@@ -301,7 +301,7 @@
     "precio": 1380,
     "foto": "https://i.postimg.cc/2yD2C6vZ/Whats-App-Image-2025-09-10-at-20-57-09.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 39,
