@@ -221,7 +221,7 @@
     "precio": 1540,
     "foto": "https://i.postimg.cc/wMK5Yd3B/CABLE-PUNTA-METAL.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 29,
@@ -363,7 +363,7 @@
     "id": 46,
     "nombre": "PARLANTE 3´ BT FM/MP3",
     "precio": 10990,
-    "foto": "https://i.postimg.cc/3rtZ0VtW/PARLANTE.jpg",
+    "foto": "https://i.postimg.cc/bv81YG46/parlante.png",
     "categoria": "PARLANTES",
     "suspendido": false
   },
@@ -540,7 +540,7 @@
     "nombre": "CAÑO PARA DUCHA 50CM AV2640",
     "precio": 3200,
     "foto": "https://i.postimg.cc/3RPY7XYW/B1050.jpg",
-    "categoria": "HOGAR",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
@@ -604,7 +604,7 @@
     "nombre": "PISTOLA DE RIEGO PARA MANGUERA",
     "precio": 8439,
     "foto": "https://i.postimg.cc/QtMngSwy/P550.jpg",
-    "categoria": "HOGAR",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
@@ -612,7 +612,7 @@
     "nombre": "SET DE DUCHA DE MANO",
     "precio": 5400,
     "foto": "https://i.postimg.cc/rsbfGrrX/SH-60.jpg",
-    "categoria": "HOGAR",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
@@ -629,7 +629,7 @@
     "precio": 3500,
     "foto": "https://i.postimg.cc/TYLCGdj3/Captura-de-pantalla-2025-09-11-172211.png",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 89,
@@ -1066,7 +1066,7 @@
   {
     "id": 148,
     "nombre": "PIZARRA LED MARCADORES 15X15CM",
-    "precio": 8550,
+    "precio": 9790,
     "foto": "https://i.postimg.cc/2S7fq4WY/TABLETA-LED.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
@@ -1136,14 +1136,6 @@
     "suspendido": false
   },
   {
-    "id": 158,
-    "nombre": "KIT EJERCITADOR DE MANO",
-    "precio": 10590,
-    "foto": "https://i.postimg.cc/gJgVfzh2/F-121028.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
     "id": 159,
     "nombre": "LUZ MINERA",
     "precio": 5950,
@@ -1163,7 +1155,7 @@
     "id": 161,
     "nombre": "LINTERNA RECARGABLE CON LUPA",
     "precio": 6990,
-    "foto": "https://i.postimg.cc/sXWgBM9T/MIN-LINTERNA.jpg",
+    "foto": "https://i.postimg.cc/fWpG2X3M/linterna.png",
     "categoria": "ILUMINACION",
     "suspendido": false
   },
@@ -1291,7 +1283,7 @@
     "id": 177,
     "nombre": "LUZ DE BICI X2PCS",
     "precio": 2050,
-    "foto": "https://i.postimg.cc/QCcTPZWY/XR-011.jpg",
+    "foto": "https://i.postimg.cc/ZYfHfLXq/luz-bici.png",
     "categoria": "VARIOS",
     "suspendido": false
   },
@@ -1840,14 +1832,6 @@
     "suspendido": false
   },
   {
-    "id": 256,
-    "nombre": "PELOTA MASCOTA C/SONIDO MED.",
-    "precio": 2100,
-    "foto": "https://i.postimg.cc/dthBG2f9/dog.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
     "id": 257,
     "nombre": "PELOTA NRO.5 PERSONAJES",
     "precio": 7900,
@@ -2085,7 +2069,7 @@
     "precio": 11200,
     "foto": "https://i.postimg.cc/DwZgYxDC/humificador.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 287,
@@ -2289,9 +2273,9 @@
   },
   {
     "id": 312,
-    "nombre": "VASO TERMICO 500 ML ACERO",
+    "nombre": "VASO TERMICO 500 ML ACERO C/SENSOR DE TEMPERATURA",
     "precio": 9500,
-    "foto": "https://i.postimg.cc/gjjdfmsX/vaso.png",
+    "foto": "https://i.postimg.cc/sghDHsDf/vasotermico.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
@@ -2403,8 +2387,24 @@
     "id": 326,
     "nombre": "SET ABROCHADORA",
     "precio": 2190,
-    "foto": "https://i.postimg.cc/bNNcVyrn/abrochadora.jpg",
+    "foto": "https://i.postimg.cc/DzSQMW4k/abrochadora.jpg",
     "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 327,
+    "nombre": "PERCHE BICI",
+    "precio": 1050,
+    "foto": "https://i.postimg.cc/QMw99HzD/parche.png",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 328,
+    "nombre": "ADAPTADOR UNIVERSAL PARA CANILLA ANTISALPICADURAS",
+    "precio": 3800,
+    "foto": "https://i.postimg.cc/0QSTxBmP/canilla.png",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   }
 ]
