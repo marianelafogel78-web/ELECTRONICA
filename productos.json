@@ -3,7 +3,7 @@
     "id": 1,
     "nombre": "RECEPTOR BT PARA  AUTO",
     "precio": 2625,
-    "foto": "RECEPTOR BT",
+    "foto": "https://i.postimg.cc/C5nDwTLf/cargadorauto.png",
     "categoria": "CARGADORES",
     "suspendido": false
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "nombre": "CABLE USB C/IPHONE 1M",
     "precio": 2085,
-    "foto": "https://i.postimg.cc/Jh3nHw5m/CABLE1M.jpg",
+    "foto": "https://i.postimg.cc/sfHwysKf/cableiph.png",
     "categoria": "CABLES",
     "suspendido": false
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "nombre": "CARGADOR LEGATUS TIPO C 5.0 2USB",
     "precio": 4250,
-    "foto": "https://i.postimg.cc/9FbJpsxN/CARGADOR-LEGATUS.jpg",
+    "foto": "https://i.postimg.cc/y8sPyx8w/cargadorc.png",
     "categoria": "CARGADORES",
     "suspendido": false
   },
@@ -600,14 +600,6 @@
     "suspendido": false
   },
   {
-    "id": 84,
-    "nombre": "MINI LAVA ROPA PORTATIL USB CON BALDE",
-    "precio": 20165,
-    "foto": "https://i.postimg.cc/fR5wJVDh/MINILAVADORA-DE-ROPA.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
-  },
-  {
     "id": 85,
     "nombre": "PISTOLA DE RIEGO PARA MANGUERA",
     "precio": 8439,
@@ -720,14 +712,6 @@
     "suspendido": false
   },
   {
-    "id": 99,
-    "nombre": "AURICULARES VINCHA C/CABLE",
-    "precio": 7420,
-    "foto": "https://i.postimg.cc/7YB6ZR9C/VIV-23M.jpg",
-    "categoria": "AURICULARES VINCHA",
-    "suspendido": true
-  },
-  {
     "id": 100,
     "nombre": "VINCHA P47 BLUETOOTH S/CABLE AUX",
     "precio": 5710,
@@ -838,14 +822,6 @@
     "foto": "https://i.postimg.cc/Y2YDkKp3/LPL035A.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
     "suspendido": false
-  },
-  {
-    "id": 114,
-    "nombre": "PLANCHA DE PELO DALING 220°C",
-    "precio": 29500,
-    "foto": "https://i.postimg.cc/vHRT0yzV/DL-5241.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": true
   },
   {
     "id": 115,
@@ -1083,17 +1059,17 @@
     "id": 146,
     "nombre": "PELOTA N°2 PERSONAJES MARVEL",
     "precio": 3500,
-    "foto": "https://i.postimg.cc/SxytbC1G/PELOTA-NRO-2.jpg",
+    "foto": "https://i.postimg.cc/RV0QbyBH/pelota2.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
   },
   {
     "id": 148,
-    "nombre": "LED-83052 PIZARRA LED MARCADORES 15X15CM",
+    "nombre": "PIZARRA LED MARCADORES 15X15CM",
     "precio": 8550,
     "foto": "https://i.postimg.cc/2S7fq4WY/TABLETA-LED.jpg",
     "categoria": "NIÑOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 149,
@@ -1107,7 +1083,7 @@
     "id": 150,
     "nombre": "PELOTA DE GOMA",
     "precio": 950,
-    "foto": "https://i.postimg.cc/FK0vCjYG/PELOTA-GOMA.jpg",
+    "foto": "https://i.postimg.cc/Wz0LRzr5/pelotagoma.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
   },
@@ -1496,14 +1472,6 @@
     "suspendido": false
   },
   {
-    "id": 200,
-    "nombre": "ZAPATILLA REDONDA",
-    "precio": 9150,
-    "foto": "https://i.postimg.cc/SRDWm8nP/Whats-App-Image-2025-09-10-at-20-57-03-2.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
-  },
-  {
     "id": 201,
     "nombre": "CONSOLA VIDEO JUEGO 64GB RETRO 2.4G",
     "precio": 45280,
@@ -1632,14 +1600,6 @@
     "suspendido": false
   },
   {
-    "id": 217,
-    "nombre": "MEMORIA DE 128GB SAMSUNG 100MB",
-    "precio": 16590,
-    "foto": "https://i.postimg.cc/h4C6PJh0/UHS-I.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": true
-  },
-  {
     "id": 218,
     "nombre": "MICROFONO INALAMBRICO (M-32006)",
     "precio": 18730,
@@ -1656,28 +1616,12 @@
     "suspendido": false
   },
   {
-    "id": 220,
-    "nombre": "HOLDER ESTABILIZADOR VLOG KIT C/ MICROFONO",
-    "precio": 19200,
-    "foto": "https://i.postimg.cc/xCJxTMBq/HD-71074.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": true
-  },
-  {
     "id": 221,
     "nombre": "LUZ DE SELFIE",
     "precio": 5320,
     "foto": "https://i.postimg.cc/C1FXdwwk/LED-83001.jpg",
     "categoria": "TECNOLOGIA",
     "suspendido": false
-  },
-  {
-    "id": 222,
-    "nombre": "SOPORTE Y ACCESORIOS PARA MICROFONO",
-    "precio": 22990,
-    "foto": "https://i.postimg.cc/BvpDNbpb/HD-71022.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": true
   },
   {
     "id": 223,
@@ -1696,36 +1640,12 @@
     "suspendido": false
   },
   {
-    "id": 225,
-    "nombre": "TV BOX 2+8G TIME",
-    "precio": 39900,
-    "foto": "https://i.postimg.cc/jSqDfbtY/TVB-48021.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": true
-  },
-  {
-    "id": 226,
-    "nombre": "TV BOX 2+8G TIME",
-    "precio": 33460,
-    "foto": "https://i.postimg.cc/XYZtGnty/TVB-48020.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": true
-  },
-  {
     "id": 227,
     "nombre": "KIT AURICULAR Y RELOJ SMART C/MALLA INTERCAMBIABLE",
     "precio": 22680,
     "foto": "https://i.postimg.cc/nzWG0zZv/RELOS-7-MALLAS.jpg",
     "categoria": "RELOJES",
     "suspendido": false
-  },
-  {
-    "id": 228,
-    "nombre": "RELOJ SET SMARTWATCH Y AURICULAR C/ 2 MALLAS",
-    "precio": 20800,
-    "foto": "https://i.postimg.cc/dVDdSFH6/RELOJ-2-MAYAS.jpg",
-    "categoria": "RELOJES",
-    "suspendido": true
   },
   {
     "id": 229,
@@ -1777,7 +1697,7 @@
   },
   {
     "id": 235,
-    "nombre": "TERMO ACERO 1.2L",
+    "nombre": "TERMO ACERO 1.3L",
     "precio": 20500,
     "foto": "https://i.postimg.cc/hPzMsfV8/termoacero.jpg",
     "categoria": "TERMOS Y VASOS",
@@ -1854,14 +1774,6 @@
     "foto": "https://i.postimg.cc/GmYZzJHr/Whats-App-Image-2025-09-10-at-23-33-24-2.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
-  },
-  {
-    "id": 247,
-    "nombre": "VASO TERMICO CON SORBETE 1200ML",
-    "precio": 19150,
-    "foto": "https://i.postimg.cc/6qgz7WYp/ISA-811.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
   },
   {
     "id": 248,
@@ -2077,7 +1989,7 @@
     "precio": 5670,
     "foto": "https://i.postimg.cc/TYGBD92S/SPINERPELO.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 275,
@@ -2275,7 +2187,7 @@
     "id": 299,
     "nombre": "CARGADOR LEGATUS TIPO C 3.4A",
     "precio": 2745,
-    "foto": "CARGADOR LEGATUS TIPO C 3.4A",
+    "foto": "https://i.postimg.cc/bvd1mtcV/cargadorlega.png",
     "categoria": "CARGADORES",
     "suspendido": false
   },
@@ -2299,7 +2211,7 @@
     "id": 302,
     "nombre": "KIT DE MOUSE Y TECLADO INALAMBRICO TIME",
     "precio": 12900,
-    "foto": "KIT DE MOUSE Y TECLADO INALAMBRICO TIME",
+    "foto": "https://i.postimg.cc/prbYSLRG/kitteclado.jpg",
     "categoria": "COMPUTACION",
     "suspendido": false
   },
@@ -2379,7 +2291,7 @@
     "id": 312,
     "nombre": "VASO TERMICO 500 ML ACERO",
     "precio": 9500,
-    "foto": "https://i.postimg.cc/BbKzYvWD/va-SOTERMICO.jpg",
+    "foto": "https://i.postimg.cc/gjjdfmsX/vaso.png",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
@@ -2485,6 +2397,14 @@
     "precio": 4245,
     "foto": "https://i.postimg.cc/PqX8JR4M/Captura-de-pantalla-2026-01-31-143511.png",
     "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 326,
+    "nombre": "SET ABROCHADORA",
+    "precio": 2190,
+    "foto": "https://i.postimg.cc/bNNcVyrn/abrochadora.jpg",
+    "categoria": "LIBRERIA",
     "suspendido": false
   }
 ]
