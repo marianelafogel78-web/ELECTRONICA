@@ -1877,7 +1877,7 @@
     "precio": 7600,
     "foto": "https://i.postimg.cc/tJqqndzy/escurridor.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 263,
