@@ -96,14 +96,6 @@
     "suspendido": false
   },
   {
-    "id": 13,
-    "nombre": "CARGADOR DE AUTO PD 20W+ QC 3.0",
-    "precio": 3850,
-    "foto": "https://i.postimg.cc/vHRNJ8fX/CAR-53001.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
-  },
-  {
     "id": 14,
     "nombre": "CARGADOR PUXIDA IPHONE 4.2",
     "precio": 5347,
@@ -392,22 +384,6 @@
     "suspendido": false
   },
   {
-    "id": 50,
-    "nombre": "PARLANTE BT 4X2 PLG C/MICROFONO MP3/FM",
-    "precio": 30600,
-    "foto": "https://i.postimg.cc/Z5r5wzzp/PARLANTE.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": true
-  },
-  {
-    "id": 51,
-    "nombre": "PARLANTE PROYECTOR BT GALAXIA",
-    "precio": 18200,
-    "foto": "https://i.postimg.cc/zBwZHmFn/BT-21005.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": true
-  },
-  {
     "id": 52,
     "nombre": "FOCO PARLANTE BT C/CONTROL OLP",
     "precio": 7050,
@@ -440,22 +416,6 @@
     "suspendido": false
   },
   {
-    "id": 58,
-    "nombre": "PARLANTE C/MICROFONO 4PLG",
-    "precio": 14270,
-    "foto": "https://i.postimg.cc/3RhS0kRw/KTS-1916.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": true
-  },
-  {
-    "id": 59,
-    "nombre": "PARLANTE K12 CON 2 MICROFONO Y RELOJ SMART OK-2",
-    "precio": 29950,
-    "foto": "https://i.postimg.cc/pdbk3mKB/H83.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": true
-  },
-  {
     "id": 60,
     "nombre": "PARLANTE KARAOKE CON MICROFONO 4PLG",
     "precio": 14270,
@@ -470,14 +430,6 @@
     "foto": "https://i.postimg.cc/85tJ7Nzj/Whats-App-Image-2025-08-29-at-09-32-36.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
-  },
-  {
-    "id": 62,
-    "nombre": "JUEGO DE CUCHILLOS",
-    "precio": 11200,
-    "foto": "https://i.postimg.cc/Dw3K6zyj/JUEGOCUCHILLOS.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
   },
   {
     "id": 64,
@@ -584,14 +536,6 @@
     "suspendido": false
   },
   {
-    "id": 81,
-    "nombre": "JARRA PAVA ELECTRICA DE VIDRIO 2L 1500W",
-    "precio": 26100,
-    "foto": "https://i.postimg.cc/TPFh62g2/OR-JV1500.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
-  },
-  {
     "id": 83,
     "nombre": "MATE CLASICO NEO 150ML NEO-",
     "precio": 7780,
@@ -622,14 +566,6 @@
     "foto": "https://i.postimg.cc/N0GwV6Z1/G262-9-02.jpg",
     "categoria": "HOGAR",
     "suspendido": false
-  },
-  {
-    "id": 88,
-    "nombre": "SET X3 PELA PAPAS/DESTAPADOR/CUCHILLA",
-    "precio": 3500,
-    "foto": "https://i.postimg.cc/TYLCGdj3/Captura-de-pantalla-2025-09-11-172211.png",
-    "categoria": "HOGAR",
-    "suspendido": true
   },
   {
     "id": 89,
@@ -952,14 +888,6 @@
     "suspendido": false
   },
   {
-    "id": 132,
-    "nombre": "LAMPARA MATAMOSQUITO",
-    "precio": 5400,
-    "foto": "https://i.postimg.cc/0jMwQXMB/LAMP-MATA-MOSQUITOS.jpg",
-    "categoria": "VARIOS",
-    "suspendido": true
-  },
-  {
     "id": 133,
     "nombre": "HOLDER PARA BICI",
     "precio": 2930,
@@ -990,14 +918,6 @@
     "foto": "https://i.postimg.cc/mDGgtznk/K-MH500.jpg",
     "categoria": "VARIOS",
     "suspendido": false
-  },
-  {
-    "id": 137,
-    "nombre": "CALENTADOR AGUA 12V. AUTO",
-    "precio": 3900,
-    "foto": "https://i.postimg.cc/QMFTKbmg/Captura-de-pantalla-2025-09-11-175002.png",
-    "categoria": "VARIOS",
-    "suspendido": true
   },
   {
     "id": 138,
@@ -1190,14 +1110,6 @@
     "foto": "https://i.postimg.cc/QdCp8wLC/TMFOC9751.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
-  },
-  {
-    "id": 166,
-    "nombre": "BOLA MEDIA ESFERA BLUETOOTH/MP3-USB",
-    "precio": 17200,
-    "foto": "https://i.postimg.cc/ry9HCGtT/MP3-LED-MAGIC.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
   },
   {
     "id": 167,
@@ -1966,14 +1878,6 @@
     "foto": "https://i.postimg.cc/Z5fkZdSN/PELO.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
-  },
-  {
-    "id": 274,
-    "nombre": "PELOTA SPINER VOLADOR",
-    "precio": 5670,
-    "foto": "https://i.postimg.cc/TYGBD92S/SPINERPELO.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": true
   },
   {
     "id": 275,
