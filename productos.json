@@ -96,30 +96,6 @@
     "suspendido": false
   },
   {
-    "id": 14,
-    "nombre": "CARGADOR PUXIDA IPHONE 4.2",
-    "precio": 5347,
-    "foto": "https://i.postimg.cc/MH2rXtkX/Whats-App-Image-2025-09-10-at-20-57-10-2.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
-  },
-  {
-    "id": 15,
-    "nombre": "CARGADOR PUXIDA TIPO C 3.1",
-    "precio": 4080,
-    "foto": "https://i.postimg.cc/g2s95CCs/Whats-App-Image-2025-09-10-at-20-57-10.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
-  },
-  {
-    "id": 16,
-    "nombre": "CARGADOR PUXIDA V8 3.1",
-    "precio": 3850,
-    "foto": "https://i.postimg.cc/025bhs3X/Whats-App-Image-2025-09-10-at-23-33-24.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
-  },
-  {
     "id": 17,
     "nombre": "CARGADOR LEGATUS TIPO C 5.0 2USB",
     "precio": 4250,
@@ -209,11 +185,11 @@
   },
   {
     "id": 28,
-    "nombre": "CAB-41011 CABLE TIPO C PUNTA DE METAL",
+    "nombre": " CABLE TIPO C PUNTA DE METAL",
     "precio": 1540,
     "foto": "https://i.postimg.cc/wMK5Yd3B/CABLE-PUNTA-METAL.jpg",
     "categoria": "CABLES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 29,
@@ -845,7 +821,7 @@
     "precio": 1950,
     "foto": "https://i.postimg.cc/d1cwYkDw/PEINEX2.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 126,
@@ -853,7 +829,7 @@
     "precio": 1390,
     "foto": "https://i.postimg.cc/8PSJHcbw/PEINEX1.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 127,
@@ -937,7 +913,7 @@
   },
   {
     "id": 140,
-    "nombre": "OR-0156 PILAS AAA X 60 UNIDADES",
+    "nombre": " PILAS AAA X 60 UNIDADES",
     "precio": 10407,
     "foto": "https://i.postimg.cc/3wdMKSRZ/EEL0140.jpg",
     "categoria": "VARIOS",
@@ -1217,7 +1193,7 @@
   },
   {
     "id": 180,
-    "nombre": "CADENA LINGA CON CANDADO PARA MOTO /BIC",
+    "nombre": "CANDADO CADENA PARA MOTO /BIC",
     "precio": 13270,
     "foto": "https://i.postimg.cc/J09K4h21/LINGA.jpg",
     "categoria": "HERRAMIENTAS",
@@ -1225,7 +1201,7 @@
   },
   {
     "id": 181,
-    "nombre": "CANDADO 20MM EN CAJITA",
+    "nombre": "CANDADO 20MM EN CAJA",
     "precio": 925,
     "foto": "https://i.postimg.cc/jdHv7zmY/K20MM.jpg",
     "categoria": "HERRAMIENTAS",
@@ -1233,7 +1209,7 @@
   },
   {
     "id": 182,
-    "nombre": "CANDADO CHICO 38MM",
+    "nombre": "CANDADO 38MM",
     "precio": 1575,
     "foto": "https://i.postimg.cc/vHhfyXCT/0360.jpg",
     "categoria": "HERRAMIENTAS",
@@ -1241,7 +1217,7 @@
   },
   {
     "id": 183,
-    "nombre": "CANDADO EN CAJA 50MM GW-50L",
+    "nombre": "CANDADO 50MM EN CAJA",
     "precio": 2190,
     "foto": "https://i.postimg.cc/tgKVkcnS/C265.jpg",
     "categoria": "HERRAMIENTAS",
@@ -1329,7 +1305,7 @@
   },
   {
     "id": 194,
-    "nombre": "LINGA PARA BICI/MOTO",
+    "nombre": "CANDADO LINGA PARA BICI/MOTO",
     "precio": 5040,
     "foto": "https://i.postimg.cc/5yvnmFYF/lingamoto.jpg",
     "categoria": "HERRAMIENTAS",
@@ -1593,7 +1569,7 @@
   },
   {
     "id": 234,
-    "nombre": "BOTELLA DE ALUMINIO DOBLE CAPA",
+    "nombre": "BOTELLA DE ALUMINIO DOBLE TAPA",
     "precio": 6300,
     "foto": "https://i.postimg.cc/y8yXgJSL/botellaaliminio.png",
     "categoria": "TERMOS Y VASOS",
@@ -1633,7 +1609,7 @@
   },
   {
     "id": 240,
-    "nombre": "BOTELLA AGUA 500ML",
+    "nombre": "BOTELLA  500ML",
     "precio": 13200,
     "foto": "https://i.postimg.cc/W183nfXL/Whats-App-Image-2025-09-10-at-23-33-21.jpg",
     "categoria": "TERMOS Y VASOS",
@@ -1665,7 +1641,7 @@
   },
   {
     "id": 244,
-    "nombre": "TERMO DE 500ML SPORT",
+    "nombre": "BOTELLA DE 500ML SPORT",
     "precio": 14230,
     "foto": "https://i.postimg.cc/XJyvsMZZ/FLK1543.jpg",
     "categoria": "TERMOS Y VASOS",
@@ -1780,7 +1756,7 @@
     "nombre": "VELADOR TOUCH 3 TONOS MELECH-",
     "precio": 9660,
     "foto": "https://i.postimg.cc/qMph2yvW/velador.jpg",
-    "categoria": "HOGAR",
+    "categoria": "ILUMINACION",
     "suspendido": false
   },
   {
@@ -1796,7 +1772,7 @@
     "nombre": "VELADOR DE COLORES RECARGABLE C/SOPORTE CELU",
     "precio": 6860,
     "foto": "https://i.postimg.cc/m2Kv0NFk/veladorsopor.jpg",
-    "categoria": "HOGAR",
+    "categoria": "ILUMINACION",
     "suspendido": false
   },
   {
@@ -2040,14 +2016,6 @@
     "suspendido": false
   },
   {
-    "id": 295,
-    "nombre": "BOTELLA DEPORTIVA CON PARLANTE",
-    "precio": 15330,
-    "foto": "https://i.postimg.cc/bNYdQWD5/botellpar.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
-  },
-  {
     "id": 296,
     "nombre": "CARGADOR DE NOTEBOOK C/FICHA LENOVO",
     "precio": 11200,
@@ -2096,24 +2064,8 @@
     "suspendido": false
   },
   {
-    "id": 302,
-    "nombre": "KIT DE MOUSE Y TECLADO INALAMBRICO TIME",
-    "precio": 12900,
-    "foto": "https://i.postimg.cc/prbYSLRG/kitteclado.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
-  },
-  {
-    "id": 303,
-    "nombre": "RADIO VINTAGE BT/FM/MP3 RECARGABLE",
-    "precio": 7500,
-    "foto": "https://i.postimg.cc/gJ2XY9qV/radiovinage.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 304,
-    "nombre": "ALARGUE USB",
+    "nombre": "ZAPATILLA USB",
     "precio": 12460,
     "foto": "https://i.postimg.cc/x8tqh6bM/alargueusb.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2161,7 +2113,7 @@
   },
   {
     "id": 310,
-    "nombre": "MINI ZAPATILLA CARGADOR RACK CHARGER 66W",
+    "nombre": " ZAPATILLA CARGADOR RACK CHARGER 66W",
     "precio": 6860,
     "foto": "https://i.postimg.cc/bNSVprB0/minizapa.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2241,7 +2193,7 @@
   },
   {
     "id": 320,
-    "nombre": "CADENA LINGA CON CODIGO 150GR",
+    "nombre": "CANDADO LINGA CON CODIGO 150GR",
     "precio": 5810,
     "foto": "https://i.postimg.cc/zvFQZcBK/CADENA.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2309,6 +2261,38 @@
     "precio": 3800,
     "foto": "https://i.postimg.cc/0QSTxBmP/canilla.png",
     "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1772715449206,
+    "nombre": "CABLE HDMI MALLADO 3MM",
+    "precio": 2610,
+    "foto": "https://i.postimg.cc/t46yWFNr/HDMI3MM.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 1772715591964,
+    "nombre": "CARGADOR V8 3.1 TIME CABLE DESMONTABLE ",
+    "precio": 1990,
+    "foto": "https://i.postimg.cc/dQ7qJMZH/CARGADOR.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1772715708321,
+    "nombre": "SECADOR DE PELO 2000W 80000 RPM ONICA",
+    "precio": 15360,
+    "foto": "https://i.postimg.cc/h4mHCKdB/SECCADOR.jpg",
+    "categoria": "ACCESORIOS FEMENINOS",
+    "suspendido": false
+  },
+  {
+    "id": 1772715810223,
+    "nombre": "BOTELLA TERMICA SPORT 500ML",
+    "precio": 13230,
+    "foto": "https://i.postimg.cc/HntzfvmX/BOTELLA.jpg",
+    "categoria": "TERMOS Y VASOS",
     "suspendido": false
   }
 ]
