@@ -223,11 +223,17 @@
 </header>
 
     <main id="app-main">
-        <div class="tabs">
-            <button id="tab-tienda" class="tab-button active" onclick="mostrarPestana('tienda', event)">🛍️ TIENDA</button>
-            <button id="tab-carrito" class="tab-button" onclick="mostrarPestana('carrito', event)">🛒 CARRITO (<span id="carrito-count">0</span>)</button>
-            <button id="tab-admin" class="tab-button" onclick="mostrarPestana('admin', event)">🔑 ADMIN</button>
-        </div>
+        <div class="tabs" style="position: sticky; top: 0; z-index: 100; background-color: var(--color-fondo); display: flex; justify-content: space-around; padding: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <button id="tab-tienda" class="tab-button active" onclick="mostrarPestana('tienda', event)" title="TIENDA" style="flex: 1; margin: 0 5px; font-size: 1.5em;">🛍️</button>
+    
+    <button id="tab-carrito" class="tab-button" onclick="mostrarPestana('carrito', event)" title="CARRITO" style="flex: 1; margin: 0 5px; font-size: 1.5em; position: relative;">
+        🛒<span id="carrito-count" style="position: absolute; top: -5px; right: -5px; background: red; color: white; border-radius: 50%; padding: 2px 6px; font-size: 0.6em;">0</span>
+    </button>
+    
+    <button id="tab-admin" class="tab-button" onclick="mostrarPestana('admin', event)" title="ADMIN" style="flex: 1; margin: 0 5px; font-size: 1.5em;">🔑</button>
+    
+    <button class="tab-button" onclick="abrirAyuda()" title="AYUDA" style="flex: 1; margin: 0 5px; font-size: 1.5em; background-color: white; border: 1px solid var(--color-acento); color: var(--color-acento);">❓</button>
+</div>
 
         <div id="tienda-panel" class="tab-content">
             <section id="productos-seccion">
@@ -807,6 +813,70 @@
             document.getElementById('form-categoria')?.addEventListener('submit', gestionarFormularioCategoria);
             document.getElementById('buscador-admin')?.addEventListener('input', filtrarYRenderizarProductos);
         };
+function abrirAyuda() {
+    Swal.fire({
+        title: '<span style="color: #191970;">AYUDA Y PREGUNTAS</span>',
+        html: `
+            <div style="text-align: left; font-size: 14px; text-transform: none;">
+                <details style="margin-bottom: 10px; border-bottom: 1px solid #DDA0DD; padding-bottom: 5px;">
+                    <summary style="font-weight: bold; color: #191970; cursor: pointer;">¿CÓMO HAGO MI PEDIDO?</summary>
+                    <p style="margin-top: 5px;">Navegá la tienda, agregá tus productos al carrito y, al finalizar, tocá el botón verde. Se abrirá tu WhatsApp con el detalle listo para enviarnos. ¡Te responderemos al instante!</p>
+                </details>
+
+                <details style="margin-bottom: 10px; border-bottom: 1px solid #DDA0DD; padding-bottom: 5px;">
+                    <summary style="font-weight: bold; color: #191970; cursor: pointer;">¿TIENE COSTO EL ENVÍO Y CUÁNTO TARDA?</summary>
+                    <p style="margin-top: 5px;">En <b>Río Tercero y zona el envío es GRATIS</b>. Coordinamos la entrega con vos para que recibas tu pedido en un máximo de 7 días hábiles.</p>
+                </details>
+
+                <details style="margin-bottom: 10px; border-bottom: 1px solid #DDA0DD; padding-bottom: 5px;">
+                    <summary style="font-weight: bold; color: #191970; cursor: pointer;">¿CUÁNDO Y CÓMO PAGO MI COMPRA?</summary>
+                    <p style="margin-top: 5px;">Pagás recién cuando recibís el pedido en tu mano. Aceptamos efectivo o transferencia bancaria al momento de la entrega.</p>
+                </details>
+
+                <details style="margin-bottom: 10px; border-bottom: 1px solid #DDA0DD; padding-bottom: 5px;">
+                    <summary style="font-weight: bold; color: #191970; cursor: pointer;">¿QUÉ PASA SI UN PRODUCTO TIENE UNA FALLA?</summary>
+                    <p style="margin-top: 5px;">Comprá con total seguridad. Todos nuestros artículos tienen <b>garantía de cambio por 30 días</b> si presentan alguna falla de fábrica.</p>
+                </details>
+
+                <details style="margin-bottom: 10px; border-bottom: 1px solid #DDA0DD; padding-bottom: 5px;">
+                    <summary style="font-weight: bold; color: #191970; cursor: pointer;">¿DUDAS SOBRE QUÉ CABLE O CARGADOR LLEVAR?</summary>
+                    <p style="margin-top: 5px;">¡Evitá errores! Consultá nuestra guía rápida de fichas y potencias aquí mismo para llevar lo que realmente necesitás:</p>
+                    <button id="btn-ver-guia" 
+                            style="background-color: #191970; color: white; border: none; padding: 12px; border-radius: 8px; font-size: 13px; cursor: pointer; margin-top: 10px; width: 100%; font-weight: bold;">
+                        VER GUÍA DE PRODUCTOS 📱
+                    </button>
+                </details>
+
+                <p style="margin-top: 20px; font-weight: bold; text-align: center; color: #191970;">¿TENÉS OTRA CONSULTA?</p>
+                <p style="text-align: center;">¡No te quedes con la duda! Escribinos directamente por WhatsApp y te asesoramos personalmente.</p>
+            </div>
+        `,
+        showConfirmButton: true,
+        confirmButtonText: 'CERRAR',
+        confirmButtonColor: '#191970',
+        background: '#F8F8FF',
+        didOpen: () => {
+            const boton = document.getElementById('btn-ver-guia');
+            if (boton) {
+                boton.onclick = function() {
+                    verFotoGuia();
+                };
+            }
+        }
+    });
+}
+
+function verFotoGuia() {
+    // Usamos el nombre del archivo directo, sin URLs largas de GitHub
+    Swal.fire({
+        imageUrl: 'guia-tecnica.png',
+        imageAlt: 'Guía Técnica JM Electrónica',
+        width: '95%',
+        confirmButtonText: 'ENTENDIDO',
+        confirmButtonColor: '#191970'
+    });
+}
+
     </script>
 </body>
 </html>
