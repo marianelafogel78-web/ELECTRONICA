@@ -8,14 +8,6 @@
     "suspendido": false
   },
   {
-    "id": 2,
-    "nombre": "CABLE USB C/IPHONE 1M",
-    "precio": 2085,
-    "foto": "https://i.postimg.cc/sfHwysKf/cableiph.png",
-    "categoria": "CABLES",
-    "suspendido": false
-  },
-  {
     "id": 3,
     "nombre": "USB EXTENDER",
     "precio": 3360,
@@ -25,11 +17,11 @@
   },
   {
     "id": 4,
-    "nombre": "CARGADOR RAPIDO ROYALCELL 5.0A",
-    "precio": 3790,
+    "nombre": "CARGADOR RAPIDO TIPO C ROYALCELL 5.0A",
+    "precio": 3690,
     "foto": "https://i.postimg.cc/PxSyymsB/cargador5A.jpg",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 5,
@@ -109,7 +101,7 @@
     "precio": 3700,
     "foto": "https://i.postimg.cc/43XfHbgL/Whats-App-Image-2025-09-10-at-20-57-09-1.jpg",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 19,
@@ -301,7 +293,7 @@
     "precio": 2600,
     "foto": "https://i.postimg.cc/2SsWstnq/Captura-de-pantalla-2025-09-11-194526.png",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 43,
@@ -2293,6 +2285,38 @@
     "precio": 13230,
     "foto": "https://i.postimg.cc/HntzfvmX/BOTELLA.jpg",
     "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773349731406,
+    "nombre": "CABLE TIPO 8 PARA TV,CONSOLAS,RADIOS, NOTBOOKS",
+    "precio": 1920,
+    "foto": "https://i.postimg.cc/2yvpkscd/CABLE-UNIV.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 1773349888164,
+    "nombre": "TRIPODE DE METAL CELULAR HASTA 1.10M",
+    "precio": 7140,
+    "foto": "https://i.postimg.cc/Y07RFT2C/TRIPODE.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false
+  },
+  {
+    "id": 1773350853912,
+    "nombre": "CARGADOR LIGHTNING ROYALCELL",
+    "precio": 3700,
+    "foto": "https://i.postimg.cc/vBrjCrcg/CARGADORLIGH.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1773351313834,
+    "nombre": "CABLE LIGHTNING 1M ROYALCELL",
+    "precio": 1396,
+    "foto": "https://i.postimg.cc/1RT6bk1v/CABLELIGH.jpg",
+    "categoria": "CABLES",
     "suspendido": false
   }
 ]
