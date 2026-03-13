@@ -2318,5 +2318,21 @@
     "foto": "https://i.postimg.cc/1RT6bk1v/CABLELIGH.jpg",
     "categoria": "CABLES",
     "suspendido": false
+  },
+  {
+    "id": 1773420158144,
+    "nombre": "SET PARRILLA 16 PS",
+    "precio": 25150,
+    "foto": "https://i.postimg.cc/SRCT0zkR/SETPARRILLA.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1773420329836,
+    "nombre": "SET BOLS 3 UNIDADES DE VIDRIO C/TAPAS HERMETICAS",
+    "precio": 18500,
+    "foto": "https://i.postimg.cc/8ztyVGQp/SETBOLS.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
   }
 ]
