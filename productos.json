@@ -2306,8 +2306,8 @@
   {
     "id": 1773350853912,
     "nombre": "CARGADOR LIGHTNING ROYALCELL",
-    "precio": 3700,
-    "foto": "https://i.postimg.cc/vBrjCrcg/CARGADORLIGH.jpg",
+    "precio": 3850,
+    "foto": "https://i.postimg.cc/sXBhf5GK/CARGA.png",
     "categoria": "CARGADORES",
     "suspendido": false
   },
@@ -2333,6 +2333,14 @@
     "precio": 18500,
     "foto": "https://i.postimg.cc/8ztyVGQp/SETBOLS.jpg",
     "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1773690530862,
+    "nombre": "CABLE TIPO C IPHONE 1M",
+    "precio": 2250,
+    "foto": "https://i.postimg.cc/Z5yPmmZ9/iphn.jpg",
+    "categoria": "CABLES",
     "suspendido": false
   }
 ]
