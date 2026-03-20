@@ -29,7 +29,7 @@
     "precio": 6267,
     "foto": "https://i.postimg.cc/MpXSgkBn/AURI-ULTRA-PRO.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 6,
@@ -329,7 +329,7 @@
   },
   {
     "id": 47,
-    "nombre": "MINI PARLANTE 3´ GTS2166",
+    "nombre": "PARLANTE 3´ GTS2166",
     "precio": 5800,
     "foto": "https://i.postimg.cc/9fVbJ69C/PARLAN.png",
     "categoria": "PARLANTES",
@@ -352,16 +352,8 @@
     "suspendido": false
   },
   {
-    "id": 52,
-    "nombre": "FOCO PARLANTE BT C/CONTROL OLP",
-    "precio": 7050,
-    "foto": "https://i.postimg.cc/gJw1FNs6/YJD12WC.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 53,
-    "nombre": "MINI PARLANTE Y MICROFONO K52",
+    "nombre": "PARLANTE Y MICROFONO K52",
     "precio": 12550,
     "foto": "https://i.postimg.cc/Gt7vzL1M/MINIPARLANTEY-MICRO.jpg",
     "categoria": "PARLANTES",
@@ -384,35 +376,11 @@
     "suspendido": false
   },
   {
-    "id": 60,
-    "nombre": "PARLANTE KARAOKE CON MICROFONO 4PLG",
-    "precio": 14270,
-    "foto": "https://i.postimg.cc/C5zjR0j1/KTS-2010.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": true
-  },
-  {
     "id": 61,
     "nombre": "PARLANTE LUZ LED Y CARGADOR INALAMBRICO PARA CELULAR",
     "precio": 16500,
     "foto": "https://i.postimg.cc/85tJ7Nzj/Whats-App-Image-2025-08-29-at-09-32-36.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 64,
-    "nombre": "DISPENSER DE AGUA AUTOMATICO PORTATIL",
-    "precio": 7720,
-    "foto": "https://i.postimg.cc/x8Y5PMJx/BB-91022.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 65,
-    "nombre": "RAQUETA MATA MOSQUITO RECARGABLE",
-    "precio": 6920,
-    "foto": "https://i.postimg.cc/59Xfbmyg/QR-91028.jpg",
-    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -432,14 +400,6 @@
     "suspendido": false
   },
   {
-    "id": 68,
-    "nombre": "ANAFE PORTATIL DE CAMPING K-202",
-    "precio": 11490,
-    "foto": "https://i.postimg.cc/28TbMwKw/ZT-202.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 69,
     "nombre": "BALANZA COCINA 10KG",
     "precio": 5970,
@@ -453,14 +413,6 @@
     "precio": 11690,
     "foto": "https://i.postimg.cc/66fy4ctX/BL-91057.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 75,
-    "nombre": "CAÑO PARA DUCHA 50CM AV2640",
-    "precio": 3200,
-    "foto": "https://i.postimg.cc/3RPY7XYW/B1050.jpg",
-    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
@@ -484,14 +436,6 @@
     "nombre": "ENCENDEDOR RECARGABLE USB",
     "precio": 5700,
     "foto": "https://i.postimg.cc/hPvPtwhj/JL-897-2.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 79,
-    "nombre": "EXPRIMIDOR ELECTRICO ORYX 0.7 LTS",
-    "precio": 17380,
-    "foto": "https://i.postimg.cc/rFf0hxRd/OR-JU601.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -582,14 +526,6 @@
     "foto": "https://i.postimg.cc/Mp9BPwPx/AURIKK607.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
-  },
-  {
-    "id": 95,
-    "nombre": "AURICULAR INALAMBRICOS JK-603",
-    "precio": 6652,
-    "foto": "https://i.postimg.cc/PqSK3TQX/JK603.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
   },
   {
     "id": 96,
@@ -690,7 +626,7 @@
   {
     "id": 109,
     "nombre": "CEPILLO ALISADOR DE PELO ONICA",
-    "precio": 16650,
+    "precio": 14150,
     "foto": "https://i.postimg.cc/qMKW8Sn5/OA-CP202.jpg",
     "categoria": "ACCESORIOS FEMENINOS",
     "suspendido": false
@@ -798,30 +734,6 @@
     "foto": "https://i.postimg.cc/qR00LcQV/CRT-110017.jpg",
     "categoria": "ACCESORIOS MASCULINOS",
     "suspendido": false
-  },
-  {
-    "id": 124,
-    "nombre": "PEINE X4",
-    "precio": 3790,
-    "foto": "https://i.postimg.cc/k5dpMxNj/PEINEX4.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
-  },
-  {
-    "id": 125,
-    "nombre": "PEINE X2",
-    "precio": 1950,
-    "foto": "https://i.postimg.cc/d1cwYkDw/PEINEX2.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": true
-  },
-  {
-    "id": 126,
-    "nombre": "PEINE X 1",
-    "precio": 1390,
-    "foto": "https://i.postimg.cc/8PSJHcbw/PEINEX1.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": true
   },
   {
     "id": 127,
@@ -984,14 +896,6 @@
     "suspendido": false
   },
   {
-    "id": 152,
-    "nombre": "SET DE LIBRO DE COLOR",
-    "precio": 12750,
-    "foto": "https://i.postimg.cc/Rhy9ScmN/NI-OS.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": false
-  },
-  {
     "id": 153,
     "nombre": "VENTILADOR RECARGABLE HR2490",
     "precio": 5600,
@@ -1005,14 +909,6 @@
     "precio": 7450,
     "foto": "https://i.postimg.cc/Hng277Xm/BOLA-LED.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
-    "id": 156,
-    "nombre": "VELADOR BROCHE PINZA",
-    "precio": 7795,
-    "foto": "https://i.postimg.cc/R0hDKXjb/VEL-81053.jpg",
-    "categoria": "ILUMINACION",
     "suspendido": false
   },
   {
@@ -1048,14 +944,6 @@
     "suspendido": false
   },
   {
-    "id": 162,
-    "nombre": "LINTERNA 9 LED GOMA X 6 UNIDADES",
-    "precio": 10080,
-    "foto": "https://i.postimg.cc/Fz0dP4wM/linternagoma.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
-  },
-  {
     "id": 163,
     "nombre": "LINTERNA 9LED X 6 UNIDADES",
     "precio": 7140,
@@ -1080,14 +968,6 @@
     "suspendido": false
   },
   {
-    "id": 167,
-    "nombre": "FOCO ESTRELLA GIRATORIO",
-    "precio": 3100,
-    "foto": "https://i.postimg.cc/43knNDGb/TMFOC9757.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
-  },
-  {
     "id": 168,
     "nombre": "LAMPARA ATARDECER",
     "precio": 7420,
@@ -1110,14 +990,6 @@
     "foto": "https://i.postimg.cc/ZqSr20z7/LUZ-EMERGENCIA-60LED.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
-  },
-  {
-    "id": 171,
-    "nombre": "PROYECTOR ASTRONAUTA GALAXIA LASER",
-    "precio": 14960,
-    "foto": "https://i.postimg.cc/XqLf205K/LED-83037.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
   },
   {
     "id": 172,
@@ -1552,14 +1424,6 @@
     "suspendido": false
   },
   {
-    "id": 233,
-    "nombre": "VASO TERMICO C/BOMBILLA",
-    "precio": 8400,
-    "foto": "https://i.postimg.cc/J4KDXSQQ/vasorosa.png",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
     "id": 234,
     "nombre": "BOTELLA DE ALUMINIO DOBLE TAPA",
     "precio": 6300,
@@ -1581,7 +1445,7 @@
     "precio": 16900,
     "foto": "https://i.postimg.cc/15nVSdwg/VASO-U-PARLAMTE.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 237,
@@ -1616,20 +1480,12 @@
     "suspendido": false
   },
   {
-    "id": 242,
-    "nombre": "BOTELLA DE SILICONA PLEGABLES",
-    "precio": 4950,
-    "foto": "https://i.postimg.cc/50rKq65D/Captura-de-pantalla-2025-09-11-173540.png",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
     "id": 243,
     "nombre": "BOTELLA TERMO 500ML C/TERMOMETRO LED",
     "precio": 7970,
     "foto": "https://i.postimg.cc/XNTJJWBv/EX00016.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 244,
@@ -1717,7 +1573,7 @@
     "precio": 7900,
     "foto": "https://i.postimg.cc/TwkVD1JP/pelo.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 258,
@@ -1766,14 +1622,6 @@
     "foto": "https://i.postimg.cc/m2Kv0NFk/veladorsopor.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
-  },
-  {
-    "id": 264,
-    "nombre": "LAMPARA MATA POSQUITOS",
-    "precio": 13990,
-    "foto": "https://i.postimg.cc/wMMBbcRW/lampmosq.jpg",
-    "categoria": "VARIOS",
-    "suspendido": true
   },
   {
     "id": 265,
@@ -1853,7 +1701,7 @@
     "precio": 7550,
     "foto": "https://i.postimg.cc/sXdTRjvH/PELOMESSI.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 276,
@@ -1861,7 +1709,7 @@
     "precio": 7840,
     "foto": "https://i.postimg.cc/MK2qrV6X/PELONRO5.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 277,
@@ -1920,14 +1768,6 @@
     "suspendido": false
   },
   {
-    "id": 284,
-    "nombre": "CARTEL KIOSKO",
-    "precio": 14520,
-    "foto": "https://i.postimg.cc/1tgbh9jD/cartel.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
     "id": 285,
     "nombre": "CINTA DE TEFLON 12MM 10M",
     "precio": 1390,
@@ -1937,11 +1777,11 @@
   },
   {
     "id": 286,
-    "nombre": "HUMIDIFICADOR LED AROMATIZADOR",
-    "precio": 11200,
-    "foto": "https://i.postimg.cc/DwZgYxDC/humificador.jpg",
+    "nombre": "HUMIDIFICADOR AROMATIZADOR",
+    "precio": 7980,
+    "foto": "https://i.postimg.cc/NGSn6y4z/humificador.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 287,
@@ -2241,7 +2081,7 @@
   },
   {
     "id": 327,
-    "nombre": "PERCHE BICI",
+    "nombre": "PARCHE BICI",
     "precio": 1050,
     "foto": "https://i.postimg.cc/QMw99HzD/parche.png",
     "categoria": "HERRAMIENTAS",
@@ -2341,6 +2181,78 @@
     "precio": 2250,
     "foto": "https://i.postimg.cc/Z5yPmmZ9/iphn.jpg",
     "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 1774041084929,
+    "nombre": "ESCURRIDOR SECA PLATOS DE ACERO ",
+    "precio": 20790,
+    "foto": "https://i.postimg.cc/65fDtb9B/escurridorplatos.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1774041228620,
+    "nombre": "LINTERNA LED RECARGABLE",
+    "precio": 5960,
+    "foto": "https://i.postimg.cc/Qxf0f28T/linternaled.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1774041401666,
+    "nombre": "MOPA TRAPEADORA Y BALDE",
+    "precio": 14420,
+    "foto": "https://i.postimg.cc/3NJ2pwDV/mopa.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1774041520872,
+    "nombre": "PARLANTE 3PLG BLUETOOHT/FM/MP3",
+    "precio": 5880,
+    "foto": "https://i.postimg.cc/gcSZQmhk/parlante3.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1774041700222,
+    "nombre": "LUZ LINTERNA PARA BICICLETA",
+    "precio": 2520,
+    "foto": "https://i.postimg.cc/FRKKVkDz/luzlintbici.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1774042383398,
+    "nombre": "TERMO ELECTRICO C/MATE 1200M",
+    "precio": 47900,
+    "foto": "https://i.postimg.cc/157b8nqP/termielec.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1774043030766,
+    "nombre": "HUMIDIFICADOR IDEAL AUTO ",
+    "precio": 9300,
+    "foto": "https://i.postimg.cc/BbKMYggV/humificadorauto.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1774043145756,
+    "nombre": "HUMIDIFICADOR VOLCAN",
+    "precio": 7300,
+    "foto": "https://i.postimg.cc/pVFCtsff/humificadorvolcan.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1774043900484,
+    "nombre": "DISPENSER DE DETERGENTE C/PORTA ESPONJA",
+    "precio": 11975,
+    "foto": "https://i.postimg.cc/P5jTMV48/ESCURRIDORDETER.jpg",
+    "categoria": "HOGAR",
     "suspendido": false
   }
 ]
