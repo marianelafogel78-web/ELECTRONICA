@@ -2254,5 +2254,37 @@
     "foto": "https://i.postimg.cc/P5jTMV48/ESCURRIDORDETER.jpg",
     "categoria": "HOGAR",
     "suspendido": false
+  },
+  {
+    "id": 1774045583807,
+    "nombre": "PELOTA MUNDIAL NRO.5",
+    "precio": 7900,
+    "foto": "https://i.postimg.cc/k4Fpqw84/PELOTAMUNDIAL.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1774045710048,
+    "nombre": "CABLE 4 EN 1 UNIVERSAL",
+    "precio": 2870,
+    "foto": "https://i.postimg.cc/gkrNTGMP/CABLE4EN1.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 1774045970258,
+    "nombre": " FOCO BOLICHE DOBLE",
+    "precio": 4460,
+    "foto": "https://i.postimg.cc/xC4bJVL5/FOCOLAS.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1774046176557,
+    "nombre": "MATE TERMICO DE ACERO INOXIDABLE 180ML",
+    "precio": 7050,
+    "foto": "https://i.postimg.cc/0NJNWKSn/MATETERMICO.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
   }
 ]
