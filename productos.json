@@ -93,7 +93,7 @@
     "precio": 4250,
     "foto": "https://i.postimg.cc/y8sPyx8w/cargadorc.png",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 18,
@@ -125,7 +125,7 @@
     "precio": 1890,
     "foto": "https://i.postimg.cc/X7Pbn9Ww/TMCC216.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 22,
@@ -181,7 +181,7 @@
     "precio": 1540,
     "foto": "https://i.postimg.cc/wMK5Yd3B/CABLE-PUNTA-METAL.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 29,
@@ -261,7 +261,7 @@
     "precio": 1380,
     "foto": "https://i.postimg.cc/2yD2C6vZ/Whats-App-Image-2025-09-10-at-20-57-09.jpg",
     "categoria": "CABLES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 39,
@@ -290,10 +290,10 @@
   {
     "id": 42,
     "nombre": "CABLE USB IPHONE 1M",
-    "precio": 2600,
+    "precio": 1790,
     "foto": "https://i.postimg.cc/2SsWstnq/Captura-de-pantalla-2025-09-11-194526.png",
     "categoria": "CABLES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 43,
@@ -459,7 +459,7 @@
     "id": 85,
     "nombre": "PISTOLA DE RIEGO PARA MANGUERA",
     "precio": 8439,
-    "foto": "https://i.postimg.cc/QtMngSwy/P550.jpg",
+    "foto": "https://i.postimg.cc/PrNr5gjw/manijaman.webp",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
@@ -525,7 +525,7 @@
     "precio": 8400,
     "foto": "https://i.postimg.cc/Mp9BPwPx/AURIKK607.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 96,
@@ -909,7 +909,7 @@
     "precio": 7450,
     "foto": "https://i.postimg.cc/Hng277Xm/BOLA-LED.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 157,
@@ -917,7 +917,7 @@
     "precio": 7420,
     "foto": "https://i.postimg.cc/0Nq2WKCv/LED-83065.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 159,
@@ -989,14 +989,6 @@
     "precio": 14600,
     "foto": "https://i.postimg.cc/ZqSr20z7/LUZ-EMERGENCIA-60LED.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
-    "id": 172,
-    "nombre": "VELADOR RECARGABLE + LUZ DE NOCHE",
-    "precio": 7050,
-    "foto": "https://i.postimg.cc/TwwfyV9R/VEL-81022.jpg",
-    "categoria": "NIÑOS",
     "suspendido": false
   },
   {
@@ -1777,9 +1769,9 @@
   },
   {
     "id": 286,
-    "nombre": "HUMIDIFICADOR AROMATIZADOR",
-    "precio": 7980,
-    "foto": "https://i.postimg.cc/NGSn6y4z/humificador.jpg",
+    "nombre": "HUMIDIFICADOR C/LUZ BOLA",
+    "precio": 6440,
+    "foto": "https://i.postimg.cc/Hst4T7Tm/humi.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -1901,7 +1893,7 @@
     "precio": 12460,
     "foto": "https://i.postimg.cc/x8tqh6bM/alargueusb.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 305,
@@ -2085,7 +2077,7 @@
     "precio": 1050,
     "foto": "https://i.postimg.cc/QMw99HzD/parche.png",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 328,
@@ -2233,17 +2225,17 @@
   },
   {
     "id": 1774043030766,
-    "nombre": "HUMIDIFICADOR IDEAL AUTO ",
-    "precio": 9300,
-    "foto": "https://i.postimg.cc/BbKMYggV/humificadorauto.jpg",
+    "nombre": "HUMIDIFICADOR ",
+    "precio": 6440,
+    "foto": "https://i.postimg.cc/4xdtZL8K/humi2.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
   {
     "id": 1774043145756,
-    "nombre": "HUMIDIFICADOR VOLCAN",
-    "precio": 7300,
-    "foto": "https://i.postimg.cc/pVFCtsff/humificadorvolcan.jpg",
+    "nombre": "HUMIDIFICADOR C/LUZ",
+    "precio": 6440,
+    "foto": "https://i.postimg.cc/3Rg09PwS/humi3.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -2253,7 +2245,7 @@
     "precio": 11975,
     "foto": "https://i.postimg.cc/P5jTMV48/ESCURRIDORDETER.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1774045583807,
@@ -2273,7 +2265,7 @@
   },
   {
     "id": 1774045970258,
-    "nombre": " FOCO BOLICHE DOBLE",
+    "nombre": "FOCO BOLICHE DOBLE",
     "precio": 4460,
     "foto": "https://i.postimg.cc/xC4bJVL5/FOCOLAS.jpg",
     "categoria": "ILUMINACION",
@@ -2285,6 +2277,62 @@
     "precio": 7050,
     "foto": "https://i.postimg.cc/0NJNWKSn/MATETERMICO.jpg",
     "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1774561237244,
+    "nombre": "ASTRONAUTA PROYECTOR",
+    "precio": 13990,
+    "foto": "https://i.postimg.cc/MKhxKX5B/astro.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1774561503929,
+    "nombre": "CINTA DOBLE FAZ ESPUMOSA 2MT",
+    "precio": 1350,
+    "foto": "https://i.postimg.cc/DzzKxswF/cintapega.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1774561651231,
+    "nombre": "CARGADOR ULTRA RAPIDO HYTOSHY 125W",
+    "precio": 7560,
+    "foto": "https://i.postimg.cc/tgnBRCrc/hytoshy.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1774561925116,
+    "nombre": "AURICULAR SPORT JBL ",
+    "precio": 1545,
+    "foto": "https://i.postimg.cc/P5wDPpjZ/jbl1.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1774562018610,
+    "nombre": "AURICULAR JB-003 JBL",
+    "precio": 1540,
+    "foto": "https://i.postimg.cc/qBKgcfFb/jbl2.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1774562131265,
+    "nombre": "CABLE TIPO C 20W AITECH",
+    "precio": 2120,
+    "foto": "https://i.postimg.cc/C5CF30TZ/cable1.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 1774562213544,
+    "nombre": "SOPORTE CELULAR TRIPODE ",
+    "precio": 1400,
+    "foto": "https://i.postimg.cc/yNJ7Vc4T/TRIPOCELU.jpg",
+    "categoria": "TECNOLOGIA",
     "suspendido": false
   }
 ]
