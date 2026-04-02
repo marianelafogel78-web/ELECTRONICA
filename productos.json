@@ -525,7 +525,7 @@
     "precio": 8400,
     "foto": "https://i.postimg.cc/Mp9BPwPx/AURIKK607.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 96,
@@ -2235,7 +2235,7 @@
     "id": 1774043145756,
     "nombre": "HUMIDIFICADOR C/LUZ",
     "precio": 6440,
-    "foto": "https://i.postimg.cc/3Rg09PwS/humi3.jpg",
+    "foto": "https://i.postimg.cc/90bxVNCc/humi.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -2333,6 +2333,62 @@
     "precio": 1400,
     "foto": "https://i.postimg.cc/yNJ7Vc4T/TRIPOCELU.jpg",
     "categoria": "TECNOLOGIA",
+    "suspendido": false
+  },
+  {
+    "id": 1775138909220,
+    "nombre": "BOTELLA DEPORTIVA PLASTICA 1L",
+    "precio": 4500,
+    "foto": "https://i.postimg.cc/6pXQFjT0/botella1.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1775138965730,
+    "nombre": "BOTELLA DEPORTIVA PLASTICA 600ML",
+    "precio": 3500,
+    "foto": "https://i.postimg.cc/3JH7wyhq/botella2.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1775139313109,
+    "nombre": "PARLANTE BT PORTATIL RESISTENTE AL AGUA",
+    "precio": 6700,
+    "foto": "https://i.postimg.cc/KcWkpDnT/PARLANTEBT.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1775139496923,
+    "nombre": "PARLANTE BT REDONDO C/LUZ RGB",
+    "precio": 9100,
+    "foto": "https://i.postimg.cc/HLJsyfhv/PARLANRED.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1775139595442,
+    "nombre": "GUANTES DE TRABAJO",
+    "precio": 1680,
+    "foto": "https://i.postimg.cc/CM4YzhK4/guantes.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1775139710312,
+    "nombre": "FOCO LED PARA ESPEJO",
+    "precio": 7260,
+    "foto": "https://i.postimg.cc/cCLzKND5/LUCES.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1775139802103,
+    "nombre": "SOPORTE MANITO",
+    "precio": 784,
+    "foto": "https://i.postimg.cc/rs79867y/SOPORTEMAO.jpg",
+    "categoria": "VARIOS",
     "suspendido": false
   }
 ]
