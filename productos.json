@@ -912,14 +912,6 @@
     "suspendido": true
   },
   {
-    "id": 157,
-    "nombre": "VELADOR CAPYBARA CON SACAPUNTAS",
-    "precio": 7420,
-    "foto": "https://i.postimg.cc/0Nq2WKCv/LED-83065.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": true
-  },
-  {
     "id": 159,
     "nombre": "LUZ MINERA",
     "precio": 5950,
@@ -1821,7 +1813,7 @@
     "precio": 4200,
     "foto": "https://i.postimg.cc/nzZ9Nzrt/reloj.jpg",
     "categoria": "RELOJES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 293,
@@ -2077,7 +2069,7 @@
     "precio": 1050,
     "foto": "https://i.postimg.cc/QMw99HzD/parche.png",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 328,
@@ -2085,7 +2077,7 @@
     "precio": 3800,
     "foto": "https://i.postimg.cc/0QSTxBmP/canilla.png",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1772715449206,
@@ -2240,14 +2232,6 @@
     "suspendido": false
   },
   {
-    "id": 1774043900484,
-    "nombre": "DISPENSER DE DETERGENTE C/PORTA ESPONJA",
-    "precio": 11975,
-    "foto": "https://i.postimg.cc/P5jTMV48/ESCURRIDORDETER.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
-  },
-  {
     "id": 1774045583807,
     "nombre": "PELOTA MUNDIAL NRO.5",
     "precio": 7900,
@@ -2389,6 +2373,30 @@
     "precio": 784,
     "foto": "https://i.postimg.cc/rs79867y/SOPORTEMAO.jpg",
     "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1775596208038,
+    "nombre": "CABLE PUENTE 500 AMP. AUTO",
+    "precio": 9060,
+    "foto": "https://i.postimg.cc/PqRRDsS6/cablepuesnte.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1775596282096,
+    "nombre": "CANDADO COMBINACION COLORES",
+    "precio": 2245,
+    "foto": "https://i.postimg.cc/N05NBCQb/cand.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1775596348751,
+    "nombre": "LINGA SUJETA CARGA 4,5M 150K",
+    "precio": 6820,
+    "foto": "https://i.postimg.cc/pdhBg9Bc/linga.jpg",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   }
 ]
