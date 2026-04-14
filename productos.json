@@ -2446,5 +2446,13 @@
     "foto": "https://i.postimg.cc/yYkw0rk5/JK603.webp",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
+  },
+  {
+    "id": 1776205956679,
+    "nombre": "PARLANTE BT PORTATIL KTS-1828",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/cHNShqvp/PARLANTE-PORT.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
   }
 ]
