@@ -539,7 +539,7 @@
     "id": 97,
     "nombre": "AURICULARES INALAMBLICOS I12",
     "precio": 7500,
-    "foto": "https://i.postimg.cc/LsFYRY9z/auriculares-colores.jpg",
+    "foto": "https://i.postimg.cc/Dz2ywGd4/AU-17002.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
   },
@@ -2403,7 +2403,7 @@
     "id": 1776197855033,
     "nombre": "MOUSE INALAMBRICO BLISTER",
     "precio": 4400,
-    "foto": "https://i.postimg.cc/Y9vcrnKP/mouse.jpg",
+    "foto": "https://i.postimg.cc/tTq1wfm8/MOU-150M07.jpg",
     "categoria": "TECNOLOGIA",
     "suspendido": false
   },
@@ -2454,5 +2454,21 @@
     "foto": "https://i.postimg.cc/cHNShqvp/PARLANTE-PORT.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
+  },
+  {
+    "id": 1776455777520,
+    "nombre": "PARLANTE 3PLG BT C/M",
+    "precio": 7140,
+    "foto": "https://i.postimg.cc/RV6WkwGR/GTS-1867.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1776455897997,
+    "nombre": "SET X2 DISPENSER DE JABON (VIDRIO)",
+    "precio": 8820,
+    "foto": "https://i.postimg.cc/pybPb5X4/HOG0621.jpg",
+    "categoria": "HOGAR",
+    "suspendido": true
   }
 ]
