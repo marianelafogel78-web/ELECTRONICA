@@ -330,7 +330,7 @@
   {
     "id": 47,
     "nombre": "PARLANTE 3´ GTS2166",
-    "precio": 5800,
+    "precio": 7280,
     "foto": "https://i.postimg.cc/9fVbJ69C/PARLAN.png",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -1973,7 +1973,7 @@
     "precio": 5250,
     "foto": "https://i.postimg.cc/gkvzrzwv/PARLDUCHA.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 320,
