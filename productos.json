@@ -157,7 +157,7 @@
     "precio": 4465,
     "foto": "https://i.postimg.cc/q7DV6D9B/GTS-C935.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 26,
@@ -352,14 +352,6 @@
     "suspendido": false
   },
   {
-    "id": 53,
-    "nombre": "PARLANTE Y MICROFONO K52",
-    "precio": 12550,
-    "foto": "https://i.postimg.cc/Gt7vzL1M/MINIPARLANTEY-MICRO.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": true
-  },
-  {
     "id": 54,
     "nombre": "PARLANTE, PORTA CELULAR Y MICROFONO",
     "precio": 12350,
@@ -373,7 +365,7 @@
     "precio": 10280,
     "foto": "https://i.postimg.cc/fTzGgrMb/K18.jpg",
     "categoria": "PARLANTES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 61,
@@ -590,14 +582,6 @@
     "foto": "https://i.postimg.cc/7Yr1N5r1/AU-14002.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": false
-  },
-  {
-    "id": 105,
-    "nombre": "VINCHA NOGA GAMER C/MICROFONO STORMER",
-    "precio": 16000,
-    "foto": "https://i.postimg.cc/V6cshPfh/MG-8620.jpg",
-    "categoria": "AURICULARES VINCHA",
-    "suspendido": true
   },
   {
     "id": 106,
@@ -1381,7 +1365,7 @@
     "precio": 27900,
     "foto": "https://i.postimg.cc/pLzkFjdG/20250912-1105-Vi.png",
     "categoria": "RELOJES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 230,
@@ -1417,7 +1401,7 @@
   },
   {
     "id": 235,
-    "nombre": "TERMO ACERO 1.3L",
+    "nombre": "TERMO ACERO 1.2L / 1.3L",
     "precio": 20500,
     "foto": "https://i.postimg.cc/hPzMsfV8/termoacero.jpg",
     "categoria": "TERMOS Y VASOS",
@@ -1429,7 +1413,7 @@
     "precio": 16900,
     "foto": "https://i.postimg.cc/15nVSdwg/VASO-U-PARLAMTE.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 237,
@@ -1445,7 +1429,7 @@
     "precio": 5800,
     "foto": "https://i.postimg.cc/3JdJpDwT/BOTELLA-PLEGABLE-DEPORTE.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 240,
@@ -1469,21 +1453,13 @@
     "precio": 7970,
     "foto": "https://i.postimg.cc/XNTJJWBv/EX00016.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": true
-  },
-  {
-    "id": 244,
-    "nombre": "BOTELLA DE 500ML SPORT",
-    "precio": 14250,
-    "foto": "https://i.postimg.cc/XJyvsMZZ/FLK1543.jpg",
-    "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
   {
-    "id": 246,
-    "nombre": "TERMOS 600ML FORRADOS EN GOMA",
-    "precio": 16000,
-    "foto": "https://i.postimg.cc/GmYZzJHr/Whats-App-Image-2025-09-10-at-23-33-24-2.jpg",
+    "id": 244,
+    "nombre": "BOTELLA DE 750ML SPORT",
+    "precio": 14250,
+    "foto": "https://i.postimg.cc/XJyvsMZZ/FLK1543.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
@@ -1581,7 +1557,7 @@
     "precio": 4410,
     "foto": "https://i.postimg.cc/MTjRrwkx/popit.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 261,
@@ -2192,14 +2168,6 @@
     "suspendido": false
   },
   {
-    "id": 1774042383398,
-    "nombre": "TERMO ELECTRICO C/MATE 1200M",
-    "precio": 47900,
-    "foto": "https://i.postimg.cc/157b8nqP/termielec.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
-  },
-  {
     "id": 1774043030766,
     "nombre": "HUMIDIFICADOR ",
     "precio": 6440,
@@ -2394,7 +2362,7 @@
   {
     "id": 1776197680330,
     "nombre": "CARGADOR SAMSUMG 45W",
-    "precio": 1,
+    "precio": 5870,
     "foto": "https://i.postimg.cc/DybNY4n1/cargador45w.webp",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -2477,6 +2445,46 @@
     "precio": 3290,
     "foto": "https://i.postimg.cc/RFB8B1cD/P517.jpg",
     "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1776725397095,
+    "nombre": "CANDADO 63MM ",
+    "precio": 3290,
+    "foto": "https://i.postimg.cc/DwGc47s6/candado60mm.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1776725587989,
+    "nombre": "BOTELLA INFANTIL ",
+    "precio": 14700,
+    "foto": "https://i.postimg.cc/yNVS6KTx/vaso.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1776725767331,
+    "nombre": "GUANTE SPORT FRIO POLAR",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/xdhJvm2M/guantes.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1776726076866,
+    "nombre": "SET DESTAPADOR BOTELLA DE VINO 5 PCS",
+    "precio": 12320,
+    "foto": "https://i.postimg.cc/fbcnCn4Y/botella.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1776726283207,
+    "nombre": " HOLDER CUELLO FLEXIBLE",
+    "precio": 2298,
+    "foto": "https://i.postimg.cc/P5b2Ftx1/holder.jpg",
+    "categoria": "VARIOS",
     "suspendido": false
   }
 ]
