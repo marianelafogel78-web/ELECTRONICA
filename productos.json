@@ -353,9 +353,9 @@
   },
   {
     "id": 54,
-    "nombre": "PARLANTE, PORTA CELULAR Y MICROFONO",
-    "precio": 12350,
-    "foto": "https://i.postimg.cc/Pxb4bnxR/PARLANTE-PORTA-CELU.jpg",
+    "nombre": "PARLANTE 3PLG BLUETOOHT/FM/MP3",
+    "precio": 10900,
+    "foto": "https://i.postimg.cc/Ssw32y1X/GTS-2265.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
   },
@@ -364,14 +364,6 @@
     "nombre": "PARLANTE BT CON LUZ 1 MICROFONO",
     "precio": 10280,
     "foto": "https://i.postimg.cc/fTzGgrMb/K18.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 61,
-    "nombre": "PARLANTE LUZ LED Y CARGADOR INALAMBRICO PARA CELULAR",
-    "precio": 16500,
-    "foto": "https://i.postimg.cc/85tJ7Nzj/Whats-App-Image-2025-08-29-at-09-32-36.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
   },
@@ -2565,6 +2557,22 @@
     "precio": 6440,
     "foto": "https://i.postimg.cc/nrFVWGpx/D20.jpg",
     "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1776811122198,
+    "nombre": "LAMPARA LED RECARGABLE 52CM",
+    "precio": 4900,
+    "foto": "https://i.postimg.cc/yNRF6s9z/MELECH-354.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1776811292820,
+    "nombre": "ASPIRADORA 6 EN 1",
+    "precio": 8260,
+    "foto": "https://i.postimg.cc/Df4mtBr3/YT-M2042.jpg",
+    "categoria": "HOGAR",
     "suspendido": false
   }
 ]
