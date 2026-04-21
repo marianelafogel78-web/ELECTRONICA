@@ -357,7 +357,7 @@
     "precio": 12350,
     "foto": "https://i.postimg.cc/Pxb4bnxR/PARLANTE-PORTA-CELU.jpg",
     "categoria": "PARLANTES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 56,
@@ -772,7 +772,7 @@
     "nombre": "BALANZA GRAMERA DE PRECISION 0.01-500G",
     "precio": 8020,
     "foto": "https://i.postimg.cc/DwDCxBgW/CS200.jpg",
-    "categoria": "VARIOS",
+    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -780,7 +780,7 @@
     "nombre": "BALANZA POCKET GRAMERA 500GR SV-500",
     "precio": 5310,
     "foto": "https://i.postimg.cc/mDGgtznk/K-MH500.jpg",
-    "categoria": "VARIOS",
+    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -1624,14 +1624,6 @@
     "suspendido": false
   },
   {
-    "id": 270,
-    "nombre": "AURICULAR INALAMBRICOS BT",
-    "precio": 7280,
-    "foto": "https://i.postimg.cc/6QShf9dY/auriinalam.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
     "id": 271,
     "nombre": "CABLE TIPO C 3.1 BOLSA",
     "precio": 1105,
@@ -1997,7 +1989,7 @@
     "precio": 7700,
     "foto": "https://i.postimg.cc/xCRG0Dvj/BALANZA.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 323,
@@ -2485,6 +2477,94 @@
     "precio": 2298,
     "foto": "https://i.postimg.cc/P5b2Ftx1/holder.jpg",
     "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1776808723780,
+    "nombre": "RELOJ DESPERTADOR C/CAMPANA CORAZON",
+    "precio": 8890,
+    "foto": "https://i.postimg.cc/xqDxCcZ3/RELOJDESP.jpg",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1776808829345,
+    "nombre": "PARLANTE 3PLG SOLO NEGRO GTS-2288",
+    "precio": 5880,
+    "foto": "https://i.postimg.cc/C5yXZPBL/PARL.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1776808892145,
+    "nombre": "PARLANTE MP3 C/LINTERNA",
+    "precio": 7420,
+    "foto": "https://i.postimg.cc/43DBwKfg/PARLINT.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1776808978080,
+    "nombre": "PARLANTE BLUETOOTH",
+    "precio": 8680,
+    "foto": "https://i.postimg.cc/Twxnpn2T/GTS-1679.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1776809046151,
+    "nombre": "PARLANTE BT LUZ",
+    "precio": 6720,
+    "foto": "https://i.postimg.cc/tJwTVHds/GTS-1732.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1776809217582,
+    "nombre": "PARLANTE RGB RESISTENTE AL AGUA",
+    "precio": 14980,
+    "foto": "https://i.postimg.cc/hGtfwMGh/KTS-2408.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1776809294877,
+    "nombre": "PARLANTE BT CON LUZ",
+    "precio": 7000,
+    "foto": "https://i.postimg.cc/4NRnZXdG/KTX-1997.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1776809398188,
+    "nombre": "JOY-61029 JOYSTICK CELL,PC Y PS3",
+    "precio": 16100,
+    "foto": "https://i.postimg.cc/PqCdY7x0/6648-50.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false
+  },
+  {
+    "id": 1776809495012,
+    "nombre": "RELOJ DESPERTADOR ALARMA CAMPANA",
+    "precio": 9370,
+    "foto": "https://i.postimg.cc/g0LPn6tz/REJ-4408.jpg",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1776810367772,
+    "nombre": "RELOJ DESPERTADOR C/FECHA/TEMPERATURA",
+    "precio": 7855,
+    "foto": "https://i.postimg.cc/7Z6GhDFF/DS-6609.jpg",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1776810445731,
+    "nombre": "RELOJ SMART WATCH MACARRON",
+    "precio": 6440,
+    "foto": "https://i.postimg.cc/nrFVWGpx/D20.jpg",
+    "categoria": "RELOJES",
     "suspendido": false
   }
 ]
