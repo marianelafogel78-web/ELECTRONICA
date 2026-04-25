@@ -426,7 +426,7 @@
   {
     "id": 86,
     "nombre": "SET DE DUCHA DE MANO",
-    "precio": 5400,
+    "precio": 3700,
     "foto": "https://i.postimg.cc/rsbfGrrX/SH-60.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -725,14 +725,6 @@
     "precio": 4130,
     "foto": "https://i.postimg.cc/RVB6h08N/INF-91006.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
-    "id": 135,
-    "nombre": "BALANZA GRAMERA DE PRECISION 0.01-500G",
-    "precio": 8020,
-    "foto": "https://i.postimg.cc/DwDCxBgW/CS200.jpg",
-    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -1349,7 +1341,7 @@
     "precio": 5800,
     "foto": "https://i.postimg.cc/3JdJpDwT/BOTELLA-PLEGABLE-DEPORTE.jpg",
     "categoria": "NIÑOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 240,
@@ -1773,7 +1765,7 @@
     "precio": 6720,
     "foto": "https://i.postimg.cc/mZPW1bn9/setherramientas.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 312,
@@ -1945,9 +1937,9 @@
   },
   {
     "id": 1773351313834,
-    "nombre": "CABLE LIGHTNING 1M ROYALCELL",
+    "nombre": "CABLE LIGHTNING 1M ROYALCELL (IPHONE)",
     "precio": 1396,
-    "foto": "https://i.postimg.cc/1RT6bk1v/CABLELIGH.jpg",
+    "foto": "https://i.postimg.cc/fTn0wSMm/CAB.png",
     "categoria": "CABLES",
     "suspendido": false
   },
@@ -2181,7 +2173,7 @@
     "precio": 2245,
     "foto": "https://i.postimg.cc/N05NBCQb/cand.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1775596348751,
@@ -2429,6 +2421,78 @@
     "precio": 8499,
     "foto": "https://i.postimg.cc/cHcdT2V5/K-137.jpg",
     "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1777121582463,
+    "nombre": "MAQUINA DE SOLDAR 40W",
+    "precio": 2470,
+    "foto": "https://i.postimg.cc/t4fY1096/74BTYP.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1777121907666,
+    "nombre": "BOTELLA TERMICA ARGENTINA 500 ML",
+    "precio": 12600,
+    "foto": "https://i.postimg.cc/50Zp7xQR/c640f682-713d-4c0b-b5b3-f858a556cae7.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1777122731892,
+    "nombre": "CARGADOR CABEZAL I PHONE USB C 35W",
+    "precio": 3360,
+    "foto": "https://i.postimg.cc/wTcmfmZw/305165d9-4bad-42ca-8a04-3241b6755551.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1777122862432,
+    "nombre": "PARLANTE BT MINI ASTRONAUTA",
+    "precio": 5890,
+    "foto": "https://i.postimg.cc/Jz2CMMMk/GTS-2097.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1777123309353,
+    "nombre": "ANAFE ELECTRICO 1 HORNALLA",
+    "precio": 14700,
+    "foto": "https://i.postimg.cc/d1Xhyz2R/ANAFE1.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1777123398031,
+    "nombre": "ANAFE ELECTRICO 2 HORNALLAS 2000W ",
+    "precio": 19990,
+    "foto": "https://i.postimg.cc/250TLF0T/ANAFE2.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1777123609440,
+    "nombre": "COLCHON INFLABLE + INFLADOR MANUAL",
+    "precio": 26600,
+    "foto": "https://i.postimg.cc/4ygKJjpq/COLCHON.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1777125280505,
+    "nombre": "BALANZA MINI DIGITAL A PILA ",
+    "precio": 8080,
+    "foto": "https://i.postimg.cc/nzgvJdLr/BALANZA.JPG",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1777125561395,
+    "nombre": "CABLE IFHONE 3.1 TIME CAB-43003",
+    "precio": 1540,
+    "foto": "https://i.postimg.cc/PrRNFLNg/CABLEIP.jpg",
+    "categoria": "CABLES",
     "suspendido": false
   }
 ]
