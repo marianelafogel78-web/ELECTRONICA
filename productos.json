@@ -1496,14 +1496,6 @@
     "suspendido": false
   },
   {
-    "id": 268,
-    "nombre": "JUEGO TABLA/CUCHILLO/PELA PAPAS/TIJETA",
-    "precio": 3920,
-    "foto": "https://i.postimg.cc/xd62t4rT/TABLA.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
-  },
-  {
     "id": 269,
     "nombre": "PROYECTOR LASER",
     "precio": 17500,
@@ -1765,7 +1757,7 @@
     "precio": 6720,
     "foto": "https://i.postimg.cc/mZPW1bn9/setherramientas.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 312,
@@ -2224,14 +2216,6 @@
     "suspendido": false
   },
   {
-    "id": 1776199308356,
-    "nombre": "SET CUCHILLOS 6PCS",
-    "precio": 15400,
-    "foto": "https://i.postimg.cc/4N997sbW/SET-CUCHILLAS.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 1776199806728,
     "nombre": "TAPON PICO CEBADOR COMPATIBLE STANLEY",
     "precio": 2860,
@@ -2267,7 +2251,7 @@
     "id": 1776455897997,
     "nombre": "SET X2 DISPENSER DE JABON (VIDRIO)",
     "precio": 8820,
-    "foto": "https://i.postimg.cc/pybPb5X4/HOG0621.jpg",
+    "foto": "https://i.postimg.cc/cJvf1L2V/dispenserjabon.jpg",
     "categoria": "HOGAR",
     "suspendido": true
   },
