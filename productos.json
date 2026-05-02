@@ -949,7 +949,7 @@
     "precio": 18570,
     "foto": "https://i.postimg.cc/HWNbRLMs/REFLECTOR.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 179,
@@ -1429,7 +1429,7 @@
     "precio": 1370,
     "foto": "https://i.postimg.cc/fT8GRfdn/pelotasmasc.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 258,
@@ -2605,7 +2605,7 @@
     "precio": 1785,
     "foto": "https://i.postimg.cc/kXhV2St4/CTC.jpg",
     "categoria": "CABLES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777738095045,
