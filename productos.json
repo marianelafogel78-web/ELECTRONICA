@@ -841,7 +841,7 @@
   },
   {
     "id": 159,
-    "nombre": "LUZ MINERA",
+    "nombre": "LINTERNA  MINERA",
     "precio": 5950,
     "foto": "https://i.postimg.cc/8krPxG5S/LUZ-MINERA.jpg",
     "categoria": "ILUMINACION",
@@ -849,7 +849,7 @@
   },
   {
     "id": 160,
-    "nombre": "LINTERNA MINI CAMUFLADA RECARGABLE",
+    "nombre": "LINTERNA MINI RECARGABLE",
     "precio": 3595,
     "foto": "https://i.postimg.cc/yxVqghXs/LINTERNAESTUCHE.jpg",
     "categoria": "ILUMINACION",
@@ -933,7 +933,7 @@
     "precio": 14275,
     "foto": "https://impotekno.com/fotos/P50.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 177,
@@ -1939,7 +1939,7 @@
     "id": 1773420158144,
     "nombre": "SET PARRILLA 16 PS",
     "precio": 25150,
-    "foto": "https://i.postimg.cc/SRCT0zkR/SETPARRILLA.jpg",
+    "foto": "https://i.postimg.cc/qvj3XFY7/SET.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -1960,20 +1960,12 @@
     "suspendido": false
   },
   {
-    "id": 1774041084929,
-    "nombre": "ESCURRIDOR SECA PLATOS DE ACERO ",
-    "precio": 20790,
-    "foto": "https://i.postimg.cc/65fDtb9B/escurridorplatos.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 1774041401666,
     "nombre": "MOPA TRAPEADORA Y BALDE",
     "precio": 14420,
     "foto": "https://i.postimg.cc/3NJ2pwDV/mopa.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1774041520872,
@@ -2059,7 +2051,7 @@
     "id": 1774561651231,
     "nombre": "CARGADOR ULTRA RAPIDO HYTOSHY 125W",
     "precio": 7560,
-    "foto": "https://i.postimg.cc/tgnBRCrc/hytoshy.jpg",
+    "foto": "https://i.postimg.cc/bYbVCY3h/125.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
   },
@@ -2161,7 +2153,7 @@
   },
   {
     "id": 1775596282096,
-    "nombre": "CANDADO COMBINACION COLORES",
+    "nombre": "CANDADO COMBINACION CHICO IDEAL PARA VALIJAS/BOLSOS",
     "precio": 2245,
     "foto": "https://i.postimg.cc/N05NBCQb/cand.jpg",
     "categoria": "HERRAMIENTAS",
@@ -2253,7 +2245,7 @@
     "precio": 8820,
     "foto": "https://i.postimg.cc/cJvf1L2V/dispenserjabon.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1776458087708,
@@ -2293,7 +2285,7 @@
     "precio": 12320,
     "foto": "https://i.postimg.cc/fbcnCn4Y/botella.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1776726283207,
@@ -2532,6 +2524,110 @@
     "nombre": "SET X 3 JARDINERIA ",
     "precio": 3500,
     "foto": "https://i.postimg.cc/wTrDZX2k/IP-122.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1777735165946,
+    "nombre": "USB 7 ENTRADAS, INTERRUPTOR IND. IBEK",
+    "precio": 4390,
+    "foto": "https://i.postimg.cc/nccgwb5b/USBIBEK.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1777735271782,
+    "nombre": "CARGADOR 3.8A IBEK",
+    "precio": 2850,
+    "foto": "https://i.postimg.cc/02Dnft5x/CIBEK.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1777735421917,
+    "nombre": "RELOJ INTELIGENTE V20PRO",
+    "precio": 19280,
+    "foto": "https://i.postimg.cc/ydR3Hbb1/RC.jpg",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1777735686583,
+    "nombre": "AURICULAR M/LIBRES TIME 11021",
+    "precio": 1323,
+    "foto": "https://i.postimg.cc/jSfpy6mQ/AUR.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1777736406836,
+    "nombre": "CUTTER CON REPUESTO ",
+    "precio": 1360,
+    "foto": "https://i.postimg.cc/9FHmKM2r/CTR.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1777736637967,
+    "nombre": "ESTUFA HALOGENA 2 VELAS 800W",
+    "precio": 24150,
+    "foto": "https://i.postimg.cc/Hs6N5Z6W/ESTUFA.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1777736715340,
+    "nombre": "CALOVENTOR HYTOSHY 2000W",
+    "precio": 24360,
+    "foto": "https://i.postimg.cc/25R7BnN5/CALOVENTOR.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1777736847927,
+    "nombre": "AURICULAR BLUETOOH TIME JS235",
+    "precio": 8385,
+    "foto": "https://i.postimg.cc/KjRMWYhN/AUT.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": true
+  },
+  {
+    "id": 1777737286896,
+    "nombre": "LINTERNA MINERA LED Y SENSOR",
+    "precio": 4296,
+    "foto": "https://i.postimg.cc/J4TrTWrG/LN.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": true
+  },
+  {
+    "id": 1777737682093,
+    "nombre": "CABLE TIPO C CON LUZ 41016",
+    "precio": 1785,
+    "foto": "https://i.postimg.cc/kXhV2St4/CTC.jpg",
+    "categoria": "CABLES",
+    "suspendido": true
+  },
+  {
+    "id": 1777738095045,
+    "nombre": "ZAPATILLA  6 ENCHUFES 3 USB INTERRUPTOR",
+    "precio": 9065,
+    "foto": "https://i.postimg.cc/R0qxN3KB/ALARG.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": true
+  },
+  {
+    "id": 1777738247770,
+    "nombre": "ZAPATILLA 8 ENCHUFES 3 USB VERDE CELESTE",
+    "precio": 10255,
+    "foto": "https://i.postimg.cc/FFVCXrkw/AL.png",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": true
+  },
+  {
+    "id": 1777738475600,
+    "nombre": "GUANTES MATEADOS NEGRO 57G",
+    "precio": 850,
+    "foto": "https://i.postimg.cc/9F49t12B/GM.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
   }
