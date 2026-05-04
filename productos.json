@@ -2589,7 +2589,7 @@
     "precio": 8385,
     "foto": "https://i.postimg.cc/KjRMWYhN/AUT.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777737286896,
@@ -2597,7 +2597,7 @@
     "precio": 4296,
     "foto": "https://i.postimg.cc/J4TrTWrG/LN.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777737682093,
@@ -2613,7 +2613,7 @@
     "precio": 9065,
     "foto": "https://i.postimg.cc/R0qxN3KB/ALARG.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777738247770,
@@ -2621,7 +2621,7 @@
     "precio": 10255,
     "foto": "https://i.postimg.cc/FFVCXrkw/AL.png",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777738475600,
@@ -2637,6 +2637,46 @@
     "precio": 3410,
     "foto": "https://i.postimg.cc/vmGkV4nq/Captura-de-pantalla-2026-05-02-133116.jpg",
     "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1777934794174,
+    "nombre": "BALANZA GRAMERA DE PRECISION 0.01-500G ",
+    "precio": 7420,
+    "foto": "https://i.postimg.cc/156YCpCX/bg.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1777935070970,
+    "nombre": " DISPENSER DE DETERGENTE C/PORTA ESPONJA",
+    "precio": 11999,
+    "foto": "https://i.postimg.cc/wMYD7sXd/dj.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1777935145713,
+    "nombre": "MANDOLINA REDONDA 9PCS",
+    "precio": 14560,
+    "foto": "https://i.postimg.cc/cJK3hcTW/mr.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1777935466886,
+    "nombre": "PINZA DE FUERZA ",
+    "precio": 6300,
+    "foto": "https://i.postimg.cc/CLzwz6KT/pf.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1777935644324,
+    "nombre": "ORGANIZADOR DE ZAPATOS 59X59X19CM",
+    "precio": 15722,
+    "foto": "https://i.postimg.cc/gjLBPRGK/zz.jpg",
+    "categoria": "HOGAR",
     "suspendido": false
   }
 ]
