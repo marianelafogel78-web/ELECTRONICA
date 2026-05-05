@@ -876,7 +876,7 @@
     "nombre": "ADAPTADOR PARA FOCO X 5 UNIDADES",
     "precio": 3745,
     "foto": "https://i.postimg.cc/cCqCLxQr/ADAPTADOR-PARA-FOCO.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -930,10 +930,10 @@
   {
     "id": 176,
     "nombre": "LINTERNA RUILANG RECARGABLE 1000 LUMEN ZOOM",
-    "precio": 14275,
+    "precio": 17360,
     "foto": "https://impotekno.com/fotos/P50.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 177,
@@ -964,7 +964,7 @@
     "nombre": "CANDADO 20MM EN CAJA",
     "precio": 925,
     "foto": "https://i.postimg.cc/jdHv7zmY/K20MM.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "CANDADOS",
     "suspendido": false
   },
   {
@@ -972,7 +972,7 @@
     "nombre": "CANDADO 38MM",
     "precio": 1575,
     "foto": "https://i.postimg.cc/vHhfyXCT/0360.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "CANDADOS",
     "suspendido": false
   },
   {
@@ -980,7 +980,7 @@
     "nombre": "CANDADO 50MM EN CAJA",
     "precio": 2190,
     "foto": "https://i.postimg.cc/tgKVkcnS/C265.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "CANDADOS",
     "suspendido": false
   },
   {
@@ -1036,7 +1036,7 @@
     "nombre": "ENCHUFE AMERICANOENCHUFE AMERICANO",
     "precio": 825,
     "foto": "https://i.postimg.cc/kXW2NWMP/Captura-de-pantalla-2025-09-11-161544.png",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -1044,7 +1044,7 @@
     "nombre": "ENCHUFE HEMBRA",
     "precio": 1245,
     "foto": "https://i.postimg.cc/rygDfx7B/Captura-de-pantalla-2025-09-11-170802.png",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -1052,7 +1052,7 @@
     "nombre": "ENCHUFE MACHO",
     "precio": 1245,
     "foto": "https://i.postimg.cc/kMzJpGYM/Whats-App-Image-2025-09-10-at-20-57-08-1.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -1068,7 +1068,7 @@
     "nombre": "CANDADO LINGA PARA BICI/MOTO",
     "precio": 5040,
     "foto": "https://i.postimg.cc/5yvnmFYF/lingamoto.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "CANDADOS",
     "suspendido": false
   },
   {
@@ -1084,7 +1084,7 @@
     "nombre": "TRIPLE PIRAMIDE",
     "precio": 1990,
     "foto": "https://i.postimg.cc/13J5MHL2/Whats-App-Image-2025-09-10-at-20-57-08-3.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -1092,7 +1092,7 @@
     "nombre": "TRIPLE X 2 ENTRADAS PLANO REFORZADO",
     "precio": 1990,
     "foto": "https://i.postimg.cc/L5pT9Lmk/Whats-App-Image-2025-09-10-at-20-57-08-2.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -1100,7 +1100,7 @@
     "nombre": "ZAPATILLA 3M",
     "precio": 3080,
     "foto": "https://i.postimg.cc/J4p922zN/Captura-de-pantalla-2025-09-11-161504.png",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -1108,7 +1108,7 @@
     "nombre": "ZAPATILLA 5M",
     "precio": 4200,
     "foto": "https://i.postimg.cc/J4p922zN/Captura-de-pantalla-2025-09-11-161504.png",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -1700,7 +1700,7 @@
     "nombre": "ZAPATILLA USB",
     "precio": 12460,
     "foto": "https://i.postimg.cc/x8tqh6bM/alargueusb.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -1740,7 +1740,7 @@
     "nombre": "ZAPATILLA FLOR 5 BOCAS + 2USB",
     "precio": 8190,
     "foto": "https://i.postimg.cc/3NSs6qNP/zapaflor.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -1748,7 +1748,7 @@
     "nombre": "ZAPATILLA CARGADOR RACK CHARGER 66W",
     "precio": 6860,
     "foto": "https://i.postimg.cc/bNSVprB0/minizapa.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -1796,7 +1796,7 @@
     "nombre": "CANDADO TRABAMANUBRIO CAFS LOCK",
     "precio": 10850,
     "foto": "https://i.postimg.cc/xdV1tXW7/CANDADOMOTO.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "CANDADOS",
     "suspendido": false
   },
   {
@@ -1820,7 +1820,7 @@
     "nombre": "CANDADO LINGA CON CODIGO 150GR",
     "precio": 5810,
     "foto": "https://i.postimg.cc/zvFQZcBK/CADENA.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "CANDADOS",
     "suspendido": false
   },
   {
@@ -1836,7 +1836,7 @@
     "nombre": "ZAPATILLA FORMA PELOTA",
     "precio": 9600,
     "foto": "https://i.postimg.cc/qvWhpvFG/zapatillaformapelota.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -2156,7 +2156,7 @@
     "nombre": "CANDADO COMBINACION CHICO IDEAL PARA VALIJAS/BOLSOS",
     "precio": 2245,
     "foto": "https://i.postimg.cc/N05NBCQb/cand.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "CANDADOS",
     "suspendido": false
   },
   {
@@ -2260,7 +2260,7 @@
     "nombre": "CANDADO 63MM ",
     "precio": 3290,
     "foto": "https://i.postimg.cc/DwGc47s6/candado60mm.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "CANDADOS",
     "suspendido": false
   },
   {
@@ -2612,7 +2612,7 @@
     "nombre": "ZAPATILLA  6 ENCHUFES 3 USB INTERRUPTOR",
     "precio": 9065,
     "foto": "https://i.postimg.cc/R0qxN3KB/ALARG.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -2620,7 +2620,7 @@
     "nombre": "ZAPATILLA 8 ENCHUFES 3 USB VERDE CELESTE",
     "precio": 10255,
     "foto": "https://i.postimg.cc/FFVCXrkw/AL.png",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -2677,6 +2677,30 @@
     "precio": 15722,
     "foto": "https://i.postimg.cc/gjLBPRGK/zz.jpg",
     "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1777938343504,
+    "nombre": "CADENA D MOTO CON CODIGO",
+    "precio": 4480,
+    "foto": "https://i.postimg.cc/BZy28kCw/lc.jpg",
+    "categoria": "CANDADOS",
+    "suspendido": false
+  },
+  {
+    "id": 1777938423671,
+    "nombre": " CADENA PARA MOTO CON CONDADO",
+    "precio": 4690,
+    "foto": "https://i.postimg.cc/59Znc6D6/CANL.jpg",
+    "categoria": "CANDADOS",
+    "suspendido": false
+  },
+  {
+    "id": 1777938554781,
+    "nombre": "CANDADO U 1.150KG",
+    "precio": 7000,
+    "foto": "https://i.postimg.cc/FzcbFV8P/CANAA.jpg",
+    "categoria": "CANDADOS",
     "suspendido": false
   }
 ]
