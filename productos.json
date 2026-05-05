@@ -21,7 +21,7 @@
     "precio": 6267,
     "foto": "https://i.postimg.cc/MpXSgkBn/AURI-ULTRA-PRO.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 6,
@@ -576,14 +576,6 @@
     "suspendido": false
   },
   {
-    "id": 110,
-    "nombre": "DEPILADORA  ELECTRICA RECARGABLE 4 EN 1",
-    "precio": 21230,
-    "foto": "https://i.postimg.cc/jj1h3dYQ/DL-6043.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
-  },
-  {
     "id": 111,
     "nombre": "PERFILADOR DE CEJAS SET X3",
     "precio": 905,
@@ -1057,9 +1049,9 @@
   },
   {
     "id": 193,
-    "nombre": "LAPIZ TESTER",
-    "precio": 3465,
-    "foto": "https://i.postimg.cc/MGDwzb0x/Captura-de-pantalla-2025-09-11-171216.png",
+    "nombre": "BUSCAPOLO INDUCTIVO",
+    "precio": 2671,
+    "foto": "https://i.postimg.cc/k49s1xPk/BP.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
@@ -1333,7 +1325,7 @@
     "precio": 13700,
     "foto": "https://i.postimg.cc/h40pxf55/BOTELLA-TERM-800ML.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 239,
@@ -1430,14 +1422,6 @@
     "foto": "https://i.postimg.cc/fT8GRfdn/pelotasmasc.jpg",
     "categoria": "VARIOS",
     "suspendido": true
-  },
-  {
-    "id": 258,
-    "nombre": "MANDOLINA PICADOR DE VERDURAS 15PCS",
-    "precio": 14600,
-    "foto": "https://i.postimg.cc/gk3s2vBB/mandolina.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
   },
   {
     "id": 259,
@@ -2693,6 +2677,30 @@
     "precio": 7000,
     "foto": "https://i.postimg.cc/FzcbFV8P/CANAA.jpg",
     "categoria": "CANDADOS",
+    "suspendido": false
+  },
+  {
+    "id": 1778002184418,
+    "nombre": "SET DE HERRAMIENTAS 27PCS",
+    "precio": 31799,
+    "foto": "https://i.postimg.cc/15gtd2BZ/CAJAHE.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1778002467423,
+    "nombre": "DESTORNILLADOR X 2 + BUSCAPOLO",
+    "precio": 2457,
+    "foto": "https://i.postimg.cc/L88M712Z/SETDES.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1778002541230,
+    "nombre": "DESTORNILLADOR DE GOLPE X6 AZUL",
+    "precio": 89445,
+    "foto": "https://i.postimg.cc/15Wd8YhL/DESB.jpg",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   }
 ]
