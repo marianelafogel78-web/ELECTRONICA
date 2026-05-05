@@ -1752,20 +1752,12 @@
     "suspendido": false
   },
   {
-    "id": 311,
-    "nombre": "SET DE HERRAMIENTAS 4PCS",
-    "precio": 6720,
-    "foto": "https://i.postimg.cc/mZPW1bn9/setherramientas.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
-  },
-  {
     "id": 312,
     "nombre": "VASO TERMICO 500 ML ACERO C/SENSOR DE TEMPERATURA",
     "precio": 9500,
     "foto": "https://i.postimg.cc/sghDHsDf/vasotermico.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 313,
@@ -2394,8 +2386,8 @@
   {
     "id": 1776950598947,
     "nombre": "SET DE PINZAS DE 8PLG X3 ",
-    "precio": 8499,
-    "foto": "https://i.postimg.cc/cHcdT2V5/K-137.jpg",
+    "precio": 13189,
+    "foto": "https://i.postimg.cc/GhTwRQGL/setp.png",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
