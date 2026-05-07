@@ -56,28 +56,12 @@
     "suspendido": false
   },
   {
-    "id": 10,
-    "nombre": "CARGADOR CELU TIME PD 30W",
-    "precio": 5630,
-    "foto": "https://i.postimg.cc/90DJvKF6/CC-59251.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
     "id": 12,
     "nombre": "CARGADOR DE AUTO CARGA RAPIDA 3.1 A",
     "precio": 3150,
     "foto": "https://i.postimg.cc/Wz956m8S/CAR-53004.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
-  },
-  {
-    "id": 17,
-    "nombre": "CARGADOR LEGATUS TIPO C 5.0 2USB",
-    "precio": 4250,
-    "foto": "https://i.postimg.cc/y8sPyx8w/cargadorc.png",
-    "categoria": "CARGADORES",
-    "suspendido": true
   },
   {
     "id": 18,
@@ -429,14 +413,6 @@
     "precio": 3700,
     "foto": "https://i.postimg.cc/rsbfGrrX/SH-60.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
-    "id": 87,
-    "nombre": "SET UTENSILIOS DE SILICONA X12PCS",
-    "precio": 19250,
-    "foto": "SET UTENSILIO SILICONA X 21PCS",
-    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -848,14 +824,6 @@
     "suspendido": false
   },
   {
-    "id": 161,
-    "nombre": "LINTERNA RECARGABLE CON LUPA",
-    "precio": 6990,
-    "foto": "https://i.postimg.cc/fWpG2X3M/linterna.png",
-    "categoria": "ILUMINACION",
-    "suspendido": true
-  },
-  {
     "id": 163,
     "nombre": "LINTERNA 9LED X 6 UNIDADES",
     "precio": 7140,
@@ -934,14 +902,6 @@
     "foto": "https://i.postimg.cc/ZYfHfLXq/luz-bici.png",
     "categoria": "ILUMINACION",
     "suspendido": false
-  },
-  {
-    "id": 178,
-    "nombre": "REFLECTOR 200W",
-    "precio": 18570,
-    "foto": "https://i.postimg.cc/HWNbRLMs/REFLECTOR.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
   },
   {
     "id": 179,
@@ -1314,10 +1274,10 @@
   {
     "id": 237,
     "nombre": "VASO TERMICO 890ML C/SORBETE",
-    "precio": 13700,
-    "foto": "https://i.postimg.cc/h40pxf55/BOTELLA-TERM-800ML.jpg",
+    "precio": 13300,
+    "foto": "https://i.postimg.cc/Y0M2Z8MX/vt.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 239,
@@ -1406,14 +1366,6 @@
     "foto": "https://i.postimg.cc/Pr9vkFT9/Whats-App-Image-2025-09-12-at-12-29-10.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false
-  },
-  {
-    "id": 255,
-    "nombre": "PELOTA MASCOTA C/SONIDO",
-    "precio": 1370,
-    "foto": "https://i.postimg.cc/fT8GRfdn/pelotasmasc.jpg",
-    "categoria": "VARIOS",
-    "suspendido": true
   },
   {
     "id": 259,
@@ -1696,14 +1648,6 @@
     "suspendido": false
   },
   {
-    "id": 307,
-    "nombre": "RELOJ DEPORTIVO INTELIGENTE TACTIL",
-    "precio": 6500,
-    "foto": "https://i.postimg.cc/qqTqqzGq/reloj.jpg",
-    "categoria": "RELOJES",
-    "suspendido": true
-  },
-  {
     "id": 308,
     "nombre": "CORTA BARBA ONICA DE 3 CABEZALES RECARGABLE",
     "precio": 16380,
@@ -1729,11 +1673,11 @@
   },
   {
     "id": 312,
-    "nombre": "VASO TERMICO 500 ML ACERO C/SENSOR DE TEMPERATURA",
+    "nombre": "VASO TERMICO 500 ML ACERO NEGRO",
     "precio": 9500,
-    "foto": "https://i.postimg.cc/sghDHsDf/vasotermico.jpg",
+    "foto": "https://i.postimg.cc/fyRnYPwT/vtt.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 313,
@@ -1928,14 +1872,6 @@
     "suspendido": false
   },
   {
-    "id": 1774041401666,
-    "nombre": "MOPA TRAPEADORA Y BALDE",
-    "precio": 14420,
-    "foto": "https://i.postimg.cc/3NJ2pwDV/mopa.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
-  },
-  {
     "id": 1774041520872,
     "nombre": "PARLANTE 3PLG BLUETOOHT/FM/MP3",
     "precio": 5880,
@@ -2048,14 +1984,6 @@
     "suspendido": false
   },
   {
-    "id": 1774562213544,
-    "nombre": "SOPORTE CELULAR TRIPODE ",
-    "precio": 1400,
-    "foto": "https://i.postimg.cc/yNJ7Vc4T/TRIPOCELU.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": false
-  },
-  {
     "id": 1775138909220,
     "nombre": "BOTELLA DEPORTIVA PLASTICA 1L",
     "precio": 4500,
@@ -2093,14 +2021,6 @@
     "precio": 1680,
     "foto": "https://i.postimg.cc/CM4YzhK4/guantes.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
-    "id": 1775139710312,
-    "nombre": "FOCO LED PARA ESPEJO",
-    "precio": 7260,
-    "foto": "https://i.postimg.cc/cCLzKND5/LUCES.jpg",
-    "categoria": "ILUMINACION",
     "suspendido": false
   },
   {
@@ -2253,7 +2173,7 @@
     "precio": 12320,
     "foto": "https://i.postimg.cc/fbcnCn4Y/botella.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1776726283207,
@@ -2324,14 +2244,6 @@
     "nombre": "RELOJ DESPERTADOR ALARMA CAMPANA",
     "precio": 9370,
     "foto": "https://i.postimg.cc/g0LPn6tz/REJ-4408.jpg",
-    "categoria": "RELOJES",
-    "suspendido": false
-  },
-  {
-    "id": 1776810367772,
-    "nombre": "RELOJ DESPERTADOR C/FECHA/TEMPERATURA",
-    "precio": 7855,
-    "foto": "https://i.postimg.cc/7Z6GhDFF/DS-6609.jpg",
     "categoria": "RELOJES",
     "suspendido": false
   },
@@ -2624,14 +2536,6 @@
     "suspendido": false
   },
   {
-    "id": 1777935145713,
-    "nombre": "MANDOLINA REDONDA 9PCS",
-    "precio": 14560,
-    "foto": "https://i.postimg.cc/cJK3hcTW/mr.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 1777935466886,
     "nombre": "PINZA DE FUERZA ",
     "precio": 6300,
@@ -2645,7 +2549,7 @@
     "precio": 15722,
     "foto": "https://i.postimg.cc/gjLBPRGK/zz.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777938343504,
@@ -2701,6 +2605,14 @@
     "precio": 5247,
     "foto": "https://i.postimg.cc/HktGdGQb/TP.jpg",
     "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1778155831022,
+    "nombre": "MINI SET DE CUCHILLOS DE COLOR 6 PZS",
+    "precio": 5100,
+    "foto": "https://i.postimg.cc/9Q3ghkvr/SETC.jpg",
+    "categoria": "HOGAR",
     "suspendido": false
   }
 ]
