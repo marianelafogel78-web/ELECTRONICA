@@ -2614,5 +2614,13 @@
     "foto": "https://i.postimg.cc/9Q3ghkvr/SETC.jpg",
     "categoria": "HOGAR",
     "suspendido": false
+  },
+  {
+    "id": 1778163177937,
+    "nombre": "LUZ DE EMERGENCIA 30 LED ",
+    "precio": 4970,
+    "foto": "https://i.postimg.cc/y8N7Ck9t/le.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
   }
 ]
