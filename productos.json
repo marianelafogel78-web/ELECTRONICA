@@ -48,14 +48,6 @@
     "suspendido": false
   },
   {
-    "id": 9,
-    "nombre": "CARGADOR 20W C/ CABLE TIPO C A TIPO C",
-    "precio": 4200,
-    "foto": "https://i.postimg.cc/fLzFcbZz/TMCC408.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
     "id": 12,
     "nombre": "CARGADOR DE AUTO CARGA RAPIDA 3.1 A",
     "precio": 3150,
@@ -100,7 +92,7 @@
     "nombre": "ESTACION DE CARGA 10 PUERTOS USB TOTAL 60W",
     "precio": 17170,
     "foto": "https://i.postimg.cc/DyB1qBvs/CAR-59051.jpg",
-    "categoria": "CARGADORES",
+    "categoria": "FUENTES DE CARGA/ADAPTADORES",
     "suspendido": false
   },
   {
@@ -108,7 +100,7 @@
     "nombre": "FUENTE ALIMENTACION UNIVERSAL 12V 3A",
     "precio": 5205,
     "foto": "https://i.postimg.cc/wMJg9Wwr/TMFT3009.jpg",
-    "categoria": "CARGADORES",
+    "categoria": "FUENTES DE CARGA/ADAPTADORES",
     "suspendido": false
   },
   {
@@ -116,7 +108,7 @@
     "nombre": "FUENTE DE ALIMENTACION 65W TIPOC/USB",
     "precio": 21000,
     "foto": "https://i.postimg.cc/QMy31LPP/CAR-59046.jpg",
-    "categoria": "CARGADORES",
+    "categoria": "FUENTES DE CARGA/ADAPTADORES",
     "suspendido": false
   },
   {
@@ -180,15 +172,7 @@
     "nombre": "ADAPTADOR HDMI A VGA",
     "precio": 3510,
     "foto": "https://i.postimg.cc/5tPSZg9D/CAB-45003.jpg",
-    "categoria": "CABLES",
-    "suspendido": false
-  },
-  {
-    "id": 34,
-    "nombre": "CABLE 2 A 1/ 1.5M (3.5 A 2RCA)",
-    "precio": 760,
-    "foto": "https://i.postimg.cc/xCSxNt5H/CAB-46008.jpg",
-    "categoria": "CABLES",
+    "categoria": "FUENTES DE CARGA/ADAPTADORES",
     "suspendido": false
   },
   {
@@ -348,7 +332,7 @@
     "nombre": "BALANZA COCINA 10KG",
     "precio": 5970,
     "foto": "https://i.postimg.cc/k55MHp8K/Whats-App-Image-2025-09-10-at-23-33-21-1.jpg",
-    "categoria": "HOGAR",
+    "categoria": "BALANZAS",
     "suspendido": false
   },
   {
@@ -356,7 +340,7 @@
     "nombre": "BALANZA DIGITAL DE BAÑO PERSONAL",
     "precio": 11690,
     "foto": "https://i.postimg.cc/66fy4ctX/BL-91057.jpg",
-    "categoria": "HOGAR",
+    "categoria": "BALANZAS",
     "suspendido": false
   },
   {
@@ -700,7 +684,7 @@
     "nombre": "BALANZA POCKET GRAMERA 500GR SV-500",
     "precio": 5310,
     "foto": "https://i.postimg.cc/mDGgtznk/K-MH500.jpg",
-    "categoria": "HOGAR",
+    "categoria": "BALANZAS",
     "suspendido": false
   },
   {
@@ -1460,7 +1444,7 @@
     "nombre": "BALANZA PERSONAL CUADRADA 180K",
     "precio": 11830,
     "foto": "https://i.postimg.cc/mk0Dm5d4/BALANZACUADRADA.jpg",
-    "categoria": "HOGAR",
+    "categoria": "BALANZAS",
     "suspendido": false
   },
   {
@@ -1468,7 +1452,7 @@
     "nombre": "BALANZA 50 KG EQUIPAJESMILE",
     "precio": 4620,
     "foto": "https://i.postimg.cc/kgNQtQ45/CX-E02.jpg",
-    "categoria": "HOGAR",
+    "categoria": "BALANZAS",
     "suspendido": false
   },
   {
@@ -1588,7 +1572,7 @@
     "nombre": "CARGADOR DE NOTEBOOK C/FICHA LENOVO",
     "precio": 11200,
     "foto": "https://i.postimg.cc/tTwQY1xw/cargadornot.jpg",
-    "categoria": "CARGADORES",
+    "categoria": "FUENTES DE CARGA/ADAPTADORES",
     "suspendido": false
   },
   {
@@ -1716,7 +1700,7 @@
     "nombre": "FUENTE DE ALIMENTACIÓN 5V 2A",
     "precio": 3150,
     "foto": "https://i.postimg.cc/pXnv42YN/FUENTE.jpg",
-    "categoria": "CARGADORES",
+    "categoria": "FUENTES DE CARGA/ADAPTADORES",
     "suspendido": false
   },
   {
@@ -2340,7 +2324,7 @@
     "nombre": "BALANZA MINI DIGITAL A PILA ",
     "precio": 8080,
     "foto": "https://i.postimg.cc/nzgvJdLr/BALANZA.JPG",
-    "categoria": "HOGAR",
+    "categoria": "BALANZAS",
     "suspendido": false
   },
   {
@@ -2412,7 +2396,7 @@
     "nombre": "USB 7 ENTRADAS, INTERRUPTOR IND. IBEK",
     "precio": 4390,
     "foto": "https://i.postimg.cc/nccgwb5b/USBIBEK.jpg",
-    "categoria": "CARGADORES",
+    "categoria": "FUENTES DE CARGA/ADAPTADORES",
     "suspendido": false
   },
   {
@@ -2524,7 +2508,7 @@
     "nombre": "BALANZA GRAMERA DE PRECISION 0.01-500G ",
     "precio": 7420,
     "foto": "https://i.postimg.cc/156YCpCX/bg.jpg",
-    "categoria": "HOGAR",
+    "categoria": "BALANZAS",
     "suspendido": false
   },
   {
@@ -2621,6 +2605,62 @@
     "precio": 4970,
     "foto": "https://i.postimg.cc/y8N7Ck9t/le.jpg",
     "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1778541004405,
+    "nombre": "CABLE 2 A 1 AUDIO  1.5M ",
+    "precio": 735,
+    "foto": "https://i.postimg.cc/Kv2Y4q4j/ca.jpg",
+    "categoria": "CABLES",
+    "suspendido": false
+  },
+  {
+    "id": 1778541935505,
+    "nombre": "SET DE PUNTAS DESTORNILLADORES 40PCS MELECH",
+    "precio": 16940,
+    "foto": "https://i.postimg.cc/9MDBRX8f/SET-P.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1778542191742,
+    "nombre": "BOLSA DE AGUA CALIENTE",
+    "precio": 4340,
+    "foto": "https://i.postimg.cc/PqPDK3Wd/BA.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1778542721473,
+    "nombre": "GUANTE CON TACTIL TERMICOS PARA BICI/MOTO",
+    "precio": 6230,
+    "foto": "https://i.postimg.cc/3R8PPGxf/GT.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1778543000838,
+    "nombre": "KIT DE REPARACION GOMA AUTO ",
+    "precio": 2990,
+    "foto": "https://i.postimg.cc/V6vKqW6c/KA.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1778543221003,
+    "nombre": "TENDER DE ROPA PARA PARED EXTENSIBLE 12M",
+    "precio": 15680,
+    "foto": "https://i.postimg.cc/yxqr7S1V/TR.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1778543340202,
+    "nombre": "TECLADO GAMER OFFICE RETROILUMINADO",
+    "precio": 9380,
+    "foto": "https://i.postimg.cc/yxqr7S1V/TR.jpg",
+    "categoria": "COMPUTACION",
     "suspendido": false
   }
 ]
