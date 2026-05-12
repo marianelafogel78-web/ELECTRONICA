@@ -316,7 +316,7 @@
     "nombre": "ABRELATAS/DESTAPADOR BLISTER",
     "precio": 990,
     "foto": "https://i.postimg.cc/1t4gbHD3/abrelaaas.jpg",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -324,7 +324,7 @@
     "nombre": "AFILADOR DE CUCHILLO 3 EN 1",
     "precio": 2280,
     "foto": "https://i.postimg.cc/QxyytZQc/BN1642.jpg",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -364,7 +364,7 @@
     "nombre": "ENCENDEDOR RECARGABLE USB",
     "precio": 5700,
     "foto": "https://i.postimg.cc/hPvPtwhj/JL-897-2.jpg",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -372,7 +372,7 @@
     "nombre": "JARRA PAVA ELECTRICA CON CORTE MATE",
     "precio": 19900,
     "foto": "https://i.postimg.cc/WpBHb8K6/STJC150.jpg",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -380,7 +380,7 @@
     "nombre": "MATE CLASICO NEO 150ML NEO-",
     "precio": 7780,
     "foto": "https://i.postimg.cc/V6hd30Jk/MATE.jpg",
-    "categoria": "HOGAR",
+    "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
   {
@@ -404,7 +404,7 @@
     "nombre": "TAPON TERMO TIPO STANLEY",
     "precio": 2100,
     "foto": "https://i.postimg.cc/qB92s8np/Captura-de-pantalla-2025-09-11-171821.png",
-    "categoria": "HOGAR",
+    "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
   {
@@ -420,7 +420,7 @@
     "nombre": "TERMOMETRO DIGITAL PARA ALIMENTOS",
     "precio": 3000,
     "foto": "https://i.postimg.cc/T39zryhh/TP101.jpg",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -428,7 +428,7 @@
     "nombre": "TIMBRE INALAMBRICO",
     "precio": 9650,
     "foto": "https://i.postimg.cc/x8pQmKtH/Captura-de-pantalla-2025-09-11-175409.png",
-    "categoria": "HOGAR",
+    "categoria": "VARIOS",
     "suspendido": false
   },
   {
@@ -652,7 +652,7 @@
     "nombre": "MAGICLIK",
     "precio": 2240,
     "foto": "https://i.postimg.cc/43KzzrNn/MAGICLIK.jpg",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -660,7 +660,7 @@
     "nombre": "PISTOLA SILICONA",
     "precio": 2670,
     "foto": "https://i.postimg.cc/RZKfPcx0/PISTOLA-SILICONA.jpg",
-    "categoria": "LIBRERIA",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
@@ -668,7 +668,7 @@
     "nombre": "HOLDER PARA BICI",
     "precio": 2930,
     "foto": "https://i.postimg.cc/W4pxjD2J/TMHD9466.jpg",
-    "categoria": "VARIOS",
+    "categoria": "SOPORTES TV/CELU",
     "suspendido": false
   },
   {
@@ -1268,8 +1268,8 @@
     "nombre": "BOTELLA PLEGABLE DEPORTIVA INFANTIL",
     "precio": 5800,
     "foto": "https://i.postimg.cc/3JdJpDwT/BOTELLA-PLEGABLE-DEPORTE.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": false
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": true
   },
   {
     "id": 240,
@@ -1284,7 +1284,7 @@
     "nombre": "BOTELLA DE PLASTICO 700ML",
     "precio": 7000,
     "foto": "https://i.postimg.cc/gkM9ZZpQ/vasos.jpg",
-    "categoria": "NIÑOS",
+    "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
   {
@@ -1372,7 +1372,7 @@
     "nombre": "ORGANIZADOR Y ESCURRIDOR DE CUBIERTOS",
     "precio": 7600,
     "foto": "https://i.postimg.cc/tJqqndzy/escurridor.jpg",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -1524,7 +1524,7 @@
     "nombre": "SOPORTE FIJO TV 26-63 PLG",
     "precio": 5670,
     "foto": "https://i.postimg.cc/dV0dtzQ6/soportetn65pul.jpg",
-    "categoria": "VARIOS",
+    "categoria": "SOPORTES TV/CELU",
     "suspendido": false
   },
   {
@@ -1532,7 +1532,7 @@
     "nombre": "SOPORTE FIJO TV 14-42 PLG",
     "precio": 3640,
     "foto": "https://i.postimg.cc/d0PqSyfD/soportetv24pul.jpg",
-    "categoria": "VARIOS",
+    "categoria": "SOPORTES TV/CELU",
     "suspendido": false
   },
   {
@@ -1540,7 +1540,7 @@
     "nombre": "SOPORTE TV REFORZADO BRAZO 32-65 PLG",
     "precio": 12600,
     "foto": "https://i.postimg.cc/3wMz5Yht/soportetv.jpg",
-    "categoria": "VARIOS",
+    "categoria": "SOPORTES TV/CELU",
     "suspendido": false
   },
   {
@@ -1668,7 +1668,7 @@
     "nombre": "BATIDORA DE CAFE RECARGABLE",
     "precio": 6825,
     "foto": "https://i.postimg.cc/wBncWQ68/Btidora.jpg",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -1693,7 +1693,7 @@
     "precio": 10850,
     "foto": "https://i.postimg.cc/xdV1tXW7/CANDADOMOTO.jpg",
     "categoria": "CANDADOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 317,
@@ -1844,7 +1844,7 @@
     "nombre": "SET BOLS 3 UNIDADES DE VIDRIO C/TAPAS HERMETICAS",
     "precio": 18500,
     "foto": "https://i.postimg.cc/8ztyVGQp/SETBOLS.jpg",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -1916,7 +1916,7 @@
     "nombre": "MATE TERMICO DE ACERO INOXIDABLE 180ML",
     "precio": 7050,
     "foto": "https://i.postimg.cc/0NJNWKSn/MATETERMICO.jpg",
-    "categoria": "HOGAR",
+    "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
   {
@@ -2012,7 +2012,7 @@
     "nombre": "SOPORTE MANITO",
     "precio": 784,
     "foto": "https://i.postimg.cc/rs79867y/SOPORTEMAO.jpg",
-    "categoria": "VARIOS",
+    "categoria": "SOPORTES TV/CELU",
     "suspendido": false
   },
   {
@@ -2068,7 +2068,7 @@
     "nombre": "JARRA PAVA ELECTRICA 2L. SIN CORTE ORIX",
     "precio": 16100,
     "foto": "https://i.postimg.cc/x1mcC5Yk/PAVAORIX.png",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -2084,7 +2084,7 @@
     "nombre": "TAPON PICO CEBADOR COMPATIBLE STANLEY",
     "precio": 2860,
     "foto": "https://i.postimg.cc/mZwbmqZx/TAPON-TERMO.jpg",
-    "categoria": "HOGAR",
+    "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
   {
@@ -2124,7 +2124,7 @@
     "nombre": "JUEGO X 3 PELA PAPA/CUCHILLO/DESTAPADOR",
     "precio": 3290,
     "foto": "https://i.postimg.cc/RFB8B1cD/P517.jpg",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -2164,7 +2164,7 @@
     "nombre": " HOLDER CUELLO FLEXIBLE",
     "precio": 2298,
     "foto": "https://i.postimg.cc/P5b2Ftx1/holder.jpg",
-    "categoria": "VARIOS",
+    "categoria": "SOPORTES TV/CELU",
     "suspendido": false
   },
   {
@@ -2252,7 +2252,7 @@
     "nombre": " MAQUINA DE COSER A220V/ INCLUYE FUENTE",
     "precio": 20200,
     "foto": "https://i.postimg.cc/1XWY3rNK/SM-202A.jpg",
-    "categoria": "VARIOS",
+    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -2516,7 +2516,7 @@
     "nombre": " DISPENSER DE DETERGENTE C/PORTA ESPONJA",
     "precio": 11999,
     "foto": "https://i.postimg.cc/wMYD7sXd/dj.jpg",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -2533,7 +2533,7 @@
     "precio": 15722,
     "foto": "https://i.postimg.cc/gjLBPRGK/zz.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777938343504,
@@ -2596,7 +2596,7 @@
     "nombre": "MINI SET DE CUCHILLOS DE COLOR 6 PZS",
     "precio": 5100,
     "foto": "https://i.postimg.cc/9Q3ghkvr/SETC.jpg",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -2628,7 +2628,7 @@
     "nombre": "BOLSA DE AGUA CALIENTE",
     "precio": 4340,
     "foto": "https://i.postimg.cc/PqPDK3Wd/BA.jpg",
-    "categoria": "VARIOS",
+    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -2659,8 +2659,16 @@
     "id": 1778543340202,
     "nombre": "TECLADO GAMER OFFICE RETROILUMINADO",
     "precio": 9380,
-    "foto": "https://i.postimg.cc/yxqr7S1V/TR.jpg",
+    "foto": "https://i.postimg.cc/VkVRq1mp/TG.jpg",
     "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1778618207888,
+    "nombre": "KIT DE TAPA X6 UNIDADES DE SILICONA",
+    "precio": 2450,
+    "foto": "https://i.postimg.cc/hvts8GQW/TS.jpg",
+    "categoria": "COCINA",
     "suspendido": false
   }
 ]
