@@ -2670,5 +2670,13 @@
     "foto": "https://i.postimg.cc/hvts8GQW/TS.jpg",
     "categoria": "COCINA",
     "suspendido": false
+  },
+  {
+    "id": 1778636413553,
+    "nombre": "TERMOMETRO ",
+    "precio": 2300,
+    "foto": "https://i.postimg.cc/Wz9TnjTF/TT.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
   }
 ]
