@@ -428,7 +428,7 @@
     "nombre": "TIMBRE INALAMBRICO",
     "precio": 9650,
     "foto": "https://i.postimg.cc/x8pQmKtH/Captura-de-pantalla-2025-09-11-175409.png",
-    "categoria": "VARIOS",
+    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -449,7 +449,7 @@
   },
   {
     "id": 96,
-    "nombre": "AURICULAES INALAMBRICOS TIME AU-17017",
+    "nombre": "AURICULARES INALAMBRICOS TIME AU-17017",
     "precio": 7150,
     "foto": "https://i.postimg.cc/t4wfgb80/AURI.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
@@ -740,7 +740,7 @@
     "nombre": "TENSIOMETRO",
     "precio": 17600,
     "foto": "https://i.postimg.cc/W3P0RZmM/Captura-de-pantalla-2025-09-11-175949.png",
-    "categoria": "VARIOS",
+    "categoria": "HOGAR",
     "suspendido": true
   },
   {
@@ -961,7 +961,7 @@
   },
   {
     "id": 190,
-    "nombre": "ENCHUFE AMERICANOENCHUFE AMERICANO",
+    "nombre": "ENCHUFE AMERICANO",
     "precio": 825,
     "foto": "https://i.postimg.cc/kXW2NWMP/Captura-de-pantalla-2025-09-11-161544.png",
     "categoria": "ENCHUFES/EXTENSIONES",
@@ -1481,7 +1481,7 @@
   },
   {
     "id": 283,
-    "nombre": "AURICULAR BLUETOOTH TIME BLANCO/NEGRO",
+    "nombre": "AURICULAR BT TIME BLANCO/NEGRO",
     "precio": 10990,
     "foto": "https://i.postimg.cc/NfFJZPqy/auri1.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
@@ -1684,7 +1684,7 @@
     "nombre": "NEBULIZADOR PORTATIL ADUL/NIÑO USB/PILA",
     "precio": 18570,
     "foto": "https://i.postimg.cc/vHmgV6sn/BEBILIZADOR.jpg",
-    "categoria": "VARIOS",
+    "categoria": "HOGAR",
     "suspendido": false
   },
   {
