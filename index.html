@@ -819,14 +819,14 @@ const buscarProductos = () => {
                         </div>
                     </div>
                     <div>
-                        <span style="font-weight:bold; margin-right: 15px;">$${subtotal.toFixed(2)}</span>
+                        <span style="font-weight:bold; margin-right: 15px;">${new Intl.NumberFormat('es-AR', { style: 'currency', currency: 'ARS' }).format(subtotal)}</span>
                         <button onclick="eliminarDelCarrito(${item.id})" style="background:none; border:none; color:red; cursor:pointer; font-size:1.2em;">🗑️</button>
                     </div>
                 `;
                 listaCarrito.appendChild(divItem);
             });
 
-            carritoTotal.innerText = `$${total.toFixed(2)}`;
+            carritoTotal.innerText = new Intl.NumberFormat('es-AR', { style: 'currency', currency: 'ARS' }).format(total);
         };
 
         const eliminarDelCarrito = (productoId) => {
@@ -872,39 +872,45 @@ const buscarProductos = () => {
             document.getElementById('carrito-count').innerText = totalItems;
         };
 
-        const generarMensajeWhatsApp = () => {
-            const nombreCliente = document.getElementById('nombre-cliente-whatsapp').value.trim();
-            const aclaracionPedido = document.getElementById('aclaracion-pedido').value.trim();
-            
-            if (carrito.length === 0) {
-                Swal.fire({ title: "CARRITO VACÍO", text: "POR FAVOR, AGREGA PRODUCTOS PRIMERO.", icon: "info", confirmButtonColor: "#191970" });
-                return;
-            }
-            if (nombreCliente === "") {
-                Swal.fire({ title: "FALTA TU NOMBRE", text: "POR FAVOR, INGRESA TU NOMBRE PARA EL PEDIDO.", icon: "warning", confirmButtonColor: "#191970" });
-                return;
-            }
+       const generarMensajeWhatsApp = () => {
+    const nombreCliente = document.getElementById('nombre-cliente-whatsapp').value.trim();
+    const aclaracionPedido = document.getElementById('aclaracion-pedido').value.trim();
+    
+    if (carrito.length === 0) {
+        Swal.fire({ title: "CARRITO VACÍO", text: "POR FAVOR, AGREGA PRODUCTOS PRIMERO.", icon: "info", confirmButtonColor: "#191970" });
+        return;
+    }
+    if (nombreCliente === "") {
+        Swal.fire({ title: "FALTA TU NOMBRE", text: "POR FAVOR, INGRESA TU NOMBRE PARA EL PEDIDO.", icon: "warning", confirmButtonColor: "#191970" });
+        return;
+    }
 
-             let mensaje = `HOLA, SOY *${nombreCliente.toUpperCase()}*.\nESTE ES MI PEDIDO:\n`;
-            mensaje += `--------------------------\n`;
-            
-            let totalPedido = 0;
-            carrito.forEach(item => {
-                const subtotal = item.precio * item.cantidad;
-                totalPedido += subtotal;
-                mensaje += `- ${item.nombre} (x${item.cantidad}) - SUBT: $${subtotal.toFixed(2)}\n`;
-            });
+    let mensaje = `HOLA, SOY *${nombreCliente.toUpperCase()}*.\nESTE ES MI PEDIDO:\n`;
+    mensaje += `--------------------------\n`;
+    
+    let totalPedido = 0;
+    const formatoMoneda = new Intl.NumberFormat('es-AR', { style: 'currency', currency: 'ARS' });
 
-            mensaje += `--------------------------\n`;
-            mensaje += `*TOTAL DEL PEDIDO: $${totalPedido.toFixed(2)}*\n\n`;
-            if (aclaracionPedido !== "") {
-    mensaje += `*ACLARACIONES DEL PEDIDO:*\n${aclaracionPedido}\n\n`;
-}
-            mensaje += `_QUEDO A LA ESPERA DE TU CONFIRMACION PARA COORDINAR ENTREGA_`;
+    carrito.forEach(item => {
+        const subtotal = item.precio * item.cantidad;
+        totalPedido += subtotal;
+        
+        // LIMPIEZA TOTAL: Eliminamos el "-" y los espacios al inicio.
+        // La línea empieza directamente con el NOMBRE.
+        mensaje += `${item.nombre.trim()} (x${item.cantidad}) - SUBT: ${formatoMoneda.format(subtotal)}\n`;
+    });
 
-            const url = `https://wa.me/${TELEFONO_WHATSAPP}?text=${encodeURIComponent(mensaje)}`;
-            window.open(url, '_blank');
-        };
+    mensaje += `--------------------------\n`;
+    mensaje += `*TOTAL DEL PEDIDO: ${formatoMoneda.format(totalPedido)}*\n\n`;
+
+    if (aclaracionPedido !== "") {
+        mensaje += `*ACLARACIONES DEL PEDIDO:*\n${aclaracionPedido}\n\n`;
+    }
+    mensaje += `_QUEDO A LA ESPERA DE TU CONFIRMACION PARA COORDINAR ENTREGA_`;
+
+    const url = `https://wa.me/${TELEFONO_WHATSAPP}?text=${encodeURIComponent(mensaje)}`;
+    window.open(url, '_blank');
+};
 
         // =================================================================
         // 5. LÓGICA DE ADMINISTRACIÓN
