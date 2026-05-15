@@ -114,7 +114,7 @@
   {
     "id": 26,
     "nombre": "OTG TIPO C",
-    "precio": 550,
+    "precio": 650,
     "foto": "https://i.postimg.cc/d17mNw57/USBTC.jpg",
     "categoria": "CABLES",
     "suspendido": false
@@ -268,7 +268,7 @@
     "nombre": "PARLANTE 3´ BT FM/MP3",
     "precio": 10990,
     "foto": "https://i.postimg.cc/bv81YG46/parlante.png",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -276,7 +276,7 @@
     "nombre": "PARLANTE 3´ GTS2166",
     "precio": 7280,
     "foto": "https://i.postimg.cc/9fVbJ69C/PARLAN.png",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -284,7 +284,7 @@
     "nombre": "PARLANTE RUEDA BT/FM/USB CON LUZ",
     "precio": 11760,
     "foto": "https://i.postimg.cc/PrxjLL4j/PARLANTW-RUEDA.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -292,7 +292,7 @@
     "nombre": "PARLANTE C/LUZ BT/FM/MP3",
     "precio": 7420,
     "foto": "https://i.postimg.cc/3rqG6Gdx/PARLANTEL-UZ.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -300,7 +300,7 @@
     "nombre": "PARLANTE 3PLG BLUETOOHT/FM/MP3",
     "precio": 10900,
     "foto": "https://i.postimg.cc/Ssw32y1X/GTS-2265.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -308,7 +308,7 @@
     "nombre": "PARLANTE BT CON LUZ 1 MICROFONO",
     "precio": 10280,
     "foto": "https://i.postimg.cc/fTzGgrMb/K18.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -381,7 +381,7 @@
     "precio": 7780,
     "foto": "https://i.postimg.cc/V6hd30Jk/MATE.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 85,
@@ -801,9 +801,9 @@
   },
   {
     "id": 160,
-    "nombre": "LINTERNA MINI RECARGABLE",
+    "nombre": "LINTERNA MINI RECARGABLE METAL",
     "precio": 3595,
-    "foto": "https://i.postimg.cc/yxVqghXs/LINTERNAESTUCHE.jpg",
+    "foto": "https://i.postimg.cc/Pf0m8kBB/LM.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
   },
@@ -875,7 +875,7 @@
     "id": 176,
     "nombre": "LINTERNA RUILANG RECARGABLE 1000 LUMEN ZOOM",
     "precio": 17360,
-    "foto": "https://impotekno.com/fotos/P50.jpg",
+    "foto": "https://i.postimg.cc/9FXLJ2xJ/l50.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
   },
@@ -1133,7 +1133,7 @@
     "precio": 3860,
     "foto": "https://i.postimg.cc/Y2gZtSqC/KK-88MS.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 214,
@@ -1164,7 +1164,7 @@
     "nombre": "MICROFONO INALAMBRICO (M-32006)",
     "precio": 18730,
     "foto": "https://i.postimg.cc/YqdtFwhg/MIC-32001.jpg",
-    "categoria": "TECNOLOGIA",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -1356,7 +1356,7 @@
     "nombre": "MICROFONO KARAOKE EFECTO DE VOZ",
     "precio": 7840,
     "foto": "https://i.postimg.cc/j2PHCbvN/micro.jpg",
-    "categoria": "TECNOLOGIA",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -1645,7 +1645,7 @@
     "precio": 8190,
     "foto": "https://i.postimg.cc/3NSs6qNP/zapaflor.jpg",
     "categoria": "ENCHUFES/EXTENSIONES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 310,
@@ -1669,7 +1669,7 @@
     "precio": 6825,
     "foto": "https://i.postimg.cc/wBncWQ68/Btidora.jpg",
     "categoria": "COCINA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 314,
@@ -1860,7 +1860,7 @@
     "nombre": "PARLANTE 3PLG BLUETOOHT/FM/MP3",
     "precio": 5880,
     "foto": "https://i.postimg.cc/gcSZQmhk/parlante3.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -1988,7 +1988,7 @@
     "nombre": "PARLANTE BT PORTATIL RESISTENTE AL AGUA",
     "precio": 6700,
     "foto": "https://i.postimg.cc/KcWkpDnT/PARLANTEBT.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -1996,7 +1996,7 @@
     "nombre": "PARLANTE BT REDONDO C/LUZ RGB",
     "precio": 9100,
     "foto": "https://i.postimg.cc/HLJsyfhv/PARLANRED.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -2051,7 +2051,7 @@
     "id": 1776197680330,
     "nombre": "CARGADOR SAMSUMG 45W",
     "precio": 5870,
-    "foto": "https://i.postimg.cc/DybNY4n1/cargador45w.webp",
+    "foto": "https://i.postimg.cc/05zQmKvy/c45.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
   },
@@ -2100,7 +2100,7 @@
     "nombre": "PARLANTE BT PORTATIL KTS-1828",
     "precio": 12490,
     "foto": "https://i.postimg.cc/cHNShqvp/PARLANTE-PORT.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -2108,7 +2108,7 @@
     "nombre": "PARLANTE 3PLG BT C/M",
     "precio": 7140,
     "foto": "https://i.postimg.cc/RV6WkwGR/GTS-1867.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -2148,7 +2148,7 @@
     "nombre": "GUANTE SPORT FRIO POLAR",
     "precio": 2500,
     "foto": "https://i.postimg.cc/xdhJvm2M/guantes.jpg",
-    "categoria": "VARIOS",
+    "categoria": "INVIERNO",
     "suspendido": false
   },
   {
@@ -2161,9 +2161,9 @@
   },
   {
     "id": 1776726283207,
-    "nombre": " HOLDER CUELLO FLEXIBLE",
+    "nombre": "SOPORTE UNIVERSAL CUELLO FLEXIBLE CON VENTOSA",
     "precio": 2298,
-    "foto": "https://i.postimg.cc/P5b2Ftx1/holder.jpg",
+    "foto": "https://i.postimg.cc/pLkNdkpk/SD.jpg",
     "categoria": "SOPORTES TV/CELU",
     "suspendido": false
   },
@@ -2172,7 +2172,7 @@
     "nombre": "PARLANTE 3PLG SOLO NEGRO GTS-2288",
     "precio": 5880,
     "foto": "https://i.postimg.cc/C5yXZPBL/PARL.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -2180,7 +2180,7 @@
     "nombre": "PARLANTE MP3 C/LINTERNA",
     "precio": 7420,
     "foto": "https://i.postimg.cc/43DBwKfg/PARLINT.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -2188,7 +2188,7 @@
     "nombre": "PARLANTE BLUETOOTH",
     "precio": 8680,
     "foto": "https://i.postimg.cc/Twxnpn2T/GTS-1679.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -2196,7 +2196,7 @@
     "nombre": "PARLANTE BT LUZ",
     "precio": 6720,
     "foto": "https://i.postimg.cc/tJwTVHds/GTS-1732.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -2204,15 +2204,15 @@
     "nombre": "PARLANTE RGB RESISTENTE AL AGUA",
     "precio": 14980,
     "foto": "https://i.postimg.cc/hGtfwMGh/KTS-2408.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
+    "categoria": "PARLANTES Y MICROFONOS",
+    "suspendido": true
   },
   {
     "id": 1776809294877,
     "nombre": "PARLANTE BT CON LUZ",
     "precio": 7000,
     "foto": "https://i.postimg.cc/4NRnZXdG/KTX-1997.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -2292,7 +2292,7 @@
     "nombre": "PARLANTE BT MINI ASTRONAUTA",
     "precio": 5890,
     "foto": "https://i.postimg.cc/Jz2CMMMk/GTS-2097.jpg",
-    "categoria": "PARLANTES",
+    "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
   },
   {
@@ -2373,7 +2373,7 @@
     "precio": 3936,
     "foto": "https://i.postimg.cc/HnB9VFbJ/PEGAMENTO.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777141259436,
@@ -2509,7 +2509,7 @@
     "precio": 7420,
     "foto": "https://i.postimg.cc/156YCpCX/bg.jpg",
     "categoria": "BALANZAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777935070970,
@@ -2533,11 +2533,11 @@
     "precio": 15722,
     "foto": "https://i.postimg.cc/gjLBPRGK/zz.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777938343504,
-    "nombre": "CADENA D MOTO CON CODIGO",
+    "nombre": "CADENA PARA MOTO CON CODIGO",
     "precio": 4480,
     "foto": "https://i.postimg.cc/BZy28kCw/lc.jpg",
     "categoria": "CANDADOS",
@@ -2593,7 +2593,7 @@
   },
   {
     "id": 1778155831022,
-    "nombre": "MINI SET DE CUCHILLOS DE COLOR 6 PZS",
+    "nombre": "SET DE CUCHILLOS DE COLOR 6 PZS",
     "precio": 5100,
     "foto": "https://i.postimg.cc/9Q3ghkvr/SETC.jpg",
     "categoria": "COCINA",
@@ -2628,7 +2628,7 @@
     "nombre": "BOLSA DE AGUA CALIENTE",
     "precio": 4340,
     "foto": "https://i.postimg.cc/PqPDK3Wd/BA.jpg",
-    "categoria": "HOGAR",
+    "categoria": "INVIERNO",
     "suspendido": false
   },
   {
@@ -2636,7 +2636,7 @@
     "nombre": "GUANTE CON TACTIL TERMICOS PARA BICI/MOTO",
     "precio": 6230,
     "foto": "https://i.postimg.cc/3R8PPGxf/GT.jpg",
-    "categoria": "VARIOS",
+    "categoria": "INVIERNO",
     "suspendido": false
   },
   {
@@ -2645,7 +2645,7 @@
     "precio": 2990,
     "foto": "https://i.postimg.cc/V6vKqW6c/KA.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1778543221003,
@@ -2677,6 +2677,38 @@
     "precio": 2300,
     "foto": "https://i.postimg.cc/Wz9TnjTF/TT.jpg",
     "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1778882060471,
+    "nombre": "AURICULAR M-LIBRES TIME AU-11022",
+    "precio": 1337,
+    "foto": "https://i.postimg.cc/VvmY0vWX/a11022.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1778883793877,
+    "nombre": "LINTERNA LED RECARGABLE MULTIFUNCION",
+    "precio": 5250,
+    "foto": "https://i.postimg.cc/fy8j63HC/LN.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1778884501053,
+    "nombre": "PASAMONTAÑA TERMICO PRIMERA PIEL",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/zDkryJbW/PM.jpg",
+    "categoria": "INVIERNO",
+    "suspendido": false
+  },
+  {
+    "id": 1778884771450,
+    "nombre": "CABLE TIPO C 25W MOTOROLA ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/HxqVjTVv/bv.jpg",
+    "categoria": "CABLES",
     "suspendido": false
   }
 ]
