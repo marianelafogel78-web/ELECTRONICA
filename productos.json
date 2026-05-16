@@ -2710,5 +2710,13 @@
     "foto": "https://i.postimg.cc/HxqVjTVv/bv.jpg",
     "categoria": "CABLES",
     "suspendido": false
+  },
+  {
+    "id": 1778890413735,
+    "nombre": "GUANTES TEJIDOS DE INVIERNO  PACK X12",
+    "precio": 12000,
+    "foto": "https://i.postimg.cc/mDVkT77y/GUANTESA.jpg",
+    "categoria": "INVIERNO",
+    "suspendido": false
   }
 ]
