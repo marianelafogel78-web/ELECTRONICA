@@ -16,14 +16,6 @@
     "suspendido": false
   },
   {
-    "id": 5,
-    "nombre": "AURICULAR INALAMBRICO ULTRAPODS PRO IP4",
-    "precio": 6267,
-    "foto": "https://i.postimg.cc/MpXSgkBn/AURI-ULTRA-PRO.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
     "id": 6,
     "nombre": "CARGADOR CABEZAL BOLSITA 1A TIME",
     "precio": 1460,
@@ -314,7 +306,7 @@
   {
     "id": 66,
     "nombre": "ABRELATAS/DESTAPADOR BLISTER",
-    "precio": 990,
+    "precio": 960,
     "foto": "https://i.postimg.cc/1t4gbHD3/abrelaaas.jpg",
     "categoria": "COCINA",
     "suspendido": false
@@ -689,7 +681,7 @@
   },
   {
     "id": 138,
-    "nombre": "CALENTADOR AGUA 220WCALENTADOR AGUA 220W",
+    "nombre": "CALENTADOR DE AGUA 220W",
     "precio": 1680,
     "foto": "https://i.postimg.cc/kGLMczDf/calentador-agua.jpg",
     "categoria": "HOGAR",
@@ -794,7 +786,7 @@
   {
     "id": 159,
     "nombre": "LINTERNA  MINERA",
-    "precio": 5950,
+    "precio": 5490,
     "foto": "https://i.postimg.cc/8krPxG5S/LUZ-MINERA.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1688,14 +1680,6 @@
     "suspendido": false
   },
   {
-    "id": 316,
-    "nombre": "CANDADO TRABAMANUBRIO CAFS LOCK",
-    "precio": 10850,
-    "foto": "https://i.postimg.cc/xdV1tXW7/CANDADOMOTO.jpg",
-    "categoria": "CANDADOS",
-    "suspendido": true
-  },
-  {
     "id": 317,
     "nombre": "FUENTE DE ALIMENTACIÓN 5V 2A",
     "precio": 3150,
@@ -2312,14 +2296,6 @@
     "suspendido": false
   },
   {
-    "id": 1777123609440,
-    "nombre": "COLCHON INFLABLE + INFLADOR MANUAL",
-    "precio": 26600,
-    "foto": "https://i.postimg.cc/4ygKJjpq/COLCHON.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 1777125280505,
     "nombre": "BALANZA MINI DIGITAL A PILA ",
     "precio": 8080,
@@ -2690,7 +2666,7 @@
   {
     "id": 1778883793877,
     "nombre": "LINTERNA LED RECARGABLE MULTIFUNCION",
-    "precio": 5250,
+    "precio": 4050,
     "foto": "https://i.postimg.cc/fy8j63HC/LN.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -2717,6 +2693,62 @@
     "precio": 12000,
     "foto": "https://i.postimg.cc/mDVkT77y/GUANTESA.jpg",
     "categoria": "INVIERNO",
+    "suspendido": false
+  },
+  {
+    "id": 1779108131687,
+    "nombre": "CINTA DE EMBALAR X 90 MTS",
+    "precio": 1750,
+    "foto": "https://i.postimg.cc/q7td8tKv/Ce.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1779108284910,
+    "nombre": "MAGICLIK EXTENSIBLE",
+    "precio": 2146,
+    "foto": "https://i.postimg.cc/7hHsncRC/mc.jpg",
+    "categoria": "COCINA",
+    "suspendido": false
+  },
+  {
+    "id": 1779108794414,
+    "nombre": "COMPRESOR DE AIRE DC12V",
+    "precio": 11340,
+    "foto": "https://i.postimg.cc/zv2sb8fr/CC.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1779108886166,
+    "nombre": "BOMBA DISPENSER",
+    "precio": 5040,
+    "foto": "https://i.postimg.cc/QtxYpww5/BB.jpg",
+    "categoria": "COCINA",
+    "suspendido": false
+  },
+  {
+    "id": 1779109106043,
+    "nombre": "CALENTADOR DEAGUA PARA AUTO",
+    "precio": 4550,
+    "foto": "https://i.postimg.cc/65Njc8k7/CC.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1779109219368,
+    "nombre": "MARCADORES DOBLE PUNTA X24PCS",
+    "precio": 4480,
+    "foto": "https://i.postimg.cc/cCDvvgY4/CC.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1779109292352,
+    "nombre": "CEPILLO DE VAPOR MASCOTA ",
+    "precio": 2940,
+    "foto": "https://i.postimg.cc/25F8qLNZ/CC.jpg",
+    "categoria": "VARIOS",
     "suspendido": false
   }
 ]
