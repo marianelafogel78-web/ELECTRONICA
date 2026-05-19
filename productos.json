@@ -1403,7 +1403,7 @@
     "id": 269,
     "nombre": "PROYECTOR LASER",
     "precio": 17500,
-    "foto": "https://i.postimg.cc/Z5v0Pc6b/laser.jpg",
+    "foto": "https://i.postimg.cc/L6ZjBHVf/CC.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
   },
@@ -1637,7 +1637,7 @@
     "precio": 8190,
     "foto": "https://i.postimg.cc/3NSs6qNP/zapaflor.jpg",
     "categoria": "ENCHUFES/EXTENSIONES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 310,
@@ -1914,7 +1914,7 @@
   {
     "id": 1774561503929,
     "nombre": "CINTA DOBLE FAZ ESPUMOSA 2MT",
-    "precio": 1350,
+    "precio": 1250,
     "foto": "https://i.postimg.cc/DzzKxswF/cintapega.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -2349,7 +2349,7 @@
     "precio": 3936,
     "foto": "https://i.postimg.cc/HnB9VFbJ/PEGAMENTO.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777141259436,
@@ -2485,7 +2485,7 @@
     "precio": 7420,
     "foto": "https://i.postimg.cc/156YCpCX/bg.jpg",
     "categoria": "BALANZAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777935070970,
@@ -2502,14 +2502,6 @@
     "foto": "https://i.postimg.cc/CLzwz6KT/pf.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
-  },
-  {
-    "id": 1777935644324,
-    "nombre": "ORGANIZADOR DE ZAPATOS 59X59X19CM",
-    "precio": 15722,
-    "foto": "https://i.postimg.cc/gjLBPRGK/zz.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
   },
   {
     "id": 1777938343504,
