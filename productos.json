@@ -2894,5 +2894,29 @@
     "foto": "https://i.postimg.cc/HsfL178h/NN.jpg",
     "categoria": "VARIOS",
     "suspendido": false
+  },
+  {
+    "id": 1779330741588,
+    "nombre": "LINTERNA RECARGABLE USB TIPO C",
+    "precio": 3920,
+    "foto": "https://i.postimg.cc/fR0821Yd/mm.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1779330907610,
+    "nombre": "HOLDER DOBLE SOPAPA ",
+    "precio": 950,
+    "foto": "https://i.postimg.cc/pV6QwqW7/MM.jpg",
+    "categoria": "SOPORTES TV/CELU",
+    "suspendido": false
+  },
+  {
+    "id": 1779331044544,
+    "nombre": "PARLANTE FABRIC FM/BT/USB",
+    "precio": 8750,
+    "foto": "https://i.postimg.cc/zB3bpYR9/MM.jpg",
+    "categoria": "PARLANTES Y MICROFONOS",
+    "suspendido": false
   }
 ]
