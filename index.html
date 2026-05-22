@@ -758,44 +758,57 @@ margin-top: 10px;
         };
 
         const filtrarProductos = (categoria) => {
-    if (categoria === 'TODOS') {
-        renderizarProductos(productos);
-    } else {
-        const filtrados = productos.filter(p => p.categoria === categoria);
-        renderizarProductos(filtrados);
-    }
+            // --- CONTROL INTELIGENTE DE NUEVOS INGRESOS ---
+            const seccionNuevos = document.getElementById('seccion-nuevos-ingresos');
+            if (seccionNuevos) {
+                // Si elige "TODOS" (que es la opción por defecto del select) se muestra, si elige otra se oculta
+                seccionNuevos.style.display = (categoria === 'TODOS') ? 'block' : 'none';
+            }
+            // ----------------------------------------------
 
-    window.scrollTo({
-        top: 0,
-        behavior: 'smooth'
-    });
-};
+            if (categoria === 'TODOS') {
+                renderizarProductos(productos);
+            } else {
+                const filtrados = productos.filter(p => p.categoria === categoria);
+                renderizarProductos(filtrados);
+            }
 
-const buscarProductos = () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        };
 
-    const texto = document
-        .getElementById('buscador-productos')
-        .value
-        .toLowerCase();
+        const buscarProductos = () => {
+            // Convertimos a minúsculas y usamos .trim() para eliminar espacios vacíos que confundan al código
+            const texto = document.getElementById('buscador-productos').value.toLowerCase().trim();
 
-    const empiezan = productos.filter(producto =>
-        producto.nombre.toLowerCase().startsWith(texto)
-    );
+            // --- CONTROL INTELIGENTE DE NUEVOS INGRESOS ---
+            const seccionNuevos = document.getElementById('seccion-nuevos-ingresos');
+            if (seccionNuevos) {
+                // Si el buscador quedó completamente vacío, el carrusel DEBE volver a verse
+                seccionNuevos.style.display = (texto === '') ? 'block' : 'none';
+            }
+            // ----------------------------------------------
 
-    const contienen = productos.filter(producto =>
-        producto.nombre.toLowerCase().includes(texto) &&
-        !producto.nombre.toLowerCase().startsWith(texto)
-    );
+            const empiezan = productos.filter(producto =>
+                producto.nombre.toLowerCase().startsWith(texto)
+            );
 
-    const filtrados = [...empiezan, ...contienen];
+            const contienen = productos.filter(producto =>
+                producto.nombre.toLowerCase().includes(texto) &&
+                !producto.nombre.toLowerCase().startsWith(texto)
+            );
 
-    renderizarProductos(filtrados);
+            const filtrados = [...empiezan, ...contienen];
 
-    window.scrollTo({
-        top: 0,
-        behavior: 'smooth'
-    });
-};
+            renderizarProductos(filtrados);
+
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        };
 
         const renderizarFiltros = () => {
             const selectFiltros = document.getElementById('select-filtros-tienda');
@@ -1168,7 +1181,7 @@ const buscarProductos = () => {
         // =================================================================
         // 6. NAVEGACIÓN
         // =================================================================
-        const mostrarPestana = (pestana, event) => {
+       const mostrarPestana = (pestana, event) => {
             document.querySelectorAll('.tab-content').forEach(p => p.style.display = 'none');
             document.querySelectorAll('.tab-button').forEach(b => b.classList.remove('active'));
             
@@ -1179,11 +1192,18 @@ const buscarProductos = () => {
                 renderizarProductos(productos);
                 const selectFiltros = document.getElementById('select-filtros-tienda');
                 if(selectFiltros) selectFiltros.value = 'TODOS';
+
+                // --- CORRECCIÓN: VOLVER A MOSTRAR NUEVOS INGRESOS AL RESETEAR LA TIENDA ---
+                const seccionNuevos = document.getElementById('seccion-nuevos-ingresos');
+                if (seccionNuevos) {
+                    seccionNuevos.style.display = 'block';
+                }
+                // ------------------------------------------------------------------------
             }
             if (pestana === 'carrito') renderizarCarrito();
             
             window.scrollTo(0, 0);
-        };
+        }; // <--- ¡AQUÍ ESTÁ LA LLAVE QUE FALTABA CERRAR!
 
         // =================================================================
         // 7. INICIALIZACIÓN
