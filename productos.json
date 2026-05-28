@@ -285,7 +285,7 @@
     "precio": 7420,
     "foto": "https://i.postimg.cc/3rqG6Gdx/PARLANTEL-UZ.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 54,
@@ -366,14 +366,6 @@
     "foto": "https://i.postimg.cc/WpBHb8K6/STJC150.jpg",
     "categoria": "COCINA",
     "suspendido": false
-  },
-  {
-    "id": 83,
-    "nombre": "MATE CLASICO NEO 150ML NEO-",
-    "precio": 7780,
-    "foto": "https://i.postimg.cc/V6hd30Jk/MATE.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
   },
   {
     "id": 85,
@@ -733,7 +725,7 @@
     "precio": 17600,
     "foto": "https://i.postimg.cc/W3P0RZmM/Captura-de-pantalla-2025-09-11-175949.png",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 146,
@@ -885,7 +877,7 @@
     "precio": 6150,
     "foto": "https://i.postimg.cc/DfGpFWrH/LED-9727.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 181,
@@ -1036,56 +1028,63 @@
     "nombre": "CONSOLA VIDEO JUEGO 64GB RETRO 2.4G",
     "precio": 45280,
     "foto": "https://i.postimg.cc/Xvy2HTqt/JOY-61017.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1779931877846
   },
   {
     "id": 202,
     "nombre": "CONSOLA X2 PLUS 64 GB",
     "precio": 57960,
     "foto": "https://i.postimg.cc/NjZDHpDD/X2.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1779931890406
   },
   {
     "id": 203,
-    "nombre": "JOSTICK PLAY 2",
+    "nombre": "JOYSTICK PS 2",
     "precio": 8375,
     "foto": "https://i.postimg.cc/JhNH1JgQ/Whats-App-Image-2025-09-10-at-20-57-10-3.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1779931969142
   },
   {
     "id": 204,
     "nombre": "JOYSTICK PS4 COLORES SIN MARCA",
     "precio": 22850,
     "foto": "https://i.postimg.cc/133Wtd9T/12098.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1779931837341
   },
   {
     "id": 205,
     "nombre": "MOUSE INALAMBRICO TRANSPARENTE",
     "precio": 9055,
     "foto": "https://i.postimg.cc/Pqtx2kS5/MA200.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1779931934454
   },
   {
     "id": 207,
     "nombre": "TECLADO MINI KEYBOARD",
     "precio": 6999,
     "foto": "https://i.postimg.cc/qvHXBzvD/KY800.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1779932023263
   },
   {
     "id": 208,
     "nombre": "TECLADO USB NOGA",
     "precio": 7560,
     "foto": "https://i.postimg.cc/qqyzvf4f/78005USB.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1779932033014
   },
   {
     "id": 209,
@@ -1396,8 +1395,9 @@
     "nombre": "MOUSE GAMING RETROILUMINADO DINAX",
     "precio": 2620,
     "foto": "https://i.postimg.cc/rsHYSMLN/mouse.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1779931907550
   },
   {
     "id": 269,
@@ -1637,7 +1637,7 @@
     "precio": 8190,
     "foto": "https://i.postimg.cc/3NSs6qNP/zapaflor.jpg",
     "categoria": "ENCHUFES/EXTENSIONES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 310,
@@ -2044,8 +2044,9 @@
     "nombre": "MOUSE INALAMBRICO BLISTER",
     "precio": 4400,
     "foto": "https://i.postimg.cc/tTq1wfm8/MOU-150M07.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1779931919005
   },
   {
     "id": 1776198453347,
@@ -2098,10 +2099,11 @@
   {
     "id": 1776455897997,
     "nombre": "SET X2 DISPENSER DE JABON (VIDRIO)",
-    "precio": 8820,
+    "precio": 10900,
     "foto": "https://i.postimg.cc/Z5rqbZpd/hand.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1779932361585
   },
   {
     "id": 1776458087708,
@@ -2184,14 +2186,6 @@
     "suspendido": false
   },
   {
-    "id": 1776809217582,
-    "nombre": "PARLANTE RGB RESISTENTE AL AGUA",
-    "precio": 14980,
-    "foto": "https://i.postimg.cc/hGtfwMGh/KTS-2408.jpg",
-    "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": true
-  },
-  {
     "id": 1776809294877,
     "nombre": "PARLANTE BT CON LUZ",
     "precio": 7000,
@@ -2201,11 +2195,12 @@
   },
   {
     "id": 1776809398188,
-    "nombre": "JOY-61029 JOYSTICK CELL,PC Y PS3",
+    "nombre": "JOYSTICK CELL,PC Y PS3",
     "precio": 16100,
     "foto": "https://i.postimg.cc/PqCdY7x0/6648-50.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1779931823101
   },
   {
     "id": 1776809495012,
@@ -2408,22 +2403,6 @@
     "suspendido": false
   },
   {
-    "id": 1777736637967,
-    "nombre": "ESTUFA HALOGENA 2 VELAS 800W",
-    "precio": 24150,
-    "foto": "https://i.postimg.cc/Hs6N5Z6W/ESTUFA.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1777736715340,
-    "nombre": "CALOVENTOR HYTOSHY 2000W",
-    "precio": 24360,
-    "foto": "https://i.postimg.cc/25R7BnN5/CALOVENTOR.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 1777736847927,
     "nombre": "AURICULAR BLUETOOH TIME JS235",
     "precio": 8385,
@@ -2565,7 +2544,7 @@
     "precio": 5100,
     "foto": "https://i.postimg.cc/9Q3ghkvr/SETC.jpg",
     "categoria": "COCINA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1778163177937,
@@ -2608,14 +2587,6 @@
     "suspendido": false
   },
   {
-    "id": 1778543000838,
-    "nombre": "KIT DE REPARACION GOMA AUTO ",
-    "precio": 2990,
-    "foto": "https://i.postimg.cc/V6vKqW6c/KA.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
-  },
-  {
     "id": 1778543221003,
     "nombre": "TENDER DE ROPA PARA PARED EXTENSIBLE 12M",
     "precio": 15680,
@@ -2625,11 +2596,12 @@
   },
   {
     "id": 1778543340202,
-    "nombre": "TECLADO GAMER OFFICE RETROILUMINADO",
+    "nombre": "TECLADO GAMER RETROILUMINADO",
     "precio": 9380,
     "foto": "https://i.postimg.cc/VkVRq1mp/TG.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1779932007199
   },
   {
     "id": 1778618207888,
@@ -2918,5 +2890,32 @@
     "foto": "https://i.postimg.cc/zB3bpYR9/MM.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
+  },
+  {
+    "id": 1779932098854,
+    "nombre": "CABLE AUXILIAR CORDON 3.5",
+    "precio": 760,
+    "foto": "https://i.postimg.cc/43M5Zhz4/CC.jpg",
+    "categoria": "CABLES",
+    "suspendido": false,
+    "fechaIngreso": 1779932098854
+  },
+  {
+    "id": 1779932514553,
+    "nombre": "JOYSTICK PS3 SIN MARCA",
+    "precio": 10850,
+    "foto": "https://i.postimg.cc/ydtrfbfS/JT3.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1779932514553
+  },
+  {
+    "id": 1779932617442,
+    "nombre": "JOYSTICK PS4 SONY",
+    "precio": 23900,
+    "foto": "https://i.postimg.cc/dVsZftTP/jt.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1779932617442
   }
 ]
