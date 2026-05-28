@@ -2989,5 +2989,32 @@
     "categoria": "CARGADORES",
     "suspendido": false,
     "fechaIngreso": 1779992396455
+  },
+  {
+    "id": 1780010126159,
+    "nombre": "CABLE ENGOMADO IPHONE 20W AITECH",
+    "precio": 2100,
+    "foto": "https://i.postimg.cc/q7LygfsT/CC.jpg",
+    "categoria": "CABLES",
+    "suspendido": false,
+    "fechaIngreso": 1780010126159
+  },
+  {
+    "id": 1780010282060,
+    "nombre": "CABLE ROYALCELL MALLADO IPHONE",
+    "precio": 1480,
+    "foto": "https://i.postimg.cc/ZRnBRWYx/CC.webp",
+    "categoria": "CABLES",
+    "suspendido": false,
+    "fechaIngreso": 1780010282060
+  },
+  {
+    "id": 1780010533938,
+    "nombre": "CARGADOR DE AUTO ROYALCELL 4.8 TIPO C",
+    "precio": 3450,
+    "foto": "https://i.postimg.cc/fTncHvTP/CC.webp",
+    "categoria": "CARGADORES",
+    "suspendido": false,
+    "fechaIngreso": 1780010533938
   }
 ]
