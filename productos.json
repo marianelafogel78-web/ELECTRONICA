@@ -492,136 +492,153 @@
     "nombre": "ESPEJO METAL AUMENTO 7´",
     "precio": 4970,
     "foto": "https://i.postimg.cc/4yCnJ5PW/MIRROR.png",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989279074
   },
   {
     "id": 107,
     "nombre": "ESPEJO LED LUZ FRIA A PILA Y USB",
     "precio": 10950,
     "foto": "https://i.postimg.cc/qM00tvwj/ESP-91013.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989257275
   },
   {
     "id": 108,
     "nombre": "ESPEJO LED USB REGULABLE LUZ FRIA (ESP-91047)",
     "precio": 7700,
     "foto": "https://i.postimg.cc/CLFTh6M2/ESP-4205.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989268315
   },
   {
     "id": 109,
     "nombre": "CEPILLO ALISADOR DE PELO ONICA",
     "precio": 14150,
     "foto": "https://i.postimg.cc/qMKW8Sn5/OA-CP202.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989058108
   },
   {
     "id": 111,
     "nombre": "PERFILADOR DE CEJAS SET X3",
     "precio": 905,
     "foto": "https://i.postimg.cc/TPvXdjzL/RA001.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989435874
   },
   {
     "id": 112,
     "nombre": "PIEDRA DEPILADORA MAGICA NATURAL",
     "precio": 2380,
     "foto": "https://i.postimg.cc/j5ZV4pLP/ER025.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989241163
   },
   {
     "id": 113,
     "nombre": "PLANCHA DE CABELLO LEGATUS 35W 220°C",
     "precio": 9750,
     "foto": "https://i.postimg.cc/Y2YDkKp3/LPL035A.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989325274
   },
   {
     "id": 115,
     "nombre": "PLANCHA DE PELO REGULABLE OSR 220°C",
     "precio": 14266,
     "foto": "https://i.postimg.cc/PqMf0FCr/OSR198.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989334306
   },
   {
     "id": 116,
     "nombre": "PLANCHITA DE PELO FLEQUILLO CHICA",
     "precio": 3575,
     "foto": "https://i.postimg.cc/sgTscGqv/SN-228.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989343218
   },
   {
     "id": 117,
     "nombre": "SECADOR DE PELO 1000W",
     "precio": 17350,
     "foto": "https://i.postimg.cc/MKF5xDjS/SECADOR.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989369514
   },
   {
     "id": 118,
     "nombre": "SECADOR DE PELO PROFESIONAL 2000W",
     "precio": 14500,
     "foto": "https://i.postimg.cc/NMHBcp9S/secador2000w.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989398138
   },
   {
     "id": 119,
     "nombre": "SECADOR DE PELO HYTOSHY 1000W",
     "precio": 15350,
     "foto": "https://i.postimg.cc/sxShT9NF/HT-9120.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989387194
   },
   {
     "id": 120,
     "nombre": "SECADOR DE PLASTICO CHICO",
     "precio": 8755,
     "foto": "https://i.postimg.cc/TwJ5wR7g/secadorplastico.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989408882
   },
   {
     "id": 121,
-    "nombre": "CORTA PELO PROFESIONAL RECARGABLE X31",
+    "nombre": "CORTA PELO PROFESIONAL RECARGABLE",
     "precio": 27900,
     "foto": "https://i.postimg.cc/T1tRhyV8/CRT-110001.jpg",
-    "categoria": "ACCESORIOS MASCULINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989151524
   },
   {
     "id": 122,
-    "nombre": "CORTA PELO RECARGABLE DORADO J8/J9 ( METAL)",
+    "nombre": "CORTA PELO RECARGABLE DORADO  ( METAL)",
     "precio": 5600,
     "foto": "https://i.postimg.cc/YC5t4BWS/CRT-110008.jpg",
-    "categoria": "ACCESORIOS MASCULINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989176604
   },
   {
     "id": 123,
-    "nombre": "CORTA PELO RECARGABLE+LINTERNA",
+    "nombre": "CORTA PELO RECARGABLE + LINTERNA",
     "precio": 8700,
     "foto": "https://i.postimg.cc/qR00LcQV/CRT-110017.jpg",
-    "categoria": "ACCESORIOS MASCULINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989203691
   },
   {
     "id": 127,
     "nombre": "SET ALICATES",
     "precio": 2450,
     "foto": "https://i.postimg.cc/Y0J4Kqc1/PEINE.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989453257
   },
   {
     "id": 128,
@@ -1420,8 +1437,9 @@
     "nombre": "CORTA BARBA 3 EN 1 RECARGABLE",
     "precio": 15922,
     "foto": "https://i.postimg.cc/DfcX2v8N/cortabarba.jpg",
-    "categoria": "ACCESORIOS MASCULINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989083588
   },
   {
     "id": 273,
@@ -1452,8 +1470,9 @@
     "nombre": "ESPEJO METAL N8",
     "precio": 4970,
     "foto": "https://i.postimg.cc/s2XBsSmD/espejo.png",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989291171
   },
   {
     "id": 281,
@@ -1628,8 +1647,9 @@
     "nombre": "CORTA BARBA ONICA DE 3 CABEZALES RECARGABLE",
     "precio": 16380,
     "foto": "https://i.postimg.cc/qq4B0Wkn/cortabarba.jpg",
-    "categoria": "ACCESORIOS MASCULINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989103140
   },
   {
     "id": 309,
@@ -1741,7 +1761,7 @@
     "precio": 2190,
     "foto": "https://i.postimg.cc/DzSQMW4k/abrochadora.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 327,
@@ -1772,8 +1792,9 @@
     "nombre": "SECADOR DE PELO 2000W 80000 RPM ONICA",
     "precio": 15360,
     "foto": "https://i.postimg.cc/h4mHCKdB/SECCADOR.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1779989377570
   },
   {
     "id": 1772715810223,
@@ -1821,14 +1842,6 @@
     "precio": 25150,
     "foto": "https://i.postimg.cc/RFjcwK48/setparr.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1773420329836,
-    "nombre": "SET BOLS 3 UNIDADES DE VIDRIO C/TAPAS HERMETICAS",
-    "precio": 18500,
-    "foto": "https://i.postimg.cc/8ztyVGQp/SETBOLS.jpg",
-    "categoria": "COCINA",
     "suspendido": false
   },
   {
@@ -1932,14 +1945,6 @@
     "nombre": "AURICULAR SPORT JBL ",
     "precio": 1545,
     "foto": "https://i.postimg.cc/d1pZwy1y/aurijblsp.jpg",
-    "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
-    "id": 1774562018610,
-    "nombre": "AURICULAR JB-003 JBL",
-    "precio": 1540,
-    "foto": "https://i.postimg.cc/YqpMjSWy/jbl.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false
   },
@@ -2107,11 +2112,12 @@
   },
   {
     "id": 1776458087708,
-    "nombre": "JUEGO X 3 PELA PAPA/CUCHILLO/DESTAPADOR",
+    "nombre": "SET COCINA X 3 BLISTER",
     "precio": 3290,
     "foto": "https://i.postimg.cc/RFB8B1cD/P517.jpg",
     "categoria": "COCINA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1779992138763
   },
   {
     "id": 1776725397095,
@@ -2127,7 +2133,7 @@
     "precio": 14700,
     "foto": "https://i.postimg.cc/yNVS6KTx/vaso.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1776725767331,
@@ -2279,14 +2285,6 @@
     "nombre": "ANAFE ELECTRICO 1 HORNALLA",
     "precio": 14700,
     "foto": "https://i.postimg.cc/d1Xhyz2R/ANAFE1.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1777123398031,
-    "nombre": "ANAFE ELECTRICO 2 HORNALLAS 2000W ",
-    "precio": 28000,
-    "foto": "https://i.postimg.cc/250TLF0T/ANAFE2.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -2579,14 +2577,6 @@
     "suspendido": false
   },
   {
-    "id": 1778542721473,
-    "nombre": "GUANTE CON TACTIL TERMICOS PARA BICI/MOTO",
-    "precio": 6230,
-    "foto": "https://i.postimg.cc/3R8PPGxf/GT.jpg",
-    "categoria": "INVIERNO",
-    "suspendido": false
-  },
-  {
     "id": 1778543221003,
     "nombre": "TENDER DE ROPA PARA PARED EXTENSIBLE 12M",
     "precio": 15680,
@@ -2856,8 +2846,9 @@
     "nombre": "MOCHILA URBANA LOVE",
     "precio": 7600,
     "foto": "https://i.postimg.cc/gc7HFjgm/qq.jpg",
-    "categoria": "ACCESORIOS FEMENINOS",
-    "suspendido": false
+    "categoria": "VARIOS",
+    "suspendido": false,
+    "fechaIngreso": 1779988709438
   },
   {
     "id": 1779322807134,
@@ -2917,5 +2908,86 @@
     "categoria": "TECNOLOGIA",
     "suspendido": false,
     "fechaIngreso": 1779932617442
+  },
+  {
+    "id": 1779989922607,
+    "nombre": "CUELLO POLAR UNISEX ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/1zPJ88Bp/CP.jpg",
+    "categoria": "INVIERNO",
+    "suspendido": false,
+    "fechaIngreso": 1779989922607
+  },
+  {
+    "id": 1779990012092,
+    "nombre": "CUELLO PELUCHE",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/WzM7pjZ6/cpeu.jpg",
+    "categoria": "INVIERNO",
+    "suspendido": false,
+    "fechaIngreso": 1779990012092
+  },
+  {
+    "id": 1779990936145,
+    "nombre": "AURICULAR NOGA VOICE",
+    "precio": 10360,
+    "foto": "https://i.postimg.cc/TPFSpdyG/CC.webp",
+    "categoria": "AURICULARES VINCHA",
+    "suspendido": false,
+    "fechaIngreso": 1779990936145
+  },
+  {
+    "id": 1779991022033,
+    "nombre": "AURICULAR JBL TUNE 520",
+    "precio": 18800,
+    "foto": "https://i.postimg.cc/fL7KDDmv/CC.webp",
+    "categoria": "AURICULARES VINCHA",
+    "suspendido": false,
+    "fechaIngreso": 1779991022033
+  },
+  {
+    "id": 1779991263589,
+    "nombre": "AURICULAR ROYALCELL ",
+    "precio": 1480,
+    "foto": "https://i.postimg.cc/WbqdkSfj/CC.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false,
+    "fechaIngreso": 1779991263589
+  },
+  {
+    "id": 1779991370620,
+    "nombre": "AURICULAR SONY 520",
+    "precio": 19990,
+    "foto": "https://i.postimg.cc/5N8Frn5B/CC.webp",
+    "categoria": "AURICULARES VINCHA",
+    "suspendido": false,
+    "fechaIngreso": 1779991370620
+  },
+  {
+    "id": 1779991682258,
+    "nombre": "CABLE LEGATUS ENGOMADO TIPO C",
+    "precio": 1310,
+    "foto": "https://i.postimg.cc/ryQHrNRQ/CC.webp",
+    "categoria": "CABLES",
+    "suspendido": false,
+    "fechaIngreso": 1779991682258
+  },
+  {
+    "id": 1779992028967,
+    "nombre": "SET COCINA X 4 BLISTER",
+    "precio": 4350,
+    "foto": "https://i.postimg.cc/CxmsKSPJ/CC.jpg",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1779992028967
+  },
+  {
+    "id": 1779992396455,
+    "nombre": "CARGADOR DE AUTO Y TRANSMISOR  FM 3.1A",
+    "precio": 3550,
+    "foto": "https://i.postimg.cc/FH3QtCTt/CC.webp",
+    "categoria": "CARGADORES",
+    "suspendido": false,
+    "fechaIngreso": 1779992396455
   }
 ]
