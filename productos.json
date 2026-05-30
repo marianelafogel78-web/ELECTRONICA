@@ -2964,5 +2964,23 @@
     "categoria": "INVIERNO",
     "suspendido": false,
     "fechaIngreso": 1780169230083
+  },
+  {
+    "id": 1780171277388,
+    "nombre": "GUANTES CHENIL",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/fRFzQqw5/DD.webp",
+    "categoria": "INVIERNO",
+    "suspendido": false,
+    "fechaIngreso": 1780171277388
+  },
+  {
+    "id": 1780171498266,
+    "nombre": "BUFANDA NUBE BCO/VERDE/GRIS/ESTAMPADOS",
+    "precio": 11500,
+    "foto": "https://i.postimg.cc/tRP23sZ3/aa.jpg",
+    "categoria": "INVIERNO",
+    "suspendido": false,
+    "fechaIngreso": 1780171498266
   }
 ]
