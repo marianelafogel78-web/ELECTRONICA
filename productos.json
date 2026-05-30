@@ -80,14 +80,6 @@
     "suspendido": false
   },
   {
-    "id": 22,
-    "nombre": "ESTACION DE CARGA 10 PUERTOS USB TOTAL 60W",
-    "precio": 17170,
-    "foto": "https://i.postimg.cc/DyB1qBvs/CAR-59051.jpg",
-    "categoria": "FUENTES DE CARGA/ADAPTADORES",
-    "suspendido": false
-  },
-  {
     "id": 23,
     "nombre": "FUENTE ALIMENTACION UNIVERSAL 12V 3A",
     "precio": 5205,
@@ -1821,14 +1813,6 @@
     "suspendido": false
   },
   {
-    "id": 1773420158144,
-    "nombre": "SET PARRILLA 16 PS",
-    "precio": 25150,
-    "foto": "https://i.postimg.cc/RFjcwK48/setparr.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 1773690530862,
     "nombre": "CABLE TIPO C IPHONE 1M",
     "precio": 2250,
@@ -2430,7 +2414,7 @@
     "precio": 7420,
     "foto": "https://i.postimg.cc/156YCpCX/bg.jpg",
     "categoria": "BALANZAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777935070970,
@@ -2551,7 +2535,7 @@
     "precio": 2450,
     "foto": "https://i.postimg.cc/hvts8GQW/TS.jpg",
     "categoria": "COCINA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1778636413553,
@@ -2683,11 +2667,12 @@
   },
   {
     "id": 1779320113310,
-    "nombre": "LAMPARA SILICON INFANTIL ",
-    "precio": 5100,
+    "nombre": "LAMPARA SILICONA INFANTIL ",
+    "precio": 5900,
     "foto": "https://i.postimg.cc/BZYggh9f/BB.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780170322115
   },
   {
     "id": 1779320202323,
@@ -2734,8 +2719,9 @@
     "nombre": "BOTELLA DE VIDRIO H2O",
     "precio": 9100,
     "foto": "https://i.postimg.cc/V65gtTsW/BB.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1780169754695
   },
   {
     "id": 1779320750332,
@@ -2755,11 +2741,12 @@
   },
   {
     "id": 1779320961966,
-    "nombre": "GORRO CORDERITO + CUELLO UNISEX",
-    "precio": 4340,
+    "nombre": "GORRO + CUELLO C/ CORDERITO ",
+    "precio": 5270,
     "foto": "https://i.postimg.cc/X7WFSmM2/mm.jpg",
     "categoria": "INVIERNO",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780169651105
   },
   {
     "id": 1779321286197,
@@ -2796,9 +2783,9 @@
   {
     "id": 1779322346055,
     "nombre": "MOCHILA URBANA LOVE",
-    "precio": 7600,
+    "precio": 6600,
     "foto": "https://i.postimg.cc/gc7HFjgm/qq.jpg",
-    "categoria": "VARIOS",
+    "categoria": "NIÑOS",
     "suspendido": false,
     "fechaIngreso": 1779988709438
   },
@@ -2968,5 +2955,14 @@
     "categoria": "CARGADORES",
     "suspendido": false,
     "fechaIngreso": 1780010533938
+  },
+  {
+    "id": 1780169230083,
+    "nombre": "GORRO LANA INTERIOR CORDERITO ",
+    "precio": 3900,
+    "foto": "https://i.postimg.cc/Znf4qwhs/CC.jpg",
+    "categoria": "INVIERNO",
+    "suspendido": false,
+    "fechaIngreso": 1780169230083
   }
 ]
