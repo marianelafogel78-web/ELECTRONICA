@@ -1748,14 +1748,6 @@
     "suspendido": false
   },
   {
-    "id": 326,
-    "nombre": "SET ABROCHADORA",
-    "precio": 2190,
-    "foto": "https://i.postimg.cc/DzSQMW4k/abrochadora.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": true
-  },
-  {
     "id": 327,
     "nombre": "PARCHE BICI",
     "precio": 1150,
@@ -2117,7 +2109,7 @@
     "precio": 14700,
     "foto": "https://i.postimg.cc/yNVS6KTx/vaso.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1776725767331,
@@ -2239,14 +2231,6 @@
     "foto": "https://i.postimg.cc/t4fY1096/74BTYP.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
-  },
-  {
-    "id": 1777121907666,
-    "nombre": "BOTELLA TERMICA ARGENTINA 500 ML",
-    "precio": 12600,
-    "foto": "https://i.postimg.cc/50Zp7xQR/c640f682-713d-4c0b-b5b3-f858a556cae7.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
   },
   {
     "id": 1777122731892,
@@ -2521,14 +2505,6 @@
     "suspendido": false
   },
   {
-    "id": 1778155831022,
-    "nombre": "SET DE CUCHILLOS DE COLOR 6 PZS",
-    "precio": 5100,
-    "foto": "https://i.postimg.cc/9Q3ghkvr/SETC.jpg",
-    "categoria": "COCINA",
-    "suspendido": true
-  },
-  {
     "id": 1778163177937,
     "nombre": "LUZ DE EMERGENCIA 30 LED ",
     "precio": 4970,
@@ -2542,14 +2518,6 @@
     "precio": 735,
     "foto": "https://i.postimg.cc/Kv2Y4q4j/ca.jpg",
     "categoria": "CABLES",
-    "suspendido": false
-  },
-  {
-    "id": 1778541935505,
-    "nombre": "SET DE PUNTAS DESTORNILLADORES 40PCS MELECH",
-    "precio": 16940,
-    "foto": "https://i.postimg.cc/9MDBRX8f/SET-P.jpg",
-    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
