@@ -798,7 +798,7 @@
     "precio": 5490,
     "foto": "https://i.postimg.cc/8krPxG5S/LUZ-MINERA.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 160,
@@ -1652,14 +1652,6 @@
     "fechaIngreso": 1779989103140
   },
   {
-    "id": 309,
-    "nombre": "ZAPATILLA FLOR 5 BOCAS + 2USB",
-    "precio": 8190,
-    "foto": "https://i.postimg.cc/3NSs6qNP/zapaflor.jpg",
-    "categoria": "ENCHUFES/EXTENSIONES",
-    "suspendido": true
-  },
-  {
     "id": 310,
     "nombre": "ZAPATILLA CARGADOR RACK CHARGER 66W",
     "precio": 6860,
@@ -2026,14 +2018,6 @@
     "precio": 6820,
     "foto": "https://i.postimg.cc/pdhBg9Bc/linga.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
-    "id": 1776197608747,
-    "nombre": "LINTERNA RECARGABLE USB 4 POSISCIONES",
-    "precio": 5380,
-    "foto": "https://i.postimg.cc/Fsdt5ngR/images.jpg",
-    "categoria": "ILUMINACION",
     "suspendido": false
   },
   {
@@ -2831,7 +2815,7 @@
     "precio": 4340,
     "foto": "https://i.postimg.cc/43gjzXjV/MM.jpg",
     "categoria": "CANDADOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779322223130,
