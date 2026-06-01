@@ -2660,10 +2660,11 @@
   {
     "id": 1779320042456,
     "nombre": "BANDERA P/ AUTO ARGENTINA 30X40CM",
-    "precio": 840,
+    "precio": 1020,
     "foto": "https://i.postimg.cc/mrfV9txM/aa.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780317722315
   },
   {
     "id": 1779320113310,
@@ -2677,18 +2678,20 @@
   {
     "id": 1779320202323,
     "nombre": "BANDERA ARGENTINA GRANDE  90X145 ",
-    "precio": 2170,
+    "precio": 2640,
     "foto": "https://i.postimg.cc/VvkJ5QYc/NN.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780317658853
   },
   {
     "id": 1779320274617,
     "nombre": "BANDERA Y CORNETA BOCINA ARGENTINA",
-    "precio": 1650,
+    "precio": 2000,
     "foto": "https://i.postimg.cc/WzC0PHTw/aa.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780317752915
   },
   {
     "id": 1779320348903,
@@ -2792,10 +2795,11 @@
   {
     "id": 1779322807134,
     "nombre": "BANDERA 90X150CM C/ BRAZOS",
-    "precio": 3790,
+    "precio": 4590,
     "foto": "https://i.postimg.cc/HsfL178h/NN.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780317697755
   },
   {
     "id": 1779330741588,
