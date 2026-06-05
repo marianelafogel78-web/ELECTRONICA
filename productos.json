@@ -329,11 +329,12 @@
   },
   {
     "id": 76,
-    "nombre": "CONTROL REMOTO SMART PARA SANSUMG",
-    "precio": 3540,
-    "foto": "https://i.postimg.cc/bwwKzyNn/63001.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
+    "nombre": "CONTROL REMOTO UNIVERSAL TV",
+    "precio": 3640,
+    "foto": "https://i.postimg.cc/kXMVxBB6/zz.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1780695794632
   },
   {
     "id": 77,
@@ -658,11 +659,12 @@
   },
   {
     "id": 133,
-    "nombre": "HOLDER PARA BICI",
+    "nombre": "SOPORTE CELU  BICI/AUTO",
     "precio": 2930,
     "foto": "https://i.postimg.cc/W4pxjD2J/TMHD9466.jpg",
     "categoria": "SOPORTES TV/CELU",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780694491705
   },
   {
     "id": 134,
@@ -802,11 +804,12 @@
   },
   {
     "id": 163,
-    "nombre": "LINTERNA 9LED X 6 UNIDADES",
+    "nombre": "LINTERNA 9 LED X 6 UNIDADES",
     "precio": 7140,
     "foto": "https://i.postimg.cc/bvYxss4g/minilinterna.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780695014934
   },
   {
     "id": 164,
@@ -874,11 +877,12 @@
   },
   {
     "id": 177,
-    "nombre": "LUZ DE BICI X2PCS",
+    "nombre": "LUZ P/BICI X 2PCS BLISTER",
     "precio": 2050,
     "foto": "https://i.postimg.cc/ZYfHfLXq/luz-bici.png",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780695189709
   },
   {
     "id": 179,
@@ -1830,11 +1834,12 @@
   },
   {
     "id": 1774041700222,
-    "nombre": "LUZ LINTERNA PARA BICICLETA",
+    "nombre": "LUZ P/BICI RECARGABLE EN CAJA",
     "precio": 2520,
     "foto": "https://i.postimg.cc/FRKKVkDz/luzlintbici.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780695159037
   },
   {
     "id": 1774043030766,
@@ -1966,11 +1971,12 @@
   },
   {
     "id": 1775139802103,
-    "nombre": "SOPORTE MANITO",
+    "nombre": "SOPORTE CELU MANITO",
     "precio": 784,
     "foto": "https://i.postimg.cc/rs79867y/SOPORTEMAO.jpg",
     "categoria": "SOPORTES TV/CELU",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780694381406
   },
   {
     "id": 1775596208038,
@@ -2113,11 +2119,12 @@
   },
   {
     "id": 1776726283207,
-    "nombre": "SOPORTE UNIVERSAL CUELLO FLEXIBLE CON VENTOSA",
+    "nombre": "SOPORTE CELU UNIVERSAL CUELLO FLEXIBLE CON VENTOSA",
     "precio": 2298,
     "foto": "https://i.postimg.cc/pLkNdkpk/SD.jpg",
     "categoria": "SOPORTES TV/CELU",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780694422370
   },
   {
     "id": 1776808829345,
@@ -2728,11 +2735,12 @@
   },
   {
     "id": 1779320750332,
-    "nombre": "LUZ P/BICI RECARGABLE X LED",
+    "nombre": "LUZ P/BICI RECARGABLE LED",
     "precio": 1960,
     "foto": "https://i.postimg.cc/B685bKNx/BB.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780695224540
   },
   {
     "id": 1779320879976,
@@ -2986,5 +2994,95 @@
     "categoria": "INVIERNO",
     "suspendido": false,
     "fechaIngreso": 1780171498266
+  },
+  {
+    "id": 1780694027519,
+    "nombre": "SOPORTE DE CELU P/DIFERENTES SUPERFICIES Y AUTOS",
+    "precio": 2240,
+    "foto": "https://i.postimg.cc/BvH5Rrqr/CC.jpg",
+    "categoria": "SOPORTES TV/CELU",
+    "suspendido": false,
+    "fechaIngreso": 1780694027519
+  },
+  {
+    "id": 1780694252283,
+    "nombre": "SOPORTE BICI ",
+    "precio": 3220,
+    "foto": "https://i.postimg.cc/jSVLBLLC/xx.jpg",
+    "categoria": "SOPORTES TV/CELU",
+    "suspendido": false,
+    "fechaIngreso": 1780694252283
+  },
+  {
+    "id": 1780694837047,
+    "nombre": "LAMPARA SOLAR PORTATIL LED, CARGA SOLAR Y USB",
+    "precio": 8680,
+    "foto": "https://i.postimg.cc/sf4z3x6v/zz.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1780694837047
+  },
+  {
+    "id": 1780694927462,
+    "nombre": "LINTERNA LED RECARGABLE C/ENCENDEDOR ",
+    "precio": 3360,
+    "foto": "https://i.postimg.cc/MZPs08XX/zz.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1780694927463
+  },
+  {
+    "id": 1780695520650,
+    "nombre": "BOTELLA TERMICA ACERO Y REVESTIMIENTO DE GOMA 500ML",
+    "precio": 10500,
+    "foto": "https://i.postimg.cc/yNGhG03R/zz.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false,
+    "fechaIngreso": 1780695520650
+  },
+  {
+    "id": 1780695597274,
+    "nombre": "ATORNILLADOR 12V 2 BATERIAS",
+    "precio": 37100,
+    "foto": "https://i.postimg.cc/fWcXcGCd/zz.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1780695597274
+  },
+  {
+    "id": 1780695976047,
+    "nombre": "DEPILADORA 6 EN 1 RECARGABLE",
+    "precio": 20610,
+    "foto": "https://i.postimg.cc/wv6zSsK6/zz.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1780695976047
+  },
+  {
+    "id": 1780696061070,
+    "nombre": "SET DE UTENSILIOS DE COCINA DE SILICONA",
+    "precio": 10570,
+    "foto": "https://i.postimg.cc/CK0pqfxt/zz.jpg",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1780696061070
+  },
+  {
+    "id": 1780696186069,
+    "nombre": "DEPILADORA PARA DAMA RECARGABLE",
+    "precio": 7700,
+    "foto": "https://i.postimg.cc/xjBfd8Mt/zz.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1780696186069
+  },
+  {
+    "id": 1780696281925,
+    "nombre": "JARRA DE VIDRIO CON MANIJA 1.8L ",
+    "precio": 9940,
+    "foto": "https://i.postimg.cc/fbbnCQYx/zz.jpg",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1780696281925
   }
 ]
