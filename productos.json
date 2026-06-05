@@ -1268,14 +1268,6 @@
     "suspendido": false
   },
   {
-    "id": 239,
-    "nombre": "BOTELLA PLEGABLE DEPORTIVA INFANTIL",
-    "precio": 5800,
-    "foto": "https://i.postimg.cc/3JdJpDwT/BOTELLA-PLEGABLE-DEPORTE.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
-  },
-  {
     "id": 240,
     "nombre": "BOTELLA  7500ML",
     "precio": 14250,
@@ -2099,7 +2091,7 @@
     "precio": 14700,
     "foto": "https://i.postimg.cc/yNVS6KTx/vaso.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1776725767331,
@@ -2611,10 +2603,11 @@
   {
     "id": 1779108794414,
     "nombre": "COMPRESOR DE AIRE DC12V",
-    "precio": 11340,
+    "precio": 12810,
     "foto": "https://i.postimg.cc/zv2sb8fr/CC.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780697426148
   },
   {
     "id": 1779108886166,
