@@ -121,11 +121,12 @@
   },
   {
     "id": 29,
-    "nombre": "CABLE MALLA TIPO C DATOS 3.1A",
+    "nombre": "CABLE M. TIPO C DATOS 3.1A",
     "precio": 1470,
     "foto": "https://i.postimg.cc/MpBny6Kj/CAB-41002.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780771371750
   },
   {
     "id": 30,
@@ -201,11 +202,12 @@
   },
   {
     "id": 40,
-    "nombre": "CABLE M.ROYALCEL TIPO C 5A",
+    "nombre": "CABLE M. ROYALCEL TIPO C 5A",
     "precio": 1409,
     "foto": "https://i.postimg.cc/43GCFJ2m/Whats-App-Image-2025-09-10-at-23-33-23.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780771350375
   },
   {
     "id": 41,
@@ -217,11 +219,12 @@
   },
   {
     "id": 42,
-    "nombre": "CABLE USB IPHONE 1M",
+    "nombre": "IPHONE CABLE USB 1M",
     "precio": 2100,
     "foto": "https://i.postimg.cc/2SsWstnq/Captura-de-pantalla-2025-09-11-194526.png",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780771498174
   },
   {
     "id": 43,
@@ -1802,19 +1805,21 @@
   },
   {
     "id": 1773351313834,
-    "nombre": "CABLE LIGHTNING 1M ROYALCELL (IPHONE)",
+    "nombre": "IPHONE CABLE LIGHTNING 1M ROYALCELL ",
     "precio": 1396,
     "foto": "https://i.postimg.cc/fTn0wSMm/CAB.png",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780771316279
   },
   {
     "id": 1773690530862,
-    "nombre": "CABLE TIPO C IPHONE 1M",
+    "nombre": "IPHONE CABLE TIPO C 1M",
     "precio": 2250,
     "foto": "https://i.postimg.cc/Z5yPmmZ9/iphn.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780771464286
   },
   {
     "id": 1774041520872,
@@ -2249,11 +2254,12 @@
   },
   {
     "id": 1777125561395,
-    "nombre": "CABLE IFHONE 3.1 TIME CAB-43003",
+    "nombre": "IPHONE CABLE 3.1 TIME CAB-43003",
     "precio": 1540,
     "foto": "https://i.postimg.cc/PrRNFLNg/CABLEIP.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1780771267095
   },
   {
     "id": 1777140955471,
@@ -2668,7 +2674,7 @@
   },
   {
     "id": 1779320113310,
-    "nombre": "LAMPARA SILICONA INFANTIL ",
+    "nombre": "LAMPARA SILICONA INFANTIL CAMBIOS DE COLOR TACTIL",
     "precio": 5900,
     "foto": "https://i.postimg.cc/BZYggh9f/BB.jpg",
     "categoria": "NIÑOS",
@@ -2936,7 +2942,7 @@
   },
   {
     "id": 1780010126159,
-    "nombre": "CABLE ENGOMADO IPHONE 20W AITECH",
+    "nombre": "IPHONE CABLE ENGOMADO  20W AITECH",
     "precio": 2100,
     "foto": "https://i.postimg.cc/q7LygfsT/CC.jpg",
     "categoria": "CABLES",
@@ -2945,7 +2951,7 @@
   },
   {
     "id": 1780010282060,
-    "nombre": "CABLE ROYALCELL MALLADO IPHONE",
+    "nombre": "IPHONE CABLE ROYALCELL MALLADO",
     "precio": 1480,
     "foto": "https://i.postimg.cc/ZRnBRWYx/CC.webp",
     "categoria": "CABLES",
@@ -3077,5 +3083,50 @@
     "categoria": "COCINA",
     "suspendido": false,
     "fechaIngreso": 1780696281925
+  },
+  {
+    "id": 1780768779666,
+    "nombre": "BLISTER SET VAJILLA 25X19CM (NIÑOS)",
+    "precio": 2100,
+    "foto": "https://i.postimg.cc/XYNgBctX/JJ.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1780768779666
+  },
+  {
+    "id": 1780768920440,
+    "nombre": "BLISTER SET DE COCINA 18X25CM (NIÑOS)",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/DfdsQ4rJ/JJS.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1780768920440
+  },
+  {
+    "id": 1780769615099,
+    "nombre": "AURICULAR ROYALCELL IPHONE RE-10018",
+    "precio": 3500,
+    "foto": "https://i.postimg.cc/65qr95Zq/IPH.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false,
+    "fechaIngreso": 1780769615099
+  },
+  {
+    "id": 1780769876993,
+    "nombre": "BOCINA CORNETA DOBLE MUNDIAL",
+    "precio": 1760,
+    "foto": "https://i.postimg.cc/zXqJWV7B/CORN.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false,
+    "fechaIngreso": 1780769876993
+  },
+  {
+    "id": 1780770308838,
+    "nombre": "ARG. CUELLO POLAR",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/DZmj4Vps/BB.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false,
+    "fechaIngreso": 1780770308838
   }
 ]
