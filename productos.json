@@ -795,7 +795,7 @@
     "precio": 5490,
     "foto": "https://i.postimg.cc/8krPxG5S/LUZ-MINERA.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 160,
@@ -2096,7 +2096,7 @@
     "precio": 14700,
     "foto": "https://i.postimg.cc/yNVS6KTx/vaso.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1776725767331,
@@ -2533,14 +2533,6 @@
     "categoria": "TECNOLOGIA",
     "suspendido": false,
     "fechaIngreso": 1779932007199
-  },
-  {
-    "id": 1778618207888,
-    "nombre": "KIT DE TAPA X6 UNIDADES DE SILICONA",
-    "precio": 2450,
-    "foto": "https://i.postimg.cc/hvts8GQW/TS.jpg",
-    "categoria": "COCINA",
-    "suspendido": true
   },
   {
     "id": 1778636413553,
@@ -3128,5 +3120,14 @@
     "categoria": "VARIOS",
     "suspendido": false,
     "fechaIngreso": 1780770308838
+  },
+  {
+    "id": 1781012502391,
+    "nombre": "ARG. PULSERA SILICONA CON LUZ LED",
+    "precio": 2080,
+    "foto": "https://i.postimg.cc/vmH6RqWz/aa.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false,
+    "fechaIngreso": 1781012502391
   }
 ]
