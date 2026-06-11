@@ -393,7 +393,7 @@
     "precio": 2250,
     "foto": "https://i.postimg.cc/BnMTKt03/Captura-de-pantalla-2025-09-11-174820.png",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 91,
@@ -695,11 +695,12 @@
   },
   {
     "id": 139,
-    "nombre": "CORTA PELO DE MASCOTA $",
+    "nombre": "CORTA PELO DE MASCOTA ",
     "precio": 11370,
     "foto": "https://i.postimg.cc/ZqSGN8JG/CRT-110021.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1781220112997
   },
   {
     "id": 140,
@@ -953,11 +954,12 @@
   },
   {
     "id": 189,
-    "nombre": "DESTORNILLADOR SET 32 EN 1",
+    "nombre": "SET DESTORNILLADOR 32 EN 1",
     "precio": 2354,
     "foto": "https://i.postimg.cc/wM6Pt02M/TP-6036B.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1781218805480
   },
   {
     "id": 190,
@@ -1010,10 +1012,11 @@
   {
     "id": 196,
     "nombre": "TRIPLE PIRAMIDE",
-    "precio": 1990,
+    "precio": 2020,
     "foto": "https://i.postimg.cc/13J5MHL2/Whats-App-Image-2025-09-10-at-20-57-08-3.jpg",
     "categoria": "ENCHUFES/EXTENSIONES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1781218102693
   },
   {
     "id": 197,
@@ -1279,14 +1282,6 @@
     "suspendido": false
   },
   {
-    "id": 241,
-    "nombre": "BOTELLA DE PLASTICO 700ML",
-    "precio": 7000,
-    "foto": "https://i.postimg.cc/gkM9ZZpQ/vasos.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
     "id": 243,
     "nombre": "BOTELLA TERMO 500ML C/TERMOMETRO LED",
     "precio": 7970,
@@ -1530,14 +1525,6 @@
     "suspendido": false
   },
   {
-    "id": 290,
-    "nombre": "SOPORTE FIJO TV 14-42 PLG",
-    "precio": 3640,
-    "foto": "https://i.postimg.cc/d0PqSyfD/soportetv24pul.jpg",
-    "categoria": "SOPORTES TV/CELU",
-    "suspendido": false
-  },
-  {
     "id": 291,
     "nombre": "SOPORTE TV REFORZADO BRAZO 32-65 PLG",
     "precio": 12600,
@@ -1615,14 +1602,6 @@
     "precio": 12460,
     "foto": "https://i.postimg.cc/x8tqh6bM/alargueusb.jpg",
     "categoria": "ENCHUFES/EXTENSIONES",
-    "suspendido": false
-  },
-  {
-    "id": 305,
-    "nombre": "SET PLACARD X3 A PILA",
-    "precio": 8400,
-    "foto": "https://i.postimg.cc/ydJccg9P/setplacadluz.jpg",
-    "categoria": "ILUMINACION",
     "suspendido": false
   },
   {
@@ -1837,14 +1816,6 @@
     "categoria": "ILUMINACION",
     "suspendido": false,
     "fechaIngreso": 1780695159037
-  },
-  {
-    "id": 1774043030766,
-    "nombre": "HUMIDIFICADOR ",
-    "precio": 6440,
-    "foto": "https://i.postimg.cc/4xdtZL8K/humi2.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
   },
   {
     "id": 1774043145756,
@@ -2069,7 +2040,7 @@
     "nombre": "SET X2 DISPENSER DE JABON (VIDRIO)",
     "precio": 10900,
     "foto": "https://i.postimg.cc/Z5rqbZpd/hand.jpg",
-    "categoria": "HOGAR",
+    "categoria": "COCINA",
     "suspendido": false,
     "fechaIngreso": 1779932361585
   },
@@ -2471,19 +2442,21 @@
   },
   {
     "id": 1778002467423,
-    "nombre": "DESTORNILLADOR X 2 + BUSCAPOLO",
+    "nombre": "SET DESTORNILLADOR X 2 + BUSCAPOLO",
     "precio": 2457,
     "foto": "https://i.postimg.cc/L88M712Z/SETDES.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1781218827542
   },
   {
     "id": 1778002541230,
-    "nombre": "DESTORNILLADOR DE GOLPE X6 AZUL",
+    "nombre": "SET DESTORNILLADOR DE GOLPE X6 AZUL",
     "precio": 8945,
     "foto": "https://i.postimg.cc/15Wd8YhL/DESB.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1781218783704
   },
   {
     "id": 1778012838218,
@@ -2683,15 +2656,6 @@
     "fechaIngreso": 1780317658853
   },
   {
-    "id": 1779320274617,
-    "nombre": "BANDERA Y CORNETA BOCINA ARGENTINA",
-    "precio": 2000,
-    "foto": "https://i.postimg.cc/WzC0PHTw/aa.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false,
-    "fechaIngreso": 1780317752915
-  },
-  {
     "id": 1779320348903,
     "nombre": "PELOTA SPINNER VOLADOR ",
     "precio": 5740,
@@ -2764,7 +2728,7 @@
     "precio": 1690,
     "foto": "https://i.postimg.cc/NFdQnKq4/mm.jpg",
     "categoria": "INVIERNO",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779321685685,
@@ -2781,15 +2745,6 @@
     "foto": "https://i.postimg.cc/J4Qp9jFw/MM.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
-  },
-  {
-    "id": 1779322346055,
-    "nombre": "MOCHILA URBANA LOVE",
-    "precio": 6600,
-    "foto": "https://i.postimg.cc/gc7HFjgm/qq.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": false,
-    "fechaIngreso": 1779988709438
   },
   {
     "id": 1779322807134,
@@ -3077,24 +3032,6 @@
     "fechaIngreso": 1780696281925
   },
   {
-    "id": 1780768779666,
-    "nombre": "BLISTER SET VAJILLA 25X19CM (NIÑOS)",
-    "precio": 2100,
-    "foto": "https://i.postimg.cc/XYNgBctX/JJ.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": false,
-    "fechaIngreso": 1780768779666
-  },
-  {
-    "id": 1780768920440,
-    "nombre": "BLISTER SET DE COCINA 18X25CM (NIÑOS)",
-    "precio": 1800,
-    "foto": "https://i.postimg.cc/DfdsQ4rJ/JJS.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": false,
-    "fechaIngreso": 1780768920440
-  },
-  {
     "id": 1780769615099,
     "nombre": "AURICULAR ROYALCELL IPHONE RE-10018",
     "precio": 3500,
@@ -3129,5 +3066,68 @@
     "categoria": "VARIOS",
     "suspendido": false,
     "fechaIngreso": 1781012502391
+  },
+  {
+    "id": 1781215318852,
+    "nombre": "SACA CORCHO ELECTRICO",
+    "precio": 11800,
+    "foto": "https://i.postimg.cc/fbpjp8cV/sacacorcho.png",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1781215318852
+  },
+  {
+    "id": 1781215469729,
+    "nombre": "PICADOR DE VERDURA  MANUAL 900ML",
+    "precio": 8265,
+    "foto": "https://i.postimg.cc/8zmfStLn/MM.png",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1781215469729
+  },
+  {
+    "id": 1781216068771,
+    "nombre": "SET DESTORNILLADOR DE GOLPE CARAMELO X 6 ",
+    "precio": 9452,
+    "foto": "https://i.postimg.cc/XJpgqTgs/des.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1781216068771
+  },
+  {
+    "id": 1781216168448,
+    "nombre": "SET DESTORNOLLADOR ROJO X 6 ",
+    "precio": 6550,
+    "foto": "https://i.postimg.cc/DyKq3Wtm/des2.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1781216168448
+  },
+  {
+    "id": 1781216326568,
+    "nombre": "SACA PELUSA DE ROPA ",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/bwCV3Hd2/pelusa.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1781216326568
+  },
+  {
+    "id": 1781217890231,
+    "nombre": "ZAPATILLA FLOR 4BOCAS + 4 USB",
+    "precio": 8050,
+    "foto": "https://i.postimg.cc/g0LssCCL/flor.jpg",
+    "categoria": "ENCHUFES/EXTENSIONES",
+    "suspendido": false,
+    "fechaIngreso": 1781217890231
+  },
+  {
+    "id": 1781218245505,
+    "nombre": "LINTERNA LED ZOOM TELESCÓPICO Y LUZ LATERAL TIPO COB ",
+    "precio": 5040,
+    "foto": "https://i.postimg.cc/Qt8nN4BV/LINB.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1781218245505
   }
 ]
