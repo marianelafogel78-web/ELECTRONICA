@@ -1627,7 +1627,7 @@
     "precio": 9500,
     "foto": "https://i.postimg.cc/fyRnYPwT/vtt.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 313,
