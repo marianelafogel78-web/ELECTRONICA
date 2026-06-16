@@ -1605,14 +1605,6 @@
     "suspendido": false
   },
   {
-    "id": 306,
-    "nombre": "MOCHILA PARA NOTEBOOK CON USB MOCHNEG",
-    "precio": 10500,
-    "foto": "https://i.postimg.cc/TYx5YHkJ/mochinootbook.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": false
-  },
-  {
     "id": 308,
     "nombre": "CORTA BARBA ONICA DE 3 CABEZALES RECARGABLE",
     "precio": 16380,
@@ -2078,14 +2070,6 @@
     "suspendido": false
   },
   {
-    "id": 1776726076866,
-    "nombre": "SET DESTAPADOR BOTELLA DE VINO 5 PCS",
-    "precio": 12320,
-    "foto": "https://i.postimg.cc/fbcnCn4Y/botella.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 1776726283207,
     "nombre": "SOPORTE CELU UNIVERSAL CUELLO FLEXIBLE CON VENTOSA",
     "precio": 2298,
@@ -2142,14 +2126,6 @@
     "categoria": "TECNOLOGIA",
     "suspendido": false,
     "fechaIngreso": 1779931823101
-  },
-  {
-    "id": 1776809495012,
-    "nombre": "RELOJ DESPERTADOR ALARMA CAMPANA",
-    "precio": 9370,
-    "foto": "https://i.postimg.cc/g0LPn6tz/REJ-4408.jpg",
-    "categoria": "RELOJES",
-    "suspendido": false
   },
   {
     "id": 1776810445731,
@@ -2238,7 +2214,7 @@
     "precio": 16218,
     "foto": "https://i.postimg.cc/QxmyTyXx/TERMO1L.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777141020918,
@@ -2652,7 +2628,7 @@
     "precio": 2640,
     "foto": "https://i.postimg.cc/VvkJ5QYc/NN.jpg",
     "categoria": "VARIOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1780317658853
   },
   {
@@ -2744,7 +2720,7 @@
     "precio": 13650,
     "foto": "https://i.postimg.cc/J4Qp9jFw/MM.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779322807134,
@@ -2752,7 +2728,7 @@
     "precio": 4590,
     "foto": "https://i.postimg.cc/HsfL178h/NN.jpg",
     "categoria": "VARIOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1780317697755
   },
   {
@@ -3129,5 +3105,14 @@
     "categoria": "ILUMINACION",
     "suspendido": false,
     "fechaIngreso": 1781218245505
+  },
+  {
+    "id": 1781634471852,
+    "nombre": "CABEZAL ADAPTADOR ENCHUFE ",
+    "precio": 570,
+    "foto": "https://i.postimg.cc/7P98dzDB/zz.jpg",
+    "categoria": "ENCHUFES/EXTENSIONES",
+    "suspendido": false,
+    "fechaIngreso": 1781634471852
   }
 ]
