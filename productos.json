@@ -787,7 +787,7 @@
     "precio": 5490,
     "foto": "https://i.postimg.cc/8krPxG5S/LUZ-MINERA.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 160,
@@ -1674,14 +1674,6 @@
     "precio": 1330,
     "foto": "https://i.postimg.cc/zXDtHpvB/CABLE.jpg",
     "categoria": "CABLES",
-    "suspendido": false
-  },
-  {
-    "id": 323,
-    "nombre": "ZAPATILLA FORMA PELOTA",
-    "precio": 9600,
-    "foto": "https://i.postimg.cc/qvWhpvFG/zapatillaformapelota.jpg",
-    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
