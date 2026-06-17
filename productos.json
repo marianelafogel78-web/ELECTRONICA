@@ -619,15 +619,6 @@
     "fechaIngreso": 1779989176604
   },
   {
-    "id": 123,
-    "nombre": "CORTA PELO RECARGABLE + LINTERNA",
-    "precio": 8700,
-    "foto": "https://i.postimg.cc/qR00LcQV/CRT-110017.jpg",
-    "categoria": "ACCESORIOS P/ BELLEZA",
-    "suspendido": false,
-    "fechaIngreso": 1779989203691
-  },
-  {
     "id": 127,
     "nombre": "SET ALICATES",
     "precio": 2450,
@@ -2610,7 +2601,7 @@
     "precio": 1020,
     "foto": "https://i.postimg.cc/mrfV9txM/aa.jpg",
     "categoria": "VARIOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1780317722315
   },
   {
