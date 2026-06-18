@@ -784,10 +784,11 @@
   {
     "id": 159,
     "nombre": "LINTERNA  MINERA",
-    "precio": 5490,
-    "foto": "https://i.postimg.cc/8krPxG5S/LUZ-MINERA.jpg",
+    "precio": 3290,
+    "foto": "https://i.postimg.cc/bNDmz5Mg/aa.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false,
+    "fechaIngreso": 1781798847685
   },
   {
     "id": 160,
@@ -2431,7 +2432,7 @@
     "precio": 4970,
     "foto": "https://i.postimg.cc/y8N7Ck9t/le.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1778541004405,
@@ -3097,5 +3098,50 @@
     "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false,
     "fechaIngreso": 1781634471852
+  },
+  {
+    "id": 1781798921356,
+    "nombre": "LUZ DE EMERGENCIA 60 LED CHICO",
+    "precio": 10500,
+    "foto": "https://i.postimg.cc/nLHKQSdN/aa.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1781798921356
+  },
+  {
+    "id": 1781798988179,
+    "nombre": "LUZ DE EMERGENCIA 60LED C/ENCHUFE ",
+    "precio": 13999,
+    "foto": "https://i.postimg.cc/pXz1f7Z9/aa.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1781798988179
+  },
+  {
+    "id": 1781799403838,
+    "nombre": "LINTERNA LED COB DE MANO RECARGABLE USB Y  SOLAR ",
+    "precio": 7980,
+    "foto": "https://i.postimg.cc/fymn0byZ/aa.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1781799403838
+  },
+  {
+    "id": 1781799487140,
+    "nombre": "SET DE LUZ LED PLACAR X3PCS C/CONTROL ",
+    "precio": 7980,
+    "foto": "https://i.postimg.cc/cLYZ8XKT/aa.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1781799487140
+  },
+  {
+    "id": 1781799866329,
+    "nombre": "MOPA AUTOMATICA 360° C/ MICROFIBRA",
+    "precio": 10400,
+    "foto": "https://i.postimg.cc/WbvxHTtF/aa.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1781799866329
   }
 ]
