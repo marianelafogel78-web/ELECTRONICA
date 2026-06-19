@@ -1,13 +1,5 @@
 [
   {
-    "id": 1,
-    "nombre": "RECEPTOR BT PARA  AUTO",
-    "precio": 2625,
-    "foto": "https://i.postimg.cc/C5nDwTLf/cargadorauto.png",
-    "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
     "id": 4,
     "nombre": "CARGADOR RAPIDO TIPO C ROYALCELL 5.0A",
     "precio": 3690,
@@ -165,14 +157,6 @@
     "nombre": "CABLE AUXILIAR 1,5M BOLSA",
     "precio": 980,
     "foto": "https://i.postimg.cc/Mphrk22Q/Whats-App-Image-2025-09-10-at-20-57-07-1.jpg",
-    "categoria": "CABLES",
-    "suspendido": false
-  },
-  {
-    "id": 36,
-    "nombre": "CABLE AUXILIAR 1M CAJA",
-    "precio": 855,
-    "foto": "https://i.postimg.cc/pL4L5B3H/Whats-App-Image-2025-09-10-at-20-57-04-1.jpg",
     "categoria": "CABLES",
     "suspendido": false
   },
@@ -742,14 +726,6 @@
     "suspendido": false
   },
   {
-    "id": 148,
-    "nombre": "PIZARRA LED MARCADORES 15X15CM",
-    "precio": 9790,
-    "foto": "https://i.postimg.cc/2S7fq4WY/TABLETA-LED.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": false
-  },
-  {
     "id": 149,
     "nombre": "PARAGUAS DISEÑO INFANTIL",
     "precio": 4385,
@@ -825,11 +801,12 @@
   },
   {
     "id": 168,
-    "nombre": "LAMPARA ATARDECER",
+    "nombre": "PROYECTOR ATARDECER",
     "precio": 7420,
     "foto": "https://i.postimg.cc/5yczcX01/LED-83068.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1781830794271
   },
   {
     "id": 170,
@@ -1835,11 +1812,12 @@
   },
   {
     "id": 1774561237244,
-    "nombre": "ASTRONAUTA PROYECTOR",
+    "nombre": "PROYECTOR ASTRONAUTA",
     "precio": 13990,
     "foto": "https://i.postimg.cc/MKhxKX5B/astro.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1781830947558
   },
   {
     "id": 1774561503929,
@@ -2072,11 +2050,12 @@
   },
   {
     "id": 1776808892145,
-    "nombre": "PARLANTE MP3 C/LINTERNA",
+    "nombre": "LINTERNA PARLANTE MP3",
     "precio": 7420,
     "foto": "https://i.postimg.cc/43DBwKfg/PARLINT.jpg",
-    "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": false
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1781829224491
   },
   {
     "id": 1776808978080,
@@ -2427,14 +2406,6 @@
     "suspendido": false
   },
   {
-    "id": 1778163177937,
-    "nombre": "LUZ DE EMERGENCIA 30 LED ",
-    "precio": 4970,
-    "foto": "https://i.postimg.cc/y8N7Ck9t/le.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
-  },
-  {
     "id": 1778541004405,
     "nombre": "CABLE 2 A 1 AUDIO  1.5M ",
     "precio": 735,
@@ -2481,14 +2452,6 @@
     "precio": 1337,
     "foto": "https://i.postimg.cc/VvmY0vWX/a11022.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
-    "id": 1778883793877,
-    "nombre": "LINTERNA LED RECARGABLE MULTIFUNCION",
-    "precio": 4050,
-    "foto": "https://i.postimg.cc/fy8j63HC/LN.jpg",
-    "categoria": "ILUMINACION",
     "suspendido": false
   },
   {
@@ -2921,7 +2884,7 @@
   },
   {
     "id": 1780694837047,
-    "nombre": "LAMPARA SOLAR PORTATIL LED, CARGA SOLAR Y USB",
+    "nombre": "LAMPARA  PORTATIL LED, CARGA SOLAR Y USB",
     "precio": 8680,
     "foto": "https://i.postimg.cc/sf4z3x6v/zz.jpg",
     "categoria": "ILUMINACION",
@@ -3143,5 +3106,77 @@
     "categoria": "HOGAR",
     "suspendido": false,
     "fechaIngreso": 1781799866329
+  },
+  {
+    "id": 1781829728975,
+    "nombre": "CALCULADORA KARUDIA 12 DIGITOS",
+    "precio": 4550,
+    "foto": "https://i.postimg.cc/pd8LtG0y/aa.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false,
+    "fechaIngreso": 1781829728975
+  },
+  {
+    "id": 1781829922077,
+    "nombre": "RECEPTOR BLUETOOTH P/ AUTO Y ENTRADA AUXILIAR",
+    "precio": 2660,
+    "foto": "https://i.postimg.cc/W3TTc2qD/aa.jpg",
+    "categoria": "FUENTES DE CARGA/ADAPTADORES",
+    "suspendido": false,
+    "fechaIngreso": 1781829922077
+  },
+  {
+    "id": 1781830098404,
+    "nombre": "PIZARRA LED 20 X30 ACRILICA COLORES NEON",
+    "precio": 9500,
+    "foto": "https://i.postimg.cc/Vshpjfs8/aa.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1781830098404
+  },
+  {
+    "id": 1781830176323,
+    "nombre": "JUEGO DE MESA INTERACTIVO BASTA",
+    "precio": 14500,
+    "foto": "https://i.postimg.cc/yN7bVWjL/aa.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1781830176323
+  },
+  {
+    "id": 1781830248938,
+    "nombre": "JUEGO DE BLOQUES JENGA PLASTICO",
+    "precio": 9100,
+    "foto": "https://i.postimg.cc/bwPhtyLR/BX-16.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1781830248938
+  },
+  {
+    "id": 1781830300442,
+    "nombre": "CARTAS UNO",
+    "precio": 1400,
+    "foto": "https://i.postimg.cc/G3swg85Y/aa.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1781830300442
+  },
+  {
+    "id": 1781830429193,
+    "nombre": "PALO SELFIE BLUETOOH +TRIPODE Y LUZ",
+    "precio": 4200,
+    "foto": "https://i.postimg.cc/hG36pc8m/aa.jpg",
+    "categoria": "SOPORTES TV/CELU",
+    "suspendido": false,
+    "fechaIngreso": 1781830429193
+  },
+  {
+    "id": 1781830614240,
+    "nombre": "LAMARA  FAROL SOLAR Y RECARGABLE",
+    "precio": 7350,
+    "foto": "https://i.postimg.cc/7PStTgcr/aa.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1781830614240
   }
 ]
