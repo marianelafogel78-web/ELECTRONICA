@@ -317,8 +317,8 @@
   {
     "id": 76,
     "nombre": "CONTROL REMOTO UNIVERSAL TV",
-    "precio": 3640,
-    "foto": "https://i.postimg.cc/kXMVxBB6/zz.jpg",
+    "precio": 3890,
+    "foto": "https://i.postimg.cc/PqFN2mdP/mm.jpg",
     "categoria": "TECNOLOGIA",
     "suspendido": false,
     "fechaIngreso": 1780695794632
@@ -345,7 +345,7 @@
     "precio": 19900,
     "foto": "https://i.postimg.cc/WpBHb8K6/STJC150.jpg",
     "categoria": "COCINA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 85,
@@ -377,7 +377,7 @@
     "precio": 2250,
     "foto": "https://i.postimg.cc/BnMTKt03/Captura-de-pantalla-2025-09-11-174820.png",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 91,
@@ -594,15 +594,6 @@
     "fechaIngreso": 1779989151524
   },
   {
-    "id": 122,
-    "nombre": "CORTA PELO RECARGABLE DORADO  ( METAL)",
-    "precio": 5600,
-    "foto": "https://i.postimg.cc/YC5t4BWS/CRT-110008.jpg",
-    "categoria": "ACCESORIOS P/ BELLEZA",
-    "suspendido": false,
-    "fechaIngreso": 1779989176604
-  },
-  {
     "id": 127,
     "nombre": "SET ALICATES",
     "precio": 2450,
@@ -661,14 +652,6 @@
     "suspendido": false
   },
   {
-    "id": 138,
-    "nombre": "CALENTADOR DE AGUA 220W",
-    "precio": 1680,
-    "foto": "https://i.postimg.cc/kGLMczDf/calentador-agua.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 139,
     "nombre": "CORTA PELO DE MASCOTA ",
     "precio": 11370,
@@ -715,14 +698,6 @@
     "precio": 17600,
     "foto": "https://i.postimg.cc/W3P0RZmM/Captura-de-pantalla-2025-09-11-175949.png",
     "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 146,
-    "nombre": "PELOTA N°2 PERSONAJES MARVEL",
-    "precio": 3500,
-    "foto": "https://i.postimg.cc/RV0QbyBH/pelota2.jpg",
-    "categoria": "NIÑOS",
     "suspendido": false
   },
   {
@@ -837,14 +812,6 @@
     "nombre": "LINTERNA RECARGABLE BUSCA HUELLA",
     "precio": 19377,
     "foto": "https://i.postimg.cc/43Z9T7wt/LINTERNA-RECARGABLE.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
-    "id": 176,
-    "nombre": "LINTERNA RUILANG RECARGABLE 1000 LUMEN ZOOM",
-    "precio": 17360,
-    "foto": "https://i.postimg.cc/9FXLJ2xJ/l50.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
   },
@@ -998,18 +965,20 @@
   {
     "id": 198,
     "nombre": "ZAPATILLA 3M",
-    "precio": 3080,
+    "precio": 3360,
     "foto": "https://i.postimg.cc/J4p922zN/Captura-de-pantalla-2025-09-11-161504.png",
     "categoria": "ENCHUFES/EXTENSIONES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1782338746995
   },
   {
     "id": 199,
     "nombre": "ZAPATILLA 5M",
-    "precio": 4200,
+    "precio": 4550,
     "foto": "https://i.postimg.cc/J4p922zN/Captura-de-pantalla-2025-09-11-161504.png",
     "categoria": "ENCHUFES/EXTENSIONES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1782338771851
   },
   {
     "id": 201,
@@ -1107,14 +1076,6 @@
     "suspendido": false
   },
   {
-    "id": 213,
-    "nombre": "CALCULADORA CIENTIFICA",
-    "precio": 3860,
-    "foto": "https://i.postimg.cc/Y2gZtSqC/KK-88MS.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": true
-  },
-  {
     "id": 214,
     "nombre": "CALCULADORA CIENTIFICA BLISTER",
     "precio": 3830,
@@ -1168,7 +1129,7 @@
     "precio": 8000,
     "foto": "https://i.postimg.cc/Kv69Rtbt/AY-49.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 224,
@@ -1339,14 +1300,6 @@
     "suspendido": false
   },
   {
-    "id": 263,
-    "nombre": "VELADOR DE COLORES RECARGABLE C/SOPORTE CELU",
-    "precio": 6860,
-    "foto": "https://i.postimg.cc/m2Kv0NFk/veladorsopor.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
     "id": 265,
     "nombre": "TIRA LED PARA TV  3M RGB",
     "precio": 5880,
@@ -1368,7 +1321,7 @@
     "precio": 2620,
     "foto": "https://i.postimg.cc/rsHYSMLN/mouse.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1779931907550
   },
   {
@@ -1395,14 +1348,6 @@
     "categoria": "ACCESORIOS P/ BELLEZA",
     "suspendido": false,
     "fechaIngreso": 1779989083588
-  },
-  {
-    "id": 273,
-    "nombre": "PELOTA NRO. 5",
-    "precio": 7700,
-    "foto": "https://i.postimg.cc/Z5fkZdSN/PELO.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": false
   },
   {
     "id": 277,
@@ -1725,7 +1670,7 @@
     "precio": 7140,
     "foto": "https://i.postimg.cc/Y07RFT2C/TRIPODE.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773350853912,
@@ -1776,14 +1721,6 @@
     "precio": 6440,
     "foto": "https://i.postimg.cc/90bxVNCc/humi.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1774045583807,
-    "nombre": "PELOTA MUNDIAL NRO.5",
-    "precio": 7900,
-    "foto": "https://i.postimg.cc/k4Fpqw84/PELOTAMUNDIAL.jpg",
-    "categoria": "NIÑOS",
     "suspendido": false
   },
   {
@@ -1947,7 +1884,7 @@
     "precio": 16100,
     "foto": "https://i.postimg.cc/x1mcC5Yk/PAVAORIX.png",
     "categoria": "COCINA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1776198939960,
@@ -1979,7 +1916,7 @@
     "precio": 12490,
     "foto": "https://i.postimg.cc/0jxL0cL6/CC.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1776455777520,
@@ -2177,7 +2114,7 @@
     "precio": 16218,
     "foto": "https://i.postimg.cc/QxmyTyXx/TERMO1L.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777141020918,
@@ -2257,14 +2194,6 @@
     "precio": 1323,
     "foto": "https://i.postimg.cc/jSfpy6mQ/AUR.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
-    "id": 1777736406836,
-    "nombre": "CUTTER CON REPUESTO ",
-    "precio": 1360,
-    "foto": "https://i.postimg.cc/9FHmKM2r/CTR.jpg",
-    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
@@ -2513,11 +2442,12 @@
   },
   {
     "id": 1779109106043,
-    "nombre": "CALENTADOR DEAGUA PARA AUTO",
+    "nombre": "CALENTADOR DE AGUA PARA AUTO",
     "precio": 4550,
     "foto": "https://i.postimg.cc/65Njc8k7/CC.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1782337845626
   },
   {
     "id": 1779109219368,
@@ -2557,7 +2487,7 @@
     "precio": 1020,
     "foto": "https://i.postimg.cc/mrfV9txM/aa.jpg",
     "categoria": "VARIOS",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1780317722315
   },
   {
@@ -2572,10 +2502,10 @@
   {
     "id": 1779320202323,
     "nombre": "BANDERA ARGENTINA GRANDE  90X145 ",
-    "precio": 2640,
+    "precio": 2790,
     "foto": "https://i.postimg.cc/VvkJ5QYc/NN.jpg",
     "categoria": "VARIOS",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1780317658853
   },
   {
@@ -2644,39 +2574,6 @@
     "foto": "https://i.postimg.cc/7h9LyB7W/mm.jpg",
     "categoria": "INVIERNO",
     "suspendido": false
-  },
-  {
-    "id": 1779321382940,
-    "nombre": "MASCARA DE NEOPRENO TERMICA",
-    "precio": 1690,
-    "foto": "https://i.postimg.cc/NFdQnKq4/mm.jpg",
-    "categoria": "INVIERNO",
-    "suspendido": true
-  },
-  {
-    "id": 1779321685685,
-    "nombre": "CANDADO LINGA PARA BICI 1.20M",
-    "precio": 4340,
-    "foto": "https://i.postimg.cc/43gjzXjV/MM.jpg",
-    "categoria": "CANDADOS",
-    "suspendido": true
-  },
-  {
-    "id": 1779322223130,
-    "nombre": "TERMO CON PICO CEBADOR Y OPCION MATE LISTO! ACERO 500ML",
-    "precio": 13650,
-    "foto": "https://i.postimg.cc/J4Qp9jFw/MM.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
-  },
-  {
-    "id": 1779322807134,
-    "nombre": "BANDERA 90X150CM C/ BRAZOS",
-    "precio": 4590,
-    "foto": "https://i.postimg.cc/HsfL178h/NN.jpg",
-    "categoria": "VARIOS",
-    "suspendido": true,
-    "fechaIngreso": 1780317697755
   },
   {
     "id": 1779330741588,
@@ -2966,7 +2863,7 @@
   {
     "id": 1780769876993,
     "nombre": "BOCINA CORNETA DOBLE MUNDIAL",
-    "precio": 1760,
+    "precio": 1980,
     "foto": "https://i.postimg.cc/zXqJWV7B/CORN.jpg",
     "categoria": "VARIOS",
     "suspendido": false,
@@ -2989,24 +2886,6 @@
     "categoria": "VARIOS",
     "suspendido": false,
     "fechaIngreso": 1781012502391
-  },
-  {
-    "id": 1781215318852,
-    "nombre": "SACA CORCHO ELECTRICO",
-    "precio": 11800,
-    "foto": "https://i.postimg.cc/fbpjp8cV/sacacorcho.png",
-    "categoria": "COCINA",
-    "suspendido": false,
-    "fechaIngreso": 1781215318852
-  },
-  {
-    "id": 1781215469729,
-    "nombre": "PICADOR DE VERDURA  MANUAL 900ML",
-    "precio": 8265,
-    "foto": "https://i.postimg.cc/8zmfStLn/MM.png",
-    "categoria": "COCINA",
-    "suspendido": false,
-    "fechaIngreso": 1781215469729
   },
   {
     "id": 1781216068771,
@@ -3068,7 +2947,7 @@
     "precio": 10500,
     "foto": "https://i.postimg.cc/nLHKQSdN/aa.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1781798921356
   },
   {
@@ -3077,17 +2956,8 @@
     "precio": 13999,
     "foto": "https://i.postimg.cc/pXz1f7Z9/aa.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1781798988179
-  },
-  {
-    "id": 1781799403838,
-    "nombre": "LINTERNA LED COB DE MANO RECARGABLE USB Y  SOLAR ",
-    "precio": 7980,
-    "foto": "https://i.postimg.cc/fymn0byZ/aa.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false,
-    "fechaIngreso": 1781799403838
   },
   {
     "id": 1781799487140,
@@ -3153,30 +3023,84 @@
     "fechaIngreso": 1781830248938
   },
   {
-    "id": 1781830300442,
-    "nombre": "CARTAS UNO",
-    "precio": 1400,
-    "foto": "https://i.postimg.cc/G3swg85Y/aa.jpg",
-    "categoria": "NIÑOS",
+    "id": 1782334414579,
+    "nombre": "LAMPARA MATAMOSQUITO TIPO FAROL",
+    "precio": 9520,
+    "foto": "https://i.postimg.cc/FKs6QjNz/aa.jpg",
+    "categoria": "HOGAR",
     "suspendido": false,
-    "fechaIngreso": 1781830300442
+    "fechaIngreso": 1782334414579
   },
   {
-    "id": 1781830429193,
-    "nombre": "PALO SELFIE BLUETOOH +TRIPODE Y LUZ",
-    "precio": 4200,
-    "foto": "https://i.postimg.cc/hG36pc8m/aa.jpg",
-    "categoria": "SOPORTES TV/CELU",
+    "id": 1782334703785,
+    "nombre": "ORGANIZADOR DE ESCOBAS PARA COLGAR",
+    "precio": 10300,
+    "foto": "https://i.postimg.cc/d1GrHxpt/MELECH-595.jpg",
+    "categoria": "HOGAR",
     "suspendido": false,
-    "fechaIngreso": 1781830429193
+    "fechaIngreso": 1782334703785
   },
   {
-    "id": 1781830614240,
-    "nombre": "LAMARA  FAROL SOLAR Y RECARGABLE",
-    "precio": 7350,
-    "foto": "https://i.postimg.cc/7PStTgcr/aa.jpg",
+    "id": 1782335557634,
+    "nombre": "LÁMPARA MULTIFUNCIONAL CÚPULA GIRATORIA CARGA PILAS/USB/SOLAR",
+    "precio": 11530,
+    "foto": "https://i.postimg.cc/Gm0rrg5T/HW-978W.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false,
-    "fechaIngreso": 1781830614240
+    "fechaIngreso": 1782335557634
+  },
+  {
+    "id": 1782335869536,
+    "nombre": "LUZ LED EMERGENCIA 30 LED",
+    "precio": 4990,
+    "foto": "https://i.postimg.cc/BndCmHt9/30led.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1782335869536
+  },
+  {
+    "id": 1782337011449,
+    "nombre": "LINTERNA 4 LED COB USB RECARGABLE INDICADOR DE BATERIA",
+    "precio": 5200,
+    "foto": "https://i.postimg.cc/XYwgDX57/ll3.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1782337011449
+  },
+  {
+    "id": 1782337439797,
+    "nombre": "CALENTADOR DE AGUA  1500W",
+    "precio": 3750,
+    "foto": "https://i.postimg.cc/9M4qyxHh/calentador.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1782337439797
+  },
+  {
+    "id": 1782337547780,
+    "nombre": "RELOJ DESPERTADOR CAMPANA",
+    "precio": 10420,
+    "foto": "https://i.postimg.cc/BZHjsPqK/rr-pg.jpg",
+    "categoria": "RELOJES",
+    "suspendido": false,
+    "fechaIngreso": 1782337547780
+  },
+  {
+    "id": 1782338255575,
+    "nombre": "SOPORTE FIJO TV 14-42PLG",
+    "precio": 3500,
+    "foto": "https://i.postimg.cc/wxCbyZ8X/SP-73005.jpg",
+    "categoria": "SOPORTES TV/CELU",
+    "suspendido": false,
+    "fechaIngreso": 1782338255575
+  },
+  {
+    "id": 1782339017881,
+    "nombre": "CUTTER",
+    "precio": 1300,
+    "foto": "https://i.postimg.cc/d3YHXZBL/cjpg.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1782339017881
   }
 ]
