@@ -3102,5 +3102,14 @@
     "categoria": "HERRAMIENTAS",
     "suspendido": false,
     "fechaIngreso": 1782339017881
+  },
+  {
+    "id": 1782478705417,
+    "nombre": "PATILLERA MESSI METAL",
+    "precio": 7100,
+    "foto": "https://i.postimg.cc/BZH0cBXT/pm.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1782478705417
   }
 ]
