@@ -2348,7 +2348,7 @@
     "precio": 4340,
     "foto": "https://i.postimg.cc/PqPDK3Wd/BA.jpg",
     "categoria": "INVIERNO",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1778543221003,
@@ -2487,7 +2487,7 @@
     "precio": 1020,
     "foto": "https://i.postimg.cc/mrfV9txM/aa.jpg",
     "categoria": "VARIOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1780317722315
   },
   {
@@ -2505,7 +2505,7 @@
     "precio": 2790,
     "foto": "https://i.postimg.cc/VvkJ5QYc/NN.jpg",
     "categoria": "VARIOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1780317658853
   },
   {
