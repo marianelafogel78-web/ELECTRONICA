@@ -585,15 +585,6 @@
     "fechaIngreso": 1779989408882
   },
   {
-    "id": 121,
-    "nombre": "CORTA PELO PROFESIONAL RECARGABLE",
-    "precio": 27900,
-    "foto": "https://i.postimg.cc/T1tRhyV8/CRT-110001.jpg",
-    "categoria": "ACCESORIOS P/ BELLEZA",
-    "suspendido": false,
-    "fechaIngreso": 1779989151524
-  },
-  {
     "id": 127,
     "nombre": "SET ALICATES",
     "precio": 2450,
@@ -1316,15 +1307,6 @@
     "suspendido": false
   },
   {
-    "id": 267,
-    "nombre": "MOUSE GAMING RETROILUMINADO DINAX",
-    "precio": 2620,
-    "foto": "https://i.postimg.cc/rsHYSMLN/mouse.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": true,
-    "fechaIngreso": 1779931907550
-  },
-  {
     "id": 269,
     "nombre": "PROYECTOR LASER",
     "precio": 17500,
@@ -1911,14 +1893,6 @@
     "suspendido": false
   },
   {
-    "id": 1776205956679,
-    "nombre": "PARLANTE BT PORTATIL KTS-1828",
-    "precio": 12490,
-    "foto": "https://i.postimg.cc/0jxL0cL6/CC.jpg",
-    "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": true
-  },
-  {
     "id": 1776455777520,
     "nombre": "PARLANTE 3PLG BT C/M",
     "precio": 7140,
@@ -1929,7 +1903,7 @@
   {
     "id": 1776455897997,
     "nombre": "SET X2 DISPENSER DE JABON (VIDRIO)",
-    "precio": 10900,
+    "precio": 11900,
     "foto": "https://i.postimg.cc/Z5rqbZpd/hand.jpg",
     "categoria": "COCINA",
     "suspendido": false,
@@ -2589,7 +2563,7 @@
     "precio": 950,
     "foto": "https://i.postimg.cc/pV6QwqW7/MM.jpg",
     "categoria": "SOPORTES TV/CELU",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779331044544,
@@ -2818,7 +2792,7 @@
   {
     "id": 1780695976047,
     "nombre": "DEPILADORA 6 EN 1 RECARGABLE",
-    "precio": 20610,
+    "precio": 21300,
     "foto": "https://i.postimg.cc/wv6zSsK6/zz.jpg",
     "categoria": "ACCESORIOS P/ BELLEZA",
     "suspendido": false,
@@ -2866,7 +2840,7 @@
     "precio": 1980,
     "foto": "https://i.postimg.cc/zXqJWV7B/CORN.jpg",
     "categoria": "VARIOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1780769876993
   },
   {
@@ -3111,5 +3085,23 @@
     "categoria": "ACCESORIOS P/ BELLEZA",
     "suspendido": false,
     "fechaIngreso": 1782478705417
+  },
+  {
+    "id": 1782859300905,
+    "nombre": "ASPIRADORA PORTATIL VACCUN",
+    "precio": 7200,
+    "foto": "https://i.postimg.cc/tTKNYfFY/AS-228.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1782859300906
+  },
+  {
+    "id": 1782859499484,
+    "nombre": "SACA PELUSA / PELOS MASCOTAS",
+    "precio": 6700,
+    "foto": "https://i.postimg.cc/C56BRn3G/F0023.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1782859499484
   }
 ]
