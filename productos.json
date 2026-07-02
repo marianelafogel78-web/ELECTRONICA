@@ -2,10 +2,11 @@
   {
     "id": 4,
     "nombre": "CARGADOR RAPIDO TIPO C ROYALCELL 5.0A",
-    "precio": 3690,
+    "precio": 3880,
     "foto": "https://i.postimg.cc/PxSyymsB/cargador5A.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1783028745253
   },
   {
     "id": 7,
@@ -34,10 +35,11 @@
   {
     "id": 18,
     "nombre": "CARGADOR ROYALCEL V8 5A",
-    "precio": 3700,
+    "precio": 3880,
     "foto": "https://i.postimg.cc/43XfHbgL/Whats-App-Image-2025-09-10-at-20-57-09-1.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1783028763845
   },
   {
     "id": 19,
@@ -429,11 +431,12 @@
   },
   {
     "id": 100,
-    "nombre": "VINCHA P47 BLUETOOTH S/CABLE AUX",
+    "nombre": "VINCHA P47 BLUETOOTH ",
     "precio": 5710,
     "foto": "https://i.postimg.cc/mZtpnzn0/AR-1401.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1783029870835
   },
   {
     "id": 101,
@@ -849,27 +852,30 @@
   },
   {
     "id": 185,
-    "nombre": "CINTA METRICA 3M 3GTM",
+    "nombre": "CINTA METRICA 3M ",
     "precio": 1710,
     "foto": "https://i.postimg.cc/8P7Nkz0v/1901.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1783029761965
   },
   {
     "id": 186,
-    "nombre": "CINTA METRICA 5M GIANT 36G-50",
+    "nombre": "CINTA METRICA 5M ",
     "precio": 2650,
     "foto": "https://i.postimg.cc/QMGXyZST/1902.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1783029788188
   },
   {
     "id": 187,
-    "nombre": "CINTA METRICA GIANT 7.5 METROS",
+    "nombre": "CINTA METRICA 7.5M",
     "precio": 4780,
     "foto": "https://i.postimg.cc/mDnpmByx/1903.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1783029812244
   },
   {
     "id": 189,
@@ -1576,10 +1582,11 @@
   {
     "id": 324,
     "nombre": "CABLE UNIVERSAL 3 EN 1 IBEK",
-    "precio": 2400,
+    "precio": 2850,
     "foto": "https://i.postimg.cc/sgtp2cLL/cablleibek.png",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1783028400156
   },
   {
     "id": 325,
@@ -1599,11 +1606,12 @@
   },
   {
     "id": 1772715449206,
-    "nombre": "CABLE HDMI MALLADO 3MM",
+    "nombre": "CABLE HDMI MALLADO 3M",
     "precio": 2610,
     "foto": "https://i.postimg.cc/t46yWFNr/HDMI3MM.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1783029832891
   },
   {
     "id": 1772715591964,
@@ -1649,10 +1657,11 @@
   {
     "id": 1773350853912,
     "nombre": "CARGADOR LIGHTNING ROYALCELL",
-    "precio": 3850,
+    "precio": 3950,
     "foto": "https://i.postimg.cc/sXBhf5GK/CARGA.png",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1783028839243
   },
   {
     "id": 1773351313834,
@@ -1749,18 +1758,20 @@
   {
     "id": 1774561925116,
     "nombre": "AURICULAR SPORT JBL ",
-    "precio": 1545,
+    "precio": 1620,
     "foto": "https://i.postimg.cc/d1pZwy1y/aurijblsp.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1783030266261
   },
   {
     "id": 1774562131265,
     "nombre": "CABLE TIPO C 20W AITECH",
-    "precio": 2120,
+    "precio": 2250,
     "foto": "https://i.postimg.cc/C5CF30TZ/cable1.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1783029047848
   },
   {
     "id": 1775138909220,
@@ -1953,7 +1964,7 @@
   },
   {
     "id": 1776808892145,
-    "nombre": "LINTERNA PARLANTE MP3",
+    "nombre": "LINTERNA CON PARLANTE MP3",
     "precio": 7420,
     "foto": "https://i.postimg.cc/43DBwKfg/PARLINT.jpg",
     "categoria": "ILUMINACION",
@@ -2641,7 +2652,7 @@
   {
     "id": 1779991682258,
     "nombre": "CABLE LEGATUS ENGOMADO TIPO C",
-    "precio": 1310,
+    "precio": 1390,
     "foto": "https://i.postimg.cc/ryQHrNRQ/CC.webp",
     "categoria": "CABLES",
     "suspendido": false,
@@ -2677,7 +2688,7 @@
   {
     "id": 1780010282060,
     "nombre": "IPHONE CABLE ROYALCELL MALLADO",
-    "precio": 1480,
+    "precio": 1550,
     "foto": "https://i.postimg.cc/ZRnBRWYx/CC.webp",
     "categoria": "CABLES",
     "suspendido": false,
@@ -3117,7 +3128,7 @@
   },
   {
     "id": 1783014519957,
-    "nombre": "LINTERNA RECARGABLE LLAVERO",
+    "nombre": "LINTERNA LLAVERO RECARGABLE",
     "precio": 2160,
     "foto": "https://i.postimg.cc/9fppDKS9/WK24.jpg",
     "categoria": "ILUMINACION",
@@ -3126,7 +3137,7 @@
   },
   {
     "id": 1783014590340,
-    "nombre": " LINTERNA MINI CAMUFLADO ",
+    "nombre": "LINTERNA MINI RECARGABLE CAMUFLADO ",
     "precio": 3750,
     "foto": "https://i.postimg.cc/7PTKVsJV/LL.jpg",
     "categoria": "ILUMINACION",
@@ -3147,7 +3158,7 @@
     "nombre": "LAMPARA DE ESCRITORIO PLEGABLE",
     "precio": 10650,
     "foto": "https://i.postimg.cc/X749CQf2/LUZ.jpg",
-    "categoria": "HOGAR",
+    "categoria": "ILUMINACION",
     "suspendido": false,
     "fechaIngreso": 1783014735755
   },
@@ -3207,7 +3218,7 @@
   },
   {
     "id": 1783015534038,
-    "nombre": "PILAS LITHIUM EN BLISTER X5 UNDS 3V C",
+    "nombre": "PILAS LITHIUM EN BLISTER X5 UN. 3V ",
     "precio": 1600,
     "foto": "https://i.postimg.cc/2yFcxy9Q/CR-2032.jpg",
     "categoria": "VARIOS",
@@ -3225,7 +3236,7 @@
   },
   {
     "id": 1783015746516,
-    "nombre": " SET X 6 COPAS DE VINO",
+    "nombre": "SET X 6 COPAS DE VINO",
     "precio": 14790,
     "foto": "https://i.postimg.cc/nzT9YtYr/3057.jpg",
     "categoria": "COCINA",
@@ -3234,7 +3245,7 @@
   },
   {
     "id": 1783026948323,
-    "nombre": " ESTABILIZADOR C/ MICROFONO Y LUZ",
+    "nombre": "ESTABILIZADOR C/ MICROFONO Y LUZ",
     "precio": 15180,
     "foto": "https://i.postimg.cc/vZbRC1JV/aa.jpg",
     "categoria": "TECNOLOGIA",
@@ -3243,7 +3254,7 @@
   },
   {
     "id": 1783027036890,
-    "nombre": " PALO SELFIE BLUETOOH +TRIPODE Y LUZ",
+    "nombre": "PALO SELFIE BLUETOOH +TRIPODE Y LUZ",
     "precio": 4500,
     "foto": "https://i.postimg.cc/636DqDW6/SFjpg.jpg",
     "categoria": "SOPORTES TV/CELU",
@@ -3252,7 +3263,7 @@
   },
   {
     "id": 1783027791756,
-    "nombre": " AURICULAR INALAMBRICO ULTRAPOD",
+    "nombre": "AURICULAR INALAMBRICO ULTRAPOD",
     "precio": 6370,
     "foto": "https://i.postimg.cc/MHLkhd8K/AU-17006.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
@@ -3261,8 +3272,8 @@
   },
   {
     "id": 1783027910228,
-    "nombre": " CINTA METRICA 10 METROS ",
-    "precio": 47590,
+    "nombre": "CINTA METRICA 10 METROS ",
+    "precio": 4760,
     "foto": "https://i.postimg.cc/7h2GvTrc/1904.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false,
