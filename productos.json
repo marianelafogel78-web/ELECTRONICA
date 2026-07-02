@@ -240,7 +240,7 @@
     "precio": 10990,
     "foto": "https://i.postimg.cc/bv81YG46/parlante.png",
     "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 47,
@@ -272,7 +272,7 @@
     "precio": 10900,
     "foto": "https://i.postimg.cc/Ssw32y1X/GTS-2265.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 56,
@@ -1378,7 +1378,7 @@
     "precio": 10990,
     "foto": "https://i.postimg.cc/NfFJZPqy/auri1.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 285,
@@ -1652,7 +1652,7 @@
     "precio": 7140,
     "foto": "https://i.postimg.cc/Y07RFT2C/TRIPODE.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1773350853912,
@@ -1752,7 +1752,7 @@
     "precio": 7560,
     "foto": "https://i.postimg.cc/bYbVCY3h/125.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1774561925116,
@@ -2558,20 +2558,12 @@
     "suspendido": false
   },
   {
-    "id": 1779330907610,
-    "nombre": "HOLDER DOBLE SOPAPA ",
-    "precio": 950,
-    "foto": "https://i.postimg.cc/pV6QwqW7/MM.jpg",
-    "categoria": "SOPORTES TV/CELU",
-    "suspendido": true
-  },
-  {
     "id": 1779331044544,
     "nombre": "PARLANTE FABRIC FM/BT/USB",
     "precio": 8750,
     "foto": "https://i.postimg.cc/zB3bpYR9/MM.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779932098854,
@@ -2903,7 +2895,7 @@
     "precio": 5040,
     "foto": "https://i.postimg.cc/Qt8nN4BV/LINB.png",
     "categoria": "ILUMINACION",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1781218245505
   },
   {
@@ -2921,7 +2913,7 @@
     "precio": 10500,
     "foto": "https://i.postimg.cc/nLHKQSdN/aa.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1781798921356
   },
   {
