@@ -3249,5 +3249,23 @@
     "categoria": "SOPORTES TV/CELU",
     "suspendido": false,
     "fechaIngreso": 1783027036890
+  },
+  {
+    "id": 1783027791756,
+    "nombre": " AURICULAR INALAMBRICO ULTRAPOD",
+    "precio": 6370,
+    "foto": "https://i.postimg.cc/MHLkhd8K/AU-17006.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false,
+    "fechaIngreso": 1783027791756
+  },
+  {
+    "id": 1783027910228,
+    "nombre": " CINTA METRICA 10 METROS ",
+    "precio": 47590,
+    "foto": "https://i.postimg.cc/7h2GvTrc/1904.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1783027910228
   }
 ]
