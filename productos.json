@@ -3231,5 +3231,23 @@
     "categoria": "COCINA",
     "suspendido": false,
     "fechaIngreso": 1783015746516
+  },
+  {
+    "id": 1783026948323,
+    "nombre": " ESTABILIZADOR C/ MICROFONO Y LUZ",
+    "precio": 15180,
+    "foto": "https://i.postimg.cc/vZbRC1JV/aa.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1783026948323
+  },
+  {
+    "id": 1783027036890,
+    "nombre": " PALO SELFIE BLUETOOH +TRIPODE Y LUZ",
+    "precio": 4500,
+    "foto": "https://i.postimg.cc/636DqDW6/SFjpg.jpg",
+    "categoria": "SOPORTES TV/CELU",
+    "suspendido": false,
+    "fechaIngreso": 1783027036890
   }
 ]
