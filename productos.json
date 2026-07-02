@@ -2891,7 +2891,7 @@
   {
     "id": 1781217890231,
     "nombre": "ZAPATILLA FLOR 4BOCAS + 4 USB",
-    "precio": 8050,
+    "precio": 10140,
     "foto": "https://i.postimg.cc/g0LssCCL/flor.jpg",
     "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false,
@@ -3103,5 +3103,149 @@
     "categoria": "HOGAR",
     "suspendido": false,
     "fechaIngreso": 1782859499484
+  },
+  {
+    "id": 1783014248023,
+    "nombre": "BOTELLA ANTIDERRAME C/ SORBETE INCORPORADO",
+    "precio": 15400,
+    "foto": "https://i.postimg.cc/8C83R2tb/TH-27G.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false,
+    "fechaIngreso": 1783014248023
+  },
+  {
+    "id": 1783014300031,
+    "nombre": " BOTELLA DEPORTIVA CON PARLANTE",
+    "precio": 14700,
+    "foto": "https://i.postimg.cc/KvRsdGWt/CH-M833.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false,
+    "fechaIngreso": 1783014300031
+  },
+  {
+    "id": 1783014378214,
+    "nombre": "ANAFE PORTATIL DE CAMPING",
+    "precio": 9185,
+    "foto": "https://i.postimg.cc/k4Tfpzvr/ZT.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1783014378214
+  },
+  {
+    "id": 1783014519957,
+    "nombre": "LINTERNA RECARGABLE LLAVERO",
+    "precio": 2160,
+    "foto": "https://i.postimg.cc/9fppDKS9/WK24.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1783014519957
+  },
+  {
+    "id": 1783014590340,
+    "nombre": " LINTERNA MINI CAMUFLADO ",
+    "precio": 3750,
+    "foto": "https://i.postimg.cc/7PTKVsJV/LL.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1783014590340
+  },
+  {
+    "id": 1783014662292,
+    "nombre": "LINTERNA COB",
+    "precio": 8220,
+    "foto": "https://i.postimg.cc/9XTBTDvz/LLL.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1783014662292
+  },
+  {
+    "id": 1783014735755,
+    "nombre": "LAMPARA DE ESCRITORIO PLEGABLE",
+    "precio": 10650,
+    "foto": "https://i.postimg.cc/X749CQf2/LUZ.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1783014735755
+  },
+  {
+    "id": 1783014814331,
+    "nombre": "RADIO PARLANTE",
+    "precio": 8660,
+    "foto": "https://i.postimg.cc/sXPvfC08/KTS-2281.jpg",
+    "categoria": "PARLANTES Y MICROFONOS",
+    "suspendido": false,
+    "fechaIngreso": 1783014814331
+  },
+  {
+    "id": 1783014892258,
+    "nombre": "PARLANTE 3 PLG SKULL POPART",
+    "precio": 8190,
+    "foto": "https://i.postimg.cc/d3ttqkCd/AYV0416.jpg",
+    "categoria": "PARLANTES Y MICROFONOS",
+    "suspendido": false,
+    "fechaIngreso": 1783014892258
+  },
+  {
+    "id": 1783014957114,
+    "nombre": "ESPEJO CON LUZ RECARGABLE",
+    "precio": 8820,
+    "foto": "https://i.postimg.cc/RCsv70fn/ESP-91059.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1783014957114
+  },
+  {
+    "id": 1783015100841,
+    "nombre": " ORGANIZADOR ESCURRIDOR DE CUCHILLOS",
+    "precio": 6590,
+    "foto": "https://i.postimg.cc/NFShW57n/HOG0587.jpg",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1783015100841
+  },
+  {
+    "id": 1783015262287,
+    "nombre": "TESTER NOGA DIGITAL",
+    "precio": 6490,
+    "foto": "https://i.postimg.cc/25zt9QNB/MMM.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1783015262287
+  },
+  {
+    "id": 1783015382967,
+    "nombre": " PURIFICADOR DE AGUA",
+    "precio": 6700,
+    "foto": "https://i.postimg.cc/s2NtBMbD/SWS-623.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1783015382967
+  },
+  {
+    "id": 1783015534038,
+    "nombre": " PILAS LITHIUM EN BLISTER X5 UNDS 3V C",
+    "precio": 1600,
+    "foto": "https://i.postimg.cc/2yFcxy9Q/CR-2032.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false,
+    "fechaIngreso": 1783015534038
+  },
+  {
+    "id": 1783015643493,
+    "nombre": " CARGADOR DE AUTO 2US",
+    "precio": 1730,
+    "foto": "https://i.postimg.cc/CLxH2cRz/CAR.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false,
+    "fechaIngreso": 1783015643493
+  },
+  {
+    "id": 1783015746516,
+    "nombre": " SET X 6 COPAS DE VINO",
+    "precio": 14790,
+    "foto": "https://i.postimg.cc/nzT9YtYr/3057.jpg",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1783015746516
   }
 ]
