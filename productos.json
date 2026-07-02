@@ -8,14 +8,6 @@
     "suspendido": false
   },
   {
-    "id": 6,
-    "nombre": "CARGADOR CABEZAL BOLSITA 1A TIME",
-    "precio": 1460,
-    "foto": "https://i.postimg.cc/3Nn3Xqz6/TMCC112.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
     "id": 7,
     "nombre": "ADAPTADOR INTERNACIONAL VIAJERO ",
     "precio": 3400,
@@ -1800,7 +1792,7 @@
     "precio": 9100,
     "foto": "https://i.postimg.cc/HLJsyfhv/PARLANRED.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1775139595442,
@@ -3107,7 +3099,7 @@
   },
   {
     "id": 1783014300031,
-    "nombre": " BOTELLA DEPORTIVA CON PARLANTE",
+    "nombre": "BOTELLA DEPORTIVA CON PARLANTE",
     "precio": 14700,
     "foto": "https://i.postimg.cc/KvRsdGWt/CH-M833.jpg",
     "categoria": "TERMOS Y VASOS",
@@ -3188,7 +3180,7 @@
   },
   {
     "id": 1783015100841,
-    "nombre": " ORGANIZADOR ESCURRIDOR DE CUCHILLOS",
+    "nombre": "ORGANIZADOR ESCURRIDOR DE CUCHILLOS",
     "precio": 6590,
     "foto": "https://i.postimg.cc/NFShW57n/HOG0587.jpg",
     "categoria": "COCINA",
@@ -3206,7 +3198,7 @@
   },
   {
     "id": 1783015382967,
-    "nombre": " PURIFICADOR DE AGUA",
+    "nombre": "PURIFICADOR DE AGUA",
     "precio": 6700,
     "foto": "https://i.postimg.cc/s2NtBMbD/SWS-623.jpg",
     "categoria": "HOGAR",
@@ -3215,7 +3207,7 @@
   },
   {
     "id": 1783015534038,
-    "nombre": " PILAS LITHIUM EN BLISTER X5 UNDS 3V C",
+    "nombre": "PILAS LITHIUM EN BLISTER X5 UNDS 3V C",
     "precio": 1600,
     "foto": "https://i.postimg.cc/2yFcxy9Q/CR-2032.jpg",
     "categoria": "VARIOS",
@@ -3224,7 +3216,7 @@
   },
   {
     "id": 1783015643493,
-    "nombre": " CARGADOR DE AUTO 2US",
+    "nombre": "CARGADOR DE AUTO 2US",
     "precio": 1730,
     "foto": "https://i.postimg.cc/CLxH2cRz/CAR.jpg",
     "categoria": "CARGADORES",
