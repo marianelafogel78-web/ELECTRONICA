@@ -1034,6 +1034,7 @@ let esDuenioAutenticado = urlParams.has('appsfogel') && urlParams.get('appsfogel
             if (password === CLAVE_ADMIN) {
                 document.getElementById('login-seccion').style.display = 'none';
                 document.getElementById('gestion-seccion').style.display = 'block';
+                esDuenioAutenticado = true;
                 filtrarYRenderizarProductos();
             } else {
                 alert("CONTRASEÑA INCORRECTA");
@@ -1178,16 +1179,19 @@ let esDuenioAutenticado = urlParams.has('appsfogel') && urlParams.get('appsfogel
         // 6. NAVEGACIÓN
         // =================================================================
        // MODIFICAMOS mostrarPestana PARA QUE REFRESHEE SIEMPRE
+// MODIFICAMOS mostrarPestana PARA QUE REFRESHEE SIEMPRE (MENOS AL ADMIN)
 const mostrarPestana = async (pestana, event) => {
-    // 1. REFRESCO GLOBAL: Cada vez que tocan un botón de pestaña, bajamos los datos frescos
-    try {
-        const responseProd = await fetch('./productos.json?v=' + Date.now());
-        productos = await responseProd.json();
-    } catch (e) {
-        console.log("Error al refrescar datos en segundo plano");
+    // 1. REFRESCO GLOBAL: Solo para clientes. Si sos admin, NO recargamos para no perder tus cambios.
+    if (!esDuenioAutenticado) {
+        try {
+            const responseProd = await fetch('./productos.json?v=' + Date.now());
+            productos = await responseProd.json();
+        } catch (e) {
+            console.log("Error al refrescar datos en segundo plano");
+        }
     }
 
-    // 2. Lógica normal de pestañas
+    // 2. Lógica normal de pestañas (el resto del código queda exactamente igual...)
     document.querySelectorAll('.tab-content').forEach(p => p.style.display = 'none');
     document.querySelectorAll('.tab-button').forEach(b => b.classList.remove('active'));
     
