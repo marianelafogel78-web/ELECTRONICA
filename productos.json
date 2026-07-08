@@ -30,7 +30,7 @@
     "precio": 3150,
     "foto": "https://i.postimg.cc/Wz956m8S/CAR-53004.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 18,
@@ -229,14 +229,6 @@
     "suspendido": false
   },
   {
-    "id": 46,
-    "nombre": "PARLANTE 3´ BT FM/MP3",
-    "precio": 10990,
-    "foto": "https://i.postimg.cc/bv81YG46/parlante.png",
-    "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": true
-  },
-  {
     "id": 47,
     "nombre": "PARLANTE 3´ GTS2166",
     "precio": 7280,
@@ -250,7 +242,7 @@
     "precio": 11760,
     "foto": "https://i.postimg.cc/PrxjLL4j/PARLANTW-RUEDA.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 49,
@@ -282,7 +274,7 @@
     "precio": 960,
     "foto": "https://i.postimg.cc/1t4gbHD3/abrelaaas.jpg",
     "categoria": "COCINA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 67,
@@ -379,7 +371,7 @@
     "precio": 3000,
     "foto": "https://i.postimg.cc/T39zryhh/TP101.jpg",
     "categoria": "COCINA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 92,
@@ -668,7 +660,7 @@
     "precio": 850,
     "foto": "https://i.postimg.cc/7bvD7zQN/peine-piojos.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 143,
@@ -1376,7 +1368,7 @@
     "precio": 10990,
     "foto": "https://i.postimg.cc/NfFJZPqy/auri1.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 285,
@@ -1529,7 +1521,7 @@
     "precio": 6825,
     "foto": "https://i.postimg.cc/wBncWQ68/Btidora.jpg",
     "categoria": "COCINA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 314,
@@ -1585,7 +1577,7 @@
     "precio": 2850,
     "foto": "https://i.postimg.cc/sgtp2cLL/cablleibek.png",
     "categoria": "CABLES",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1783028400156
   },
   {
@@ -1993,7 +1985,7 @@
     "precio": 7000,
     "foto": "https://i.postimg.cc/4NRnZXdG/KTX-1997.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1776809398188,
@@ -2026,7 +2018,7 @@
     "precio": 20200,
     "foto": "https://i.postimg.cc/1XWY3rNK/SM-202A.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1776950598947,
@@ -2091,7 +2083,7 @@
     "precio": 16218,
     "foto": "https://i.postimg.cc/QxmyTyXx/TERMO1L.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777141020918,
@@ -2155,7 +2147,7 @@
     "precio": 2850,
     "foto": "https://i.postimg.cc/02Dnft5x/CIBEK.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777735421917,
@@ -2478,11 +2470,11 @@
   },
   {
     "id": 1779320202323,
-    "nombre": "BANDERA ARGENTINA GRANDE  90X145 ",
-    "precio": 2790,
+    "nombre": "BANDERA ARGENTINA MEDIANA 90X60",
+    "precio": 2400,
     "foto": "https://i.postimg.cc/VvkJ5QYc/NN.jpg",
     "categoria": "VARIOS",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1780317658853
   },
   {
@@ -3146,9 +3138,9 @@
   },
   {
     "id": 1783014662292,
-    "nombre": "LINTERNA COB",
+    "nombre": "LINTERNA LAMPARA LED COB WORK EMERGENCIA CARGA SOLAR Y USB",
     "precio": 8220,
-    "foto": "https://i.postimg.cc/9XTBTDvz/LLL.jpg",
+    "foto": "https://i.postimg.cc/vZT6fSrr/LCOB.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false,
     "fechaIngreso": 1783014662292
@@ -3161,15 +3153,6 @@
     "categoria": "ILUMINACION",
     "suspendido": false,
     "fechaIngreso": 1783014735755
-  },
-  {
-    "id": 1783014814331,
-    "nombre": "RADIO PARLANTE",
-    "precio": 8660,
-    "foto": "https://i.postimg.cc/sXPvfC08/KTS-2281.jpg",
-    "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": false,
-    "fechaIngreso": 1783014814331
   },
   {
     "id": 1783014892258,
@@ -3235,15 +3218,6 @@
     "fechaIngreso": 1783015643493
   },
   {
-    "id": 1783015746516,
-    "nombre": "SET X 6 COPAS DE VINO",
-    "precio": 14790,
-    "foto": "https://i.postimg.cc/nzT9YtYr/3057.jpg",
-    "categoria": "COCINA",
-    "suspendido": false,
-    "fechaIngreso": 1783015746516
-  },
-  {
     "id": 1783026948323,
     "nombre": "ESTABILIZADOR C/ MICROFONO Y LUZ",
     "precio": 15180,
@@ -3278,5 +3252,68 @@
     "categoria": "HERRAMIENTAS",
     "suspendido": false,
     "fechaIngreso": 1783027910228
+  },
+  {
+    "id": 1783547644815,
+    "nombre": "MOUSE LED NOGA CON CALBE",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/TPhF8Gr1/mous2.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1783547644816
+  },
+  {
+    "id": 1783547772861,
+    "nombre": "SACACORCHO RECARGABLE",
+    "precio": 11490,
+    "foto": "https://i.postimg.cc/5yfmVqZs/sacacorcho.png",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1783547772861
+  },
+  {
+    "id": 1783547952241,
+    "nombre": "CONTROL REMOTO TV - RM-014S",
+    "precio": 3900,
+    "foto": "https://i.postimg.cc/5N0wS016/aa.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1783547952241
+  },
+  {
+    "id": 1783548182017,
+    "nombre": "KIT DE TAPA X6 UNIDADES DE SILICON ",
+    "precio": 2550,
+    "foto": "https://i.postimg.cc/yd8dCDL4/TS.jpg",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1783548182017
+  },
+  {
+    "id": 1783548593477,
+    "nombre": "CARGADOR HYTOSHY 168W",
+    "precio": 7950,
+    "foto": "https://i.postimg.cc/8PNT2JsC/H168.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false,
+    "fechaIngreso": 1783548593477
+  },
+  {
+    "id": 1783548886069,
+    "nombre": "CARGADOR BASE INALÁMBRICO AITECH CARGA RAPIDA",
+    "precio": 8380,
+    "foto": "https://i.postimg.cc/HsZF6VyP/AI.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false,
+    "fechaIngreso": 1783548886069
+  },
+  {
+    "id": 1783549116581,
+    "nombre": "CARGADOR LIGHTNING LEGATUS 5.0A ",
+    "precio": 3700,
+    "foto": "https://i.postimg.cc/pryJrXL2/CL.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false,
+    "fechaIngreso": 1783549116581
   }
 ]
