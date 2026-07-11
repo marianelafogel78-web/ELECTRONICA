@@ -628,7 +628,7 @@ box-sizing: border-box;
         </div>
     </main>
 
-    <a href="https://wa.me/5493571536378" class="whatsapp-float" target="_blank">
+    <a href="https://wa.me/5493571526245" class="whatsapp-float" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
     </a>
 
@@ -645,7 +645,7 @@ let esDuenioAutenticado = urlParams.has('appsfogel') && urlParams.get('appsfogel
         let categorias = [];
         let carrito = JSON.parse(localStorage.getItem('carritoPY')) || [];
         const CLAVE_ADMIN = "MM2025";
-        const TELEFONO_WHATSAPP = "5493571536378"; 
+        const TELEFONO_WHATSAPP = "5493571526245"; 
 
         // =================================================================
         // 2. CARGA DE DATOS (FETCH)
@@ -1034,7 +1034,6 @@ let esDuenioAutenticado = urlParams.has('appsfogel') && urlParams.get('appsfogel
             if (password === CLAVE_ADMIN) {
                 document.getElementById('login-seccion').style.display = 'none';
                 document.getElementById('gestion-seccion').style.display = 'block';
-                esDuenioAutenticado = true;
                 filtrarYRenderizarProductos();
             } else {
                 alert("CONTRASEÑA INCORRECTA");
@@ -1179,19 +1178,16 @@ let esDuenioAutenticado = urlParams.has('appsfogel') && urlParams.get('appsfogel
         // 6. NAVEGACIÓN
         // =================================================================
        // MODIFICAMOS mostrarPestana PARA QUE REFRESHEE SIEMPRE
-// MODIFICAMOS mostrarPestana PARA QUE REFRESHEE SIEMPRE (MENOS AL ADMIN)
 const mostrarPestana = async (pestana, event) => {
-    // 1. REFRESCO GLOBAL: Solo para clientes. Si sos admin, NO recargamos para no perder tus cambios.
-    if (!esDuenioAutenticado) {
-        try {
-            const responseProd = await fetch('./productos.json?v=' + Date.now());
-            productos = await responseProd.json();
-        } catch (e) {
-            console.log("Error al refrescar datos en segundo plano");
-        }
+    // 1. REFRESCO GLOBAL: Cada vez que tocan un botón de pestaña, bajamos los datos frescos
+    try {
+        const responseProd = await fetch('./productos.json?v=' + Date.now());
+        productos = await responseProd.json();
+    } catch (e) {
+        console.log("Error al refrescar datos en segundo plano");
     }
 
-    // 2. Lógica normal de pestañas (el resto del código queda exactamente igual...)
+    // 2. Lógica normal de pestañas
     document.querySelectorAll('.tab-content').forEach(p => p.style.display = 'none');
     document.querySelectorAll('.tab-button').forEach(b => b.classList.remove('active'));
     
