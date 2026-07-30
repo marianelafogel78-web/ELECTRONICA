@@ -1524,7 +1524,7 @@
     "precio": 6825,
     "foto": "https://i.postimg.cc/wBncWQ68/Btidora.jpg",
     "categoria": "COCINA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 314,
@@ -1859,14 +1859,6 @@
     "fechaIngreso": 1779931919005
   },
   {
-    "id": 1776198453347,
-    "nombre": "JARRA PAVA ELECTRICA 2L. SIN CORTE ORIX",
-    "precio": 16100,
-    "foto": "https://i.postimg.cc/x1mcC5Yk/PAVAORIX.png",
-    "categoria": "COCINA",
-    "suspendido": true
-  },
-  {
     "id": 1776198939960,
     "nombre": "SET BAÑO 6 PIEZAS DISPONIBLEEN GRIS C/NEGRO",
     "precio": 19900,
@@ -2021,7 +2013,7 @@
     "precio": 20200,
     "foto": "https://i.postimg.cc/1XWY3rNK/SM-202A.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1776950598947,
@@ -2427,7 +2419,7 @@
     "precio": 4480,
     "foto": "https://i.postimg.cc/cCDvvgY4/CC.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779109292352,
@@ -3350,7 +3342,7 @@
     "id": 1785371053966,
     "nombre": "PINZA PELACABLE PLEGABLE",
     "precio": 6900,
-    "foto": "https://i.postimg.cc/zvChM3nY/shopping.webp",
+    "foto": "https://i.postimg.cc/V6fqzSCt/HH.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false,
     "fechaIngreso": 1785371053966
@@ -3570,5 +3562,95 @@
     "categoria": "SOPORTES TV/CELU",
     "suspendido": false,
     "fechaIngreso": 1785372178591
+  },
+  {
+    "id": 1785430692250,
+    "nombre": "PISTOLA BURBUJERA UNICORNIO ",
+    "precio": 7650,
+    "foto": "https://i.postimg.cc/fW1XfvV1/333-25.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1785430692250
+  },
+  {
+    "id": 1785430873138,
+    "nombre": "BATTLE CHESS MAGNETICO",
+    "precio": 9380,
+    "foto": "https://i.postimg.cc/HkYLwJ9P/NN.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1785430873138
+  },
+  {
+    "id": 1785430938746,
+    "nombre": "JUEGO DE MESA BASTA STOP 3.0",
+    "precio": 16240,
+    "foto": "https://i.postimg.cc/brg7pvSb/BTC-3.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1785430938746
+  },
+  {
+    "id": 1785430999150,
+    "nombre": "JUEGO DE MESA VASOS APILABLES",
+    "precio": 12450,
+    "foto": "https://i.postimg.cc/Y9wZFF1p/MELECH-681.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1785430999150
+  },
+  {
+    "id": 1785431041038,
+    "nombre": "JUEGO ROMPE MUROS LADRILLOS LOCOS",
+    "precio": 7450,
+    "foto": "https://i.postimg.cc/2jGMqV33/MELECH-682.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1785431041038
+  },
+  {
+    "id": 1785431107057,
+    "nombre": "LIBRO PARA PINTAR",
+    "precio": 3600,
+    "foto": "https://i.postimg.cc/FRZWJBFh/905.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1785431107057
+  },
+  {
+    "id": 1785431166302,
+    "nombre": "JUEGO MAGNETICO 42PCS",
+    "precio": 11900,
+    "foto": "https://i.postimg.cc/7YC9x6zD/JM-CT2.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1785431166302
+  },
+  {
+    "id": 1785431216178,
+    "nombre": "PELOTA DE BASKET BALL ",
+    "precio": 7650,
+    "foto": "https://i.postimg.cc/JhRjB4sw/BB-03.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1785431216178
+  },
+  {
+    "id": 1785431327155,
+    "nombre": "SET DE PINTURAS X 208",
+    "precio": 16590,
+    "foto": "https://i.postimg.cc/ydkjkYGy/AL-202.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1785431327155
+  },
+  {
+    "id": 1785431394335,
+    "nombre": "VASO TERMICO 500ML",
+    "precio": 11200,
+    "foto": "https://i.postimg.cc/KvrPcMzZ/MELECH-686.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false,
+    "fechaIngreso": 1785431394335
   }
 ]
