@@ -2,7 +2,7 @@
   {
     "id": 4,
     "nombre": "CARGADOR RAPIDO TIPO C ROYALCELL 5.0A",
-    "precio": 3880,
+    "precio": 3980,
     "foto": "https://i.postimg.cc/PxSyymsB/cargador5A.jpg",
     "categoria": "CARGADORES",
     "suspendido": false,
@@ -35,7 +35,7 @@
   {
     "id": 18,
     "nombre": "CARGADOR ROYALCEL V8 5A",
-    "precio": 3880,
+    "precio": 3980,
     "foto": "https://i.postimg.cc/43XfHbgL/Whats-App-Image-2025-09-10-at-20-57-09-1.jpg",
     "categoria": "CARGADORES",
     "suspendido": false,
@@ -117,10 +117,11 @@
   {
     "id": 30,
     "nombre": "CABLE TIME TIPO C A TIPO C 1M 45W",
-    "precio": 1450,
+    "precio": 1850,
     "foto": "https://i.postimg.cc/cJpyfWC6/CAB-44002.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1785379317931
   },
   {
     "id": 31,
@@ -165,23 +166,25 @@
   {
     "id": 38,
     "nombre": "CABLE LEGATUS V8 5A",
-    "precio": 1380,
+    "precio": 1580,
     "foto": "https://i.postimg.cc/2yD2C6vZ/Whats-App-Image-2025-09-10-at-20-57-09.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1785379394446
   },
   {
     "id": 39,
     "nombre": "CABLE M. ROYALCEL V8 5A",
-    "precio": 1409,
+    "precio": 1725,
     "foto": "https://i.postimg.cc/vZWknJ8M/Whats-App-Image-2025-09-10-at-23-33-22-2.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1785379290431
   },
   {
     "id": 40,
     "nombre": "CABLE M. ROYALCEL TIPO C 5A",
-    "precio": 1409,
+    "precio": 1725,
     "foto": "https://i.postimg.cc/43GCFJ2m/Whats-App-Image-2025-09-10-at-23-33-23.jpg",
     "categoria": "CABLES",
     "suspendido": false,
@@ -198,7 +201,7 @@
   {
     "id": 42,
     "nombre": "IPHONE CABLE USB 1M",
-    "precio": 2100,
+    "precio": 2400,
     "foto": "https://i.postimg.cc/2SsWstnq/Captura-de-pantalla-2025-09-11-194526.png",
     "categoria": "CABLES",
     "suspendido": false,
@@ -274,7 +277,7 @@
     "precio": 960,
     "foto": "https://i.postimg.cc/1t4gbHD3/abrelaaas.jpg",
     "categoria": "COCINA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 67,
@@ -371,7 +374,7 @@
     "precio": 3000,
     "foto": "https://i.postimg.cc/T39zryhh/TP101.jpg",
     "categoria": "COCINA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 92,
@@ -1649,7 +1652,7 @@
   {
     "id": 1773350853912,
     "nombre": "CARGADOR LIGHTNING ROYALCELL",
-    "precio": 3950,
+    "precio": 4450,
     "foto": "https://i.postimg.cc/sXBhf5GK/CARGA.png",
     "categoria": "CARGADORES",
     "suspendido": false,
@@ -1667,7 +1670,7 @@
   {
     "id": 1773690530862,
     "nombre": "IPHONE CABLE TIPO C 1M",
-    "precio": 2250,
+    "precio": 2600,
     "foto": "https://i.postimg.cc/Z5yPmmZ9/iphn.jpg",
     "categoria": "CABLES",
     "suspendido": false,
@@ -2083,7 +2086,7 @@
     "precio": 16218,
     "foto": "https://i.postimg.cc/QxmyTyXx/TERMO1L.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777141020918,
@@ -2451,15 +2454,6 @@
     "suspendido": false
   },
   {
-    "id": 1779320042456,
-    "nombre": "BANDERA P/ AUTO ARGENTINA 30X40CM",
-    "precio": 1020,
-    "foto": "https://i.postimg.cc/mrfV9txM/aa.jpg",
-    "categoria": "VARIOS",
-    "suspendido": true,
-    "fechaIngreso": 1780317722315
-  },
-  {
     "id": 1779320113310,
     "nombre": "LAMPARA SILICONA INFANTIL CAMBIOS DE COLOR TACTIL",
     "precio": 5900,
@@ -2467,15 +2461,6 @@
     "categoria": "NIÑOS",
     "suspendido": false,
     "fechaIngreso": 1780170322115
-  },
-  {
-    "id": 1779320202323,
-    "nombre": "BANDERA ARGENTINA MEDIANA 90X60",
-    "precio": 2400,
-    "foto": "https://i.postimg.cc/VvkJ5QYc/NN.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false,
-    "fechaIngreso": 1780317658853
   },
   {
     "id": 1779320348903,
@@ -2644,7 +2629,7 @@
   {
     "id": 1779991682258,
     "nombre": "CABLE LEGATUS ENGOMADO TIPO C",
-    "precio": 1390,
+    "precio": 1570,
     "foto": "https://i.postimg.cc/ryQHrNRQ/CC.webp",
     "categoria": "CABLES",
     "suspendido": false,
@@ -2662,7 +2647,7 @@
   {
     "id": 1779992396455,
     "nombre": "CARGADOR DE AUTO Y TRANSMISOR  FM 3.1A",
-    "precio": 3550,
+    "precio": 3750,
     "foto": "https://i.postimg.cc/FH3QtCTt/CC.webp",
     "categoria": "CARGADORES",
     "suspendido": false,
@@ -2680,7 +2665,7 @@
   {
     "id": 1780010282060,
     "nombre": "IPHONE CABLE ROYALCELL MALLADO",
-    "precio": 1550,
+    "precio": 1750,
     "foto": "https://i.postimg.cc/ZRnBRWYx/CC.webp",
     "categoria": "CABLES",
     "suspendido": false,
@@ -2689,7 +2674,7 @@
   {
     "id": 1780010533938,
     "nombre": "CARGADOR DE AUTO ROYALCELL 4.8 TIPO C",
-    "precio": 3450,
+    "precio": 3590,
     "foto": "https://i.postimg.cc/fTncHvTP/CC.webp",
     "categoria": "CARGADORES",
     "suspendido": false,
@@ -2820,33 +2805,6 @@
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false,
     "fechaIngreso": 1780769615099
-  },
-  {
-    "id": 1780769876993,
-    "nombre": "BOCINA CORNETA DOBLE MUNDIAL",
-    "precio": 1980,
-    "foto": "https://i.postimg.cc/zXqJWV7B/CORN.jpg",
-    "categoria": "VARIOS",
-    "suspendido": true,
-    "fechaIngreso": 1780769876993
-  },
-  {
-    "id": 1780770308838,
-    "nombre": "ARG. CUELLO POLAR",
-    "precio": 2000,
-    "foto": "https://i.postimg.cc/DZmj4Vps/BB.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false,
-    "fechaIngreso": 1780770308838
-  },
-  {
-    "id": 1781012502391,
-    "nombre": "ARG. PULSERA SILICONA CON LUZ LED",
-    "precio": 2080,
-    "foto": "https://i.postimg.cc/vmH6RqWz/aa.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false,
-    "fechaIngreso": 1781012502391
   },
   {
     "id": 1781216068771,
@@ -3211,7 +3169,7 @@
   {
     "id": 1783015643493,
     "nombre": "CARGADOR DE AUTO 2US",
-    "precio": 1730,
+    "precio": 1950,
     "foto": "https://i.postimg.cc/CLxH2cRz/CAR.jpg",
     "categoria": "CARGADORES",
     "suspendido": false,
@@ -3310,7 +3268,7 @@
   {
     "id": 1783549116581,
     "nombre": "CARGADOR LIGHTNING LEGATUS 5.0A ",
-    "precio": 3700,
+    "precio": 3940,
     "foto": "https://i.postimg.cc/pryJrXL2/CL.jpg",
     "categoria": "CARGADORES",
     "suspendido": false,
@@ -3363,7 +3321,7 @@
   },
   {
     "id": 1785370898350,
-    "nombre": "CABEZAL AUTO 4.5 W C/USB",
+    "nombre": "CARGADOR AUTO 4.5 W C/USB",
     "precio": 4380,
     "foto": "https://i.postimg.cc/9Q33GDk4/95656.webp",
     "categoria": "CARGADORES",
