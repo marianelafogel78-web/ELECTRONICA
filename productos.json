@@ -3652,5 +3652,50 @@
     "categoria": "TERMOS Y VASOS",
     "suspendido": false,
     "fechaIngreso": 1785431394335
+  },
+  {
+    "id": 1785432716868,
+    "nombre": "PELOTA VOLEY",
+    "precio": 6980,
+    "foto": "https://i.postimg.cc/FsWBF81X/ii.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1785432716868
+  },
+  {
+    "id": 1785432822573,
+    "nombre": "MINI PARLANTE CAPSULA BT/TF/USB",
+    "precio": 9100,
+    "foto": "MINI PARLANTE CAPSULA BT/TF/USB",
+    "categoria": "PARLANTES Y MICROFONOS",
+    "suspendido": false,
+    "fechaIngreso": 1785432822573
+  },
+  {
+    "id": 1785432874886,
+    "nombre": " PARLANTE MINI BLUETOOTH C/LUZ COLORES",
+    "precio": 5900,
+    "foto": "https://i.postimg.cc/rpJWMXFx/L59.jpg",
+    "categoria": "PARLANTES Y MICROFONOS",
+    "suspendido": false,
+    "fechaIngreso": 1785432874886
+  },
+  {
+    "id": 1785432959040,
+    "nombre": "MICROFONO CORBATERO PARA CELULAR K9",
+    "precio": 6650,
+    "foto": "https://i.postimg.cc/MZhYswcQ/AV5237.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1785432959040
+  },
+  {
+    "id": 1785433062387,
+    "nombre": "VINCHA AJUSTABLE DE MICROFIBRA",
+    "precio": 2100,
+    "foto": "https://i.postimg.cc/GhxsknvC/MELECH-562.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1785433062387
   }
 ]
