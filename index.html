@@ -1135,13 +1135,19 @@ let esDuenioAutenticado = urlParams.has('appsfogel') && urlParams.get('appsfogel
                 filtrarProductos('TODOS');
             }
         };
-
-        const alternarStock = (id) => {
+const alternarStock = (id) => {
+            cambiosLocalesPendientes = true; // Marca que hiciste un cambio local
             const p = productos.find(p => p.id === id);
-            p.suspendido = !p.suspendido;
-            filtrarYRenderizarProductos();
-            filtrarProductos('TODOS');
-            inicializarNuevosIngresos();
+            if (p) {
+                p.suspendido = !p.suspendido; // Cambia el estado en la memoria local
+                
+                // Refresca la lista visual en el panel Admin
+                filtrarYRenderizarProductos(); 
+                
+                // Refresca la lista visual en la Tienda inmediatamente
+                renderizarProductos(productos); 
+                inicializarNuevosIngresos();
+            }
         };
 
         const gestionarFormularioCategoria = (e) => {
@@ -1177,14 +1183,15 @@ let esDuenioAutenticado = urlParams.has('appsfogel') && urlParams.get('appsfogel
         // =================================================================
         // 6. NAVEGACIÓN
         // =================================================================
-       // MODIFICAMOS mostrarPestana PARA QUE REFRESHEE SIEMPRE
-const mostrarPestana = async (pestana, event) => {
-    // 1. REFRESCO GLOBAL: Cada vez que tocan un botón de pestaña, bajamos los datos frescos
-    try {
-        const responseProd = await fetch('./productos.json?v=' + Date.now());
-        productos = await responseProd.json();
-    } catch (e) {
-        console.log("Error al refrescar datos en segundo plano");
+      const mostrarPestana = async (pestana, event) => {
+    // 1. SOLO descarga el JSON del servidor si NO has tocado/editado nada en esta sesión
+    if (!cambiosLocalesPendientes) {
+        try {
+            const responseProd = await fetch('./productos.json?v=' + Date.now());
+            productos = await responseProd.json();
+        } catch (e) {
+            console.log("Error al refrescar datos en segundo plano");
+        }
     }
 
     // 2. Lógica normal de pestañas
@@ -1196,12 +1203,13 @@ const mostrarPestana = async (pestana, event) => {
     if (event && event.target && event.target.classList) {
         event.target.classList.add('active');
     } else {
-        document.getElementById('tab-tienda')?.classList.add('active');
+        document.getElementById(`tab-${pestana}`)?.classList.add('active');
     }
 
-    // 3. Renderizado según la pestaña
+    // 3. Renderizado manteniendo tus cambios locales en pantalla
     if (pestana === 'tienda') {
         renderizarProductos(productos);
+        inicializarNuevosIngresos();
         const selectFiltros = document.getElementById('select-filtros-tienda');
         if(selectFiltros) selectFiltros.value = 'TODOS';
         
@@ -1215,6 +1223,7 @@ const mostrarPestana = async (pestana, event) => {
     
     window.scrollTo(0, 0);
 };
+
 
         // =================================================================
         // 7. INICIALIZACIÓN Y FUNCIONES COMPLEMENTARIAS
