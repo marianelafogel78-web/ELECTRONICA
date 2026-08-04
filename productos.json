@@ -329,14 +329,6 @@
     "suspendido": false
   },
   {
-    "id": 80,
-    "nombre": "JARRA PAVA ELECTRICA CON CORTE MATE",
-    "precio": 19900,
-    "foto": "https://i.postimg.cc/WpBHb8K6/STJC150.jpg",
-    "categoria": "COCINA",
-    "suspendido": true
-  },
-  {
     "id": 85,
     "nombre": "PISTOLA DE RIEGO PARA MANGUERA",
     "precio": 8439,
@@ -1412,7 +1404,7 @@
     "precio": 12600,
     "foto": "https://i.postimg.cc/3wMz5Yht/soportetv.jpg",
     "categoria": "SOPORTES TV/CELU",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 292,
@@ -1502,14 +1494,6 @@
     "foto": "https://i.postimg.cc/bNSVprB0/minizapa.jpg",
     "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
-  },
-  {
-    "id": 312,
-    "nombre": "VASO TERMICO 500 ML ACERO NEGRO",
-    "precio": 9500,
-    "foto": "https://i.postimg.cc/fyRnYPwT/vtt.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
   },
   {
     "id": 313,
@@ -2200,7 +2184,7 @@
     "precio": 850,
     "foto": "https://i.postimg.cc/9F49t12B/GM.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777739556070,
@@ -2301,14 +2285,6 @@
     "suspendido": false
   },
   {
-    "id": 1778542191742,
-    "nombre": "BOLSA DE AGUA CALIENTE",
-    "precio": 4340,
-    "foto": "https://i.postimg.cc/PqPDK3Wd/BA.jpg",
-    "categoria": "INVIERNO",
-    "suspendido": true
-  },
-  {
     "id": 1778543221003,
     "nombre": "TENDER DE ROPA PARA PARED EXTENSIBLE 12M",
     "precio": 15680,
@@ -2322,7 +2298,7 @@
     "precio": 9380,
     "foto": "https://i.postimg.cc/VkVRq1mp/TG.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1779932007199
   },
   {
@@ -3185,7 +3161,7 @@
     "precio": 6370,
     "foto": "https://i.postimg.cc/MHLkhd8K/AU-17006.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1783027791756
   },
   {
@@ -3727,5 +3703,32 @@
     "categoria": "VARIOS",
     "suspendido": false,
     "fechaIngreso": 1785606022816
+  },
+  {
+    "id": 1785850536401,
+    "nombre": "LINTERNA MINERA FRONTAL 5 LUCES LED CARGA USB",
+    "precio": 3890,
+    "foto": "https://i.postimg.cc/vmtkXFjP/ll.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1785850536401
+  },
+  {
+    "id": 1785850635200,
+    "nombre": "CALCULADORA CIENTIFICA EN CAJA",
+    "precio": 3780,
+    "foto": "[cal.jpg](https://postimg.cc/BXrSgWVf)",
+    "categoria": "LIBRERIA",
+    "suspendido": false,
+    "fechaIngreso": 1785850635200
+  },
+  {
+    "id": 1785850724747,
+    "nombre": "AURICULAR TIPO C C/MICROFONO",
+    "precio": 2240,
+    "foto": "https://i.postimg.cc/VLXRX92W/MELECH-720.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false,
+    "fechaIngreso": 1785850724747
   }
 ]
