@@ -42,26 +42,10 @@
     "fechaIngreso": 1783028763845
   },
   {
-    "id": 19,
-    "nombre": "CARGADOR TIME 3.1 TIPO C 2USB",
-    "precio": 3450,
-    "foto": "https://i.postimg.cc/02Vpj2XG/TMCC818.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
     "id": 20,
     "nombre": "CABEZAL TIME USB TIPO C 18W",
     "precio": 3310,
     "foto": "https://i.postimg.cc/zGfFFRHP/TMCC607.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
-    "id": 21,
-    "nombre": "CARGADOR TIME V8 2.1A  CABLE DESMONTABLE",
-    "precio": 1890,
-    "foto": "https://i.postimg.cc/X7Pbn9Ww/TMCC216.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
   },
@@ -403,10 +387,11 @@
   {
     "id": 97,
     "nombre": "AURICULARES INALAMBLICOS I12",
-    "precio": 7500,
+    "precio": 5600,
     "foto": "https://i.postimg.cc/Dz2ywGd4/AU-17002.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1785967074199
   },
   {
     "id": 98,
@@ -1261,14 +1246,6 @@
     "suspendido": false
   },
   {
-    "id": 261,
-    "nombre": "VELADOR TOUCH 3 TONOS MELECH-",
-    "precio": 9660,
-    "foto": "https://i.postimg.cc/qMph2yvW/velador.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
     "id": 262,
     "nombre": "ORGANIZADOR Y ESCURRIDOR DE CUBIERTOS",
     "precio": 7600,
@@ -1501,7 +1478,7 @@
     "precio": 6825,
     "foto": "https://i.postimg.cc/wBncWQ68/Btidora.jpg",
     "categoria": "COCINA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 314,
@@ -1978,14 +1955,6 @@
     "suspendido": false
   },
   {
-    "id": 1776811292820,
-    "nombre": "ASPIRADORA 6 EN 1",
-    "precio": 8260,
-    "foto": "https://i.postimg.cc/Df4mtBr3/YT-M2042.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 1776950369413,
     "nombre": " MAQUINA DE COSER A220V/ INCLUYE FUENTE",
     "precio": 20200,
@@ -2113,14 +2082,6 @@
     "foto": "https://i.postimg.cc/nccgwb5b/USBIBEK.jpg",
     "categoria": "FUENTES DE CARGA/ADAPTADORES",
     "suspendido": false
-  },
-  {
-    "id": 1777735271782,
-    "nombre": "CARGADOR 3.8A IBEK",
-    "precio": 2850,
-    "foto": "https://i.postimg.cc/02Dnft5x/CIBEK.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
   },
   {
     "id": 1777735421917,
@@ -3717,7 +3678,7 @@
     "id": 1785850635200,
     "nombre": "CALCULADORA CIENTIFICA EN CAJA",
     "precio": 3780,
-    "foto": "[cal.jpg](https://postimg.cc/BXrSgWVf)",
+    "foto": "https://i.postimg.cc/sfGpQxfx/cal.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false,
     "fechaIngreso": 1785850635200
