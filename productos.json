@@ -224,28 +224,12 @@
     "suspendido": false
   },
   {
-    "id": 48,
-    "nombre": "PARLANTE RUEDA BT/FM/USB CON LUZ",
-    "precio": 11760,
-    "foto": "https://i.postimg.cc/PrxjLL4j/PARLANTW-RUEDA.jpg",
-    "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": true
-  },
-  {
     "id": 49,
     "nombre": "PARLANTE C/LUZ BT/FM/MP3",
     "precio": 7420,
     "foto": "https://i.postimg.cc/3rqG6Gdx/PARLANTEL-UZ.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
-  },
-  {
-    "id": 54,
-    "nombre": "PARLANTE 3PLG BLUETOOHT/FM/MP3",
-    "precio": 10900,
-    "foto": "https://i.postimg.cc/Ssw32y1X/GTS-2265.jpg",
-    "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": true
   },
   {
     "id": 56,
@@ -1086,14 +1070,6 @@
     "suspendido": false
   },
   {
-    "id": 223,
-    "nombre": "TRIPODE C/LUZLED Y MICROFON",
-    "precio": 8000,
-    "foto": "https://i.postimg.cc/Kv69Rtbt/AY-49.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": true
-  },
-  {
     "id": 224,
     "nombre": "REPETIDOR WIFI H300M BN0197",
     "precio": 11970,
@@ -1429,7 +1405,7 @@
     "precio": 2745,
     "foto": "https://i.postimg.cc/bvd1mtcV/cargadorlega.png",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 300,
@@ -1746,14 +1722,6 @@
     "foto": "https://i.postimg.cc/KcWkpDnT/PARLANTEBT.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
-  },
-  {
-    "id": 1775139496923,
-    "nombre": "PARLANTE BT REDONDO C/LUZ RGB",
-    "precio": 9100,
-    "foto": "https://i.postimg.cc/HLJsyfhv/PARLANRED.jpg",
-    "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": true
   },
   {
     "id": 1775139595442,
@@ -2345,14 +2313,6 @@
     "fechaIngreso": 1782337845626
   },
   {
-    "id": 1779109219368,
-    "nombre": "MARCADORES DOBLE PUNTA X24PCS",
-    "precio": 4480,
-    "foto": "https://i.postimg.cc/cCDvvgY4/CC.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": true
-  },
-  {
     "id": 1779109292352,
     "nombre": "CEPILLO DE VAPOR MASCOTA ",
     "precio": 2940,
@@ -2843,7 +2803,7 @@
     "precio": 9500,
     "foto": "https://i.postimg.cc/Vshpjfs8/aa.jpg",
     "categoria": "NIÑOS",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1781830098404
   },
   {
@@ -3244,9 +3204,9 @@
   },
   {
     "id": 1785370898350,
-    "nombre": "CARGADOR AUTO 4.5 W C/USB",
+    "nombre": "CARGADOR AUTO 4.5 W C/USB TRANSPARENTE ILUMINADO",
     "precio": 4380,
-    "foto": "https://i.postimg.cc/9Q33GDk4/95656.webp",
+    "foto": "https://i.postimg.cc/y6tFVLRs/CE.jpg",
     "categoria": "CARGADORES",
     "suspendido": false,
     "fechaIngreso": 1785370898350
@@ -3691,5 +3651,68 @@
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false,
     "fechaIngreso": 1785850724747
+  },
+  {
+    "id": 1786282577945,
+    "nombre": "RELOJ DESPERADOR CON CAMPANA E ILUMINACION",
+    "precio": 9660,
+    "foto": "https://i.postimg.cc/Dzx3xD94/rr).jpg",
+    "categoria": "RELOJES",
+    "suspendido": false,
+    "fechaIngreso": 1786282577945
+  },
+  {
+    "id": 1786282703686,
+    "nombre": "JUEGO DE PESCA ANIMALES MAGNETICO ENCASTRES ",
+    "precio": 7000,
+    "foto": "https://i.postimg.cc/hP0z18Db/rc.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1786282703686
+  },
+  {
+    "id": 1786282797805,
+    "nombre": "CORTA PELO RECARGABLE DE METAL",
+    "precio": 5880,
+    "foto": "https://i.postimg.cc/fyLLHmqN/pl.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1786282797805
+  },
+  {
+    "id": 1786282912396,
+    "nombre": "KIT BIJOUTERIE ARMADO DE PULSERAS DIY",
+    "precio": 6060,
+    "foto": "https://i.postimg.cc/hvsDTrLT/diy.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1786282912396
+  },
+  {
+    "id": 1786282977178,
+    "nombre": "PISTOLA BURBUJERO EN BLISTER",
+    "precio": 8660,
+    "foto": "https://i.postimg.cc/q732wVhw/bb.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1786282977178
+  },
+  {
+    "id": 1786283063505,
+    "nombre": "JUEGO DE POKER CAJA DE METAL",
+    "precio": 18200,
+    "foto": "https://i.postimg.cc/vHZ9j6xh/ll.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1786283063506
+  },
+  {
+    "id": 1786283527828,
+    "nombre": "PAVA ELECTRICA SIN CORTE",
+    "precio": 15700,
+    "foto": "https://i.postimg.cc/FR27QnB2/PE.jpg",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1786283527828
   }
 ]
