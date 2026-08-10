@@ -2,7 +2,7 @@
   {
     "id": 4,
     "nombre": "CARGADOR RAPIDO TIPO C ROYALCELL 5.0A",
-    "precio": 3980,
+    "precio": 4350,
     "foto": "https://i.postimg.cc/PxSyymsB/cargador5A.jpg",
     "categoria": "CARGADORES",
     "suspendido": false,
@@ -134,10 +134,11 @@
   {
     "id": 35,
     "nombre": "CABLE AUXILIAR 1,5M BOLSA",
-    "precio": 980,
+    "precio": 1125,
     "foto": "https://i.postimg.cc/Mphrk22Q/Whats-App-Image-2025-09-10-at-20-57-07-1.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1786402493198
   },
   {
     "id": 37,
@@ -744,10 +745,11 @@
   {
     "id": 174,
     "nombre": "TIRA LED NEON COLORES 5M",
-    "precio": 10590,
+    "precio": 10730,
     "foto": "https://i.postimg.cc/9MJPbhZd/LED-9730.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1786402284130
   },
   {
     "id": 175,
@@ -769,7 +771,7 @@
   {
     "id": 179,
     "nombre": "TIRA LED 28X35 RGB 5M LED TIME",
-    "precio": 6150,
+    "precio": 6650,
     "foto": "https://i.postimg.cc/XvzxCszX/LED-83108.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false,
@@ -1123,7 +1125,7 @@
     "precio": 6900,
     "foto": "https://i.postimg.cc/fWpFsrwh/BALU.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 235,
@@ -1159,11 +1161,12 @@
   },
   {
     "id": 244,
-    "nombre": "BOTELLA DE 750ML SPORT",
-    "precio": 14250,
+    "nombre": "BOTELLA DE 500ML SPORT",
+    "precio": 11900,
     "foto": "https://i.postimg.cc/XJyvsMZZ/FLK1543.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1786401461297
   },
   {
     "id": 249,
@@ -1401,11 +1404,12 @@
   },
   {
     "id": 299,
-    "nombre": "CARGADOR LEGATUS TIPO C 3.4A",
+    "nombre": "CARGADOR TIPO C 3.4A LEGATUS",
     "precio": 2745,
     "foto": "https://i.postimg.cc/bvd1mtcV/cargadorlega.png",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": true,
+    "fechaIngreso": 1786402945821
   },
   {
     "id": 300,
@@ -1504,15 +1508,6 @@
     "foto": "https://i.postimg.cc/zXDtHpvB/CABLE.jpg",
     "categoria": "CABLES",
     "suspendido": false
-  },
-  {
-    "id": 324,
-    "nombre": "CABLE UNIVERSAL 3 EN 1 IBEK",
-    "precio": 2850,
-    "foto": "https://i.postimg.cc/sgtp2cLL/cablleibek.png",
-    "categoria": "CABLES",
-    "suspendido": true,
-    "fechaIngreso": 1783028400156
   },
   {
     "id": 325,
@@ -1993,7 +1988,7 @@
     "precio": 16218,
     "foto": "https://i.postimg.cc/QxmyTyXx/TERMO1L.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777141020918,
@@ -2342,7 +2337,7 @@
     "precio": 5900,
     "foto": "https://i.postimg.cc/BZYggh9f/BB.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1780170322115
   },
   {
@@ -2511,7 +2506,7 @@
   },
   {
     "id": 1779991682258,
-    "nombre": "CABLE LEGATUS ENGOMADO TIPO C",
+    "nombre": "CABLE  TIPO C ENGOMADO TIPO C",
     "precio": 1570,
     "foto": "https://i.postimg.cc/ryQHrNRQ/CC.webp",
     "categoria": "CABLES",
@@ -2556,7 +2551,7 @@
   },
   {
     "id": 1780010533938,
-    "nombre": "CARGADOR DE AUTO ROYALCELL 4.8 TIPO C",
+    "nombre": "CARGADOR DE AUTO TIPO C 4.8  ROYALCELL",
     "precio": 3590,
     "foto": "https://i.postimg.cc/fTncHvTP/CC.webp",
     "categoria": "CARGADORES",
@@ -2580,15 +2575,6 @@
     "categoria": "INVIERNO",
     "suspendido": false,
     "fechaIngreso": 1780171277388
-  },
-  {
-    "id": 1780171498266,
-    "nombre": "BUFANDA NUBE BCO/VERDE/GRIS/ESTAMPADOS",
-    "precio": 11500,
-    "foto": "https://i.postimg.cc/tRP23sZ3/aa.jpg",
-    "categoria": "INVIERNO",
-    "suspendido": false,
-    "fechaIngreso": 1780171498266
   },
   {
     "id": 1780694027519,
@@ -2821,7 +2807,7 @@
     "precio": 9100,
     "foto": "https://i.postimg.cc/bwPhtyLR/BX-16.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1781830248938
   },
   {
@@ -2935,7 +2921,7 @@
   {
     "id": 1783014248023,
     "nombre": "BOTELLA ANTIDERRAME C/ SORBETE INCORPORADO",
-    "precio": 15400,
+    "precio": 13900,
     "foto": "https://i.postimg.cc/8C83R2tb/TH-27G.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false,
@@ -2944,7 +2930,7 @@
   {
     "id": 1783014300031,
     "nombre": "BOTELLA DEPORTIVA CON PARLANTE",
-    "precio": 14700,
+    "precio": 9900,
     "foto": "https://i.postimg.cc/KvRsdGWt/CH-M833.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false,
@@ -3150,8 +3136,8 @@
   },
   {
     "id": 1783549116581,
-    "nombre": "CARGADOR LIGHTNING LEGATUS 5.0A ",
-    "precio": 3940,
+    "nombre": "CARGADOR LIGHTNING 5.0A LEGATUS",
+    "precio": 4350,
     "foto": "https://i.postimg.cc/pryJrXL2/CL.jpg",
     "categoria": "CARGADORES",
     "suspendido": false,
@@ -3532,7 +3518,7 @@
     "precio": 16590,
     "foto": "https://i.postimg.cc/ydkjkYGy/AL-202.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785431327155
   },
   {
@@ -3694,7 +3680,7 @@
     "precio": 8660,
     "foto": "https://i.postimg.cc/q732wVhw/bb.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1786282977178
   },
   {
@@ -3714,5 +3700,23 @@
     "categoria": "COCINA",
     "suspendido": false,
     "fechaIngreso": 1786283527828
+  },
+  {
+    "id": 1786401346138,
+    "nombre": "AURICULARES EXTRA BASS VINCHA MANOS LIBRES",
+    "precio": 6300,
+    "foto": "https://i.postimg.cc/NFpR1qsx/aau.jpg",
+    "categoria": "AURICULARES VINCHA",
+    "suspendido": false,
+    "fechaIngreso": 1786401346138
+  },
+  {
+    "id": 1786402860087,
+    "nombre": "CARGADOR TIPO C 5A LEGATUS",
+    "precio": 4350,
+    "foto": "https://i.postimg.cc/VkxmWKNf/cl.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false,
+    "fechaIngreso": 1786402860087
   }
 ]
