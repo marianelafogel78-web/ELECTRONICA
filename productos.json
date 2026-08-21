@@ -262,7 +262,7 @@
     "precio": 5970,
     "foto": "https://i.postimg.cc/k55MHp8K/Whats-App-Image-2025-09-10-at-23-33-21-1.jpg",
     "categoria": "BALANZAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 71,
@@ -938,15 +938,6 @@
     "fechaIngreso": 1779931877846
   },
   {
-    "id": 202,
-    "nombre": "CONSOLA X2 PLUS 64 GB",
-    "precio": 57960,
-    "foto": "https://i.postimg.cc/NjZDHpDD/X2.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": false,
-    "fechaIngreso": 1779931890406
-  },
-  {
     "id": 203,
     "nombre": "JOYSTICK PS 2",
     "precio": 8375,
@@ -1061,7 +1052,7 @@
     "precio": 6600,
     "foto": "https://i.postimg.cc/858GP755/TRP-72008.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 221,
@@ -1120,14 +1111,6 @@
     "suspendido": false
   },
   {
-    "id": 234,
-    "nombre": "BOTELLA DE ALUMINIO 500ML",
-    "precio": 6900,
-    "foto": "https://i.postimg.cc/fWpFsrwh/BALU.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
-  },
-  {
     "id": 235,
     "nombre": "TERMO ACERO 1.2L / 1.3L",
     "precio": 20500,
@@ -1157,7 +1140,7 @@
     "precio": 7970,
     "foto": "https://i.postimg.cc/XNTJJWBv/EX00016.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 244,
@@ -1893,14 +1876,6 @@
     "suspendido": false
   },
   {
-    "id": 1776809294877,
-    "nombre": "PARLANTE BT CON LUZ",
-    "precio": 7000,
-    "foto": "https://i.postimg.cc/4NRnZXdG/KTX-1997.jpg",
-    "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": true
-  },
-  {
     "id": 1776809398188,
     "nombre": "JOYSTICK CELL,PC Y PS3",
     "precio": 16100,
@@ -2047,14 +2022,6 @@
     "suspendido": false
   },
   {
-    "id": 1777735421917,
-    "nombre": "RELOJ INTELIGENTE V20PRO",
-    "precio": 19280,
-    "foto": "https://i.postimg.cc/ydR3Hbb1/RC.jpg",
-    "categoria": "RELOJES",
-    "suspendido": true
-  },
-  {
     "id": 1777735686583,
     "nombre": "AURICULAR M/LIBRES TIME 11021",
     "precio": 1323,
@@ -2124,7 +2091,7 @@
     "precio": 7420,
     "foto": "https://i.postimg.cc/156YCpCX/bg.jpg",
     "categoria": "BALANZAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777935070970,
@@ -2330,15 +2297,6 @@
     "foto": "https://i.postimg.cc/y8wpTLRs/pp.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false
-  },
-  {
-    "id": 1779320113310,
-    "nombre": "LAMPARA SILICONA INFANTIL CAMBIOS DE COLOR TACTIL",
-    "precio": 5900,
-    "foto": "https://i.postimg.cc/BZYggh9f/BB.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": true,
-    "fechaIngreso": 1780170322115
   },
   {
     "id": 1779320348903,
@@ -2712,15 +2670,6 @@
     "fechaIngreso": 1781217890231
   },
   {
-    "id": 1781218245505,
-    "nombre": "LINTERNA LED ZOOM TELESCÓPICO Y LUZ LATERAL TIPO COB ",
-    "precio": 5040,
-    "foto": "https://i.postimg.cc/Qt8nN4BV/LINB.png",
-    "categoria": "ILUMINACION",
-    "suspendido": true,
-    "fechaIngreso": 1781218245505
-  },
-  {
     "id": 1781634471852,
     "nombre": "CABEZAL ADAPTADOR ENCHUFE ",
     "precio": 570,
@@ -2737,15 +2686,6 @@
     "categoria": "ILUMINACION",
     "suspendido": false,
     "fechaIngreso": 1781798921356
-  },
-  {
-    "id": 1781798988179,
-    "nombre": "LUZ DE EMERGENCIA 60LED C/ENCHUFE ",
-    "precio": 13999,
-    "foto": "https://i.postimg.cc/pXz1f7Z9/aa.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true,
-    "fechaIngreso": 1781798988179
   },
   {
     "id": 1781799487140,
@@ -2800,15 +2740,6 @@
     "categoria": "NIÑOS",
     "suspendido": false,
     "fechaIngreso": 1781830176323
-  },
-  {
-    "id": 1781830248938,
-    "nombre": "JUEGO DE BLOQUES JENGA PLASTICO",
-    "precio": 9100,
-    "foto": "https://i.postimg.cc/bwPhtyLR/BX-16.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": true,
-    "fechaIngreso": 1781830248938
   },
   {
     "id": 1782334414579,
@@ -2965,7 +2896,7 @@
   },
   {
     "id": 1783014662292,
-    "nombre": "LINTERNA LAMPARA LED COB WORK EMERGENCIA CARGA SOLAR Y USB",
+    "nombre": "LINTERNA LED COB WORK EMERGENCIA CARGA SOLAR Y USB",
     "precio": 8220,
     "foto": "https://i.postimg.cc/vZT6fSrr/LCOB.jpg",
     "categoria": "ILUMINACION",
@@ -3257,7 +3188,7 @@
     "precio": 6980,
     "foto": "https://i.postimg.cc/c1tRQb3V/MELECH-50.jpg",
     "categoria": "COCINA",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785371223463
   },
   {
@@ -3304,15 +3235,6 @@
     "categoria": "LIBRERIA",
     "suspendido": false,
     "fechaIngreso": 1785371540599
-  },
-  {
-    "id": 1785371577534,
-    "nombre": "MARCADOR BRILLO 24PCS 48 COLOR",
-    "precio": 9380,
-    "foto": "https://i.postimg.cc/gjkBswXj/c00d3650-c103-4a02-b0a2-2789423c0328.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": true,
-    "fechaIngreso": 1785371577535
   },
   {
     "id": 1785371602583,
@@ -3401,7 +3323,7 @@
     "precio": 21000,
     "foto": "https://i.postimg.cc/bwgs0m5g/MT.png",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785372006087
   },
   {
@@ -3415,7 +3337,7 @@
   },
   {
     "id": 1785372101287,
-    "nombre": "KIT DE MANICURE GRANDE",
+    "nombre": "SET MANICURE BLISTER",
     "precio": 2500,
     "foto": "https://i.postimg.cc/hGhHxYtY/IMG-8037.jpg",
     "categoria": "ACCESORIOS P/ BELLEZA",
@@ -3457,15 +3379,6 @@
     "categoria": "NIÑOS",
     "suspendido": false,
     "fechaIngreso": 1785430873138
-  },
-  {
-    "id": 1785430938746,
-    "nombre": "JUEGO DE MESA BASTA STOP 3.0",
-    "precio": 16240,
-    "foto": "https://i.postimg.cc/brg7pvSb/BTC-3.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": true,
-    "fechaIngreso": 1785430938746
   },
   {
     "id": 1785430999150,
@@ -3614,7 +3527,7 @@
   {
     "id": 1785850536401,
     "nombre": "LINTERNA MINERA FRONTAL 5 LUCES LED CARGA USB",
-    "precio": 3890,
+    "precio": 3590,
     "foto": "https://i.postimg.cc/vmtkXFjP/ll.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false,
@@ -3675,24 +3588,6 @@
     "fechaIngreso": 1786282912396
   },
   {
-    "id": 1786282977178,
-    "nombre": "PISTOLA BURBUJERO EN BLISTER",
-    "precio": 8660,
-    "foto": "https://i.postimg.cc/q732wVhw/bb.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": true,
-    "fechaIngreso": 1786282977178
-  },
-  {
-    "id": 1786283063505,
-    "nombre": "JUEGO DE POKER CAJA DE METAL",
-    "precio": 18200,
-    "foto": "https://i.postimg.cc/vHZ9j6xh/ll.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": false,
-    "fechaIngreso": 1786283063506
-  },
-  {
     "id": 1786283527828,
     "nombre": "PAVA ELECTRICA SIN CORTE",
     "precio": 15700,
@@ -3718,5 +3613,203 @@
     "categoria": "CARGADORES",
     "suspendido": false,
     "fechaIngreso": 1786402860087
+  },
+  {
+    "id": 1787318021985,
+    "nombre": "JUEGO DE CARTAS DOS",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/bwqphV82/129D.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1787318021985
+  },
+  {
+    "id": 1787318154440,
+    "nombre": "AURICULAR VINCHA INFANTIL PERSONAJES",
+    "precio": 11550,
+    "foto": "https://i.postimg.cc/xdKvzdBX/AH806.jpg",
+    "categoria": "AURICULARES VINCHA",
+    "suspendido": false,
+    "fechaIngreso": 1787318154440
+  },
+  {
+    "id": 1787318350789,
+    "nombre": "RIÑONERA SPORT SOLO EN NEGRO",
+    "precio": 3500,
+    "foto": "https://i.postimg.cc/xjgWmjSX/RR.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false,
+    "fechaIngreso": 1787318350790
+  },
+  {
+    "id": 1787318450528,
+    "nombre": "SET DE CUCHILLOS 6 PZS",
+    "precio": 5500,
+    "foto": "https://i.postimg.cc/SQZvsZWL/ER-0278.jpg",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1787318450528
+  },
+  {
+    "id": 1787318529427,
+    "nombre": " LINTERMA 7 LED RECARGABLE",
+    "precio": 5650,
+    "foto": "https://i.postimg.cc/wMsL9TXW/LY-825-A.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1787318529427
+  },
+  {
+    "id": 1787318601229,
+    "nombre": "HUMIDIFICADOR 200ML",
+    "precio": 5199,
+    "foto": "https://i.postimg.cc/prNYhFLh/MELECH-688.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1787318601229
+  },
+  {
+    "id": 1787318877693,
+    "nombre": "SOPORTE DE BICI  ACERO GANCHO ",
+    "precio": 5900,
+    "foto": "https://i.postimg.cc/90q8s2rw/NN.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1787318877693
+  },
+  {
+    "id": 1787318938464,
+    "nombre": " PELOTA  N°2 PERSONAJES MARVEL ",
+    "precio": 3920,
+    "foto": "https://i.postimg.cc/s2NbLwwT/F-550A.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1787318938464
+  },
+  {
+    "id": 1787319029210,
+    "nombre": " VASO DOBLE VIDRIO 150ML",
+    "precio": 3249,
+    "foto": "https://i.postimg.cc/ZqGV3gfz/MELECH-582.jpg",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1787319029210
+  },
+  {
+    "id": 1787319095076,
+    "nombre": " LINTERNA FAROL CAMPING ",
+    "precio": 7799,
+    "foto": "https://i.postimg.cc/Hsk4Jdpj/SH-5800T.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1787319095076
+  },
+  {
+    "id": 1787319169807,
+    "nombre": " TRIPODE C/LUZLED Y MICROFONO",
+    "precio": 9690,
+    "foto": "https://i.postimg.cc/vmFVvsdg/AY-49.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1787319169807
+  },
+  {
+    "id": 1787319255353,
+    "nombre": " LINTERNA RECARGABLE 1200MAH",
+    "precio": 6900,
+    "foto": "https://i.postimg.cc/tTR7rRvc/MELECH-277.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1787319255353
+  },
+  {
+    "id": 1787319375629,
+    "nombre": "TENSOR PACK X3 UNIDADES",
+    "precio": 2019,
+    "foto": "https://i.postimg.cc/SKgmx6VD/LS-09.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1787319375629
+  },
+  {
+    "id": 1787319460365,
+    "nombre": "BOTELLA DE ACERO750M",
+    "precio": 8290,
+    "foto": "https://i.postimg.cc/hjJhFZgh/MELECH-215.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false,
+    "fechaIngreso": 1787319460365
+  },
+  {
+    "id": 1787319520234,
+    "nombre": "BOTELLA PLEGABLE DEPORTIVA ",
+    "precio": 5990,
+    "foto": "https://i.postimg.cc/tJQqKX2D/BT-32.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false,
+    "fechaIngreso": 1787319520234
+  },
+  {
+    "id": 1787319586078,
+    "nombre": "BOTELLA TERMICA 550ML DUAL",
+    "precio": 15050,
+    "foto": "https://i.postimg.cc/BZT48fhG/RH-11-15.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false,
+    "fechaIngreso": 1787319586078
+  },
+  {
+    "id": 1787319696903,
+    "nombre": "LIMPIADOR DE BROCHAS DE SILICONA MELECH",
+    "precio": 7575,
+    "foto": "https://i.postimg.cc/6QvFDCgX/MBC-01.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1787319696903
+  },
+  {
+    "id": 1787319787466,
+    "nombre": "LINGA PARA BICI PUNTA METAL 1M",
+    "precio": 5719,
+    "foto": "https://i.postimg.cc/44B228yy/CAN-410.jpg",
+    "categoria": "CANDADOS",
+    "suspendido": false,
+    "fechaIngreso": 1787319787466
+  },
+  {
+    "id": 1787319928362,
+    "nombre": "MARCADORES PARA DISEÑO DE UÑAS X12",
+    "precio": 8869,
+    "foto": "https://i.postimg.cc/Qt6gmymX/YZA-588.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1787319928362
+  },
+  {
+    "id": 1787320078089,
+    "nombre": "MARCADORES PARA PORCELANA X12",
+    "precio": 6300,
+    "foto": "https://i.postimg.cc/pdsnMnjb/QJ-8458-(1).jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false,
+    "fechaIngreso": 1787320078089
+  },
+  {
+    "id": 1787320140517,
+    "nombre": " TAZA CAFE MEZCLADORA 380ML",
+    "precio": 12657,
+    "foto": "https://i.postimg.cc/nhtRwMBs/HY-630.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false,
+    "fechaIngreso": 1787320140517
+  },
+  {
+    "id": 1787320670149,
+    "nombre": "MARCADOR X48PCS DOBLE PUNTA",
+    "precio": 8940,
+    "foto": "https://i.postimg.cc/nV3nxb08/36.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false,
+    "fechaIngreso": 1787320670149
   }
 ]
