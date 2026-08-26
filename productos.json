@@ -2168,14 +2168,6 @@
     "suspendido": false
   },
   {
-    "id": 1778541004405,
-    "nombre": "CABLE 2 A 1 AUDIO  1.5M ",
-    "precio": 735,
-    "foto": "https://i.postimg.cc/Kv2Y4q4j/ca.jpg",
-    "categoria": "CABLES",
-    "suspendido": false
-  },
-  {
     "id": 1778543221003,
     "nombre": "TENDER DE ROPA PARA PARED EXTENSIBLE 12M",
     "precio": 15680,
@@ -2729,7 +2721,7 @@
     "precio": 9500,
     "foto": "https://i.postimg.cc/Vshpjfs8/aa.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1781830098404
   },
   {
@@ -3269,7 +3261,7 @@
     "precio": 9100,
     "foto": "https://i.postimg.cc/jq4vfbXh/jugo.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785371766391
   },
   {
@@ -3314,7 +3306,7 @@
     "precio": 16900,
     "foto": "https://i.postimg.cc/bvrBQ0q2/cdf07ea6-be45-4fab-b6ca-6ae8540d320c.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785371938751
   },
   {
@@ -3413,7 +3405,7 @@
     "precio": 11900,
     "foto": "https://i.postimg.cc/7YC9x6zD/JM-CT2.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785431166302
   },
   {
@@ -3431,7 +3423,7 @@
     "precio": 16590,
     "foto": "https://i.postimg.cc/ydkjkYGy/AL-202.jpg",
     "categoria": "NIÑOS",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1785431327155
   },
   {
