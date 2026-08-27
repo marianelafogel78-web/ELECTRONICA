@@ -275,7 +275,7 @@
   {
     "id": 76,
     "nombre": "CONTROL REMOTO UNIVERSAL TV",
-    "precio": 3890,
+    "precio": 3950,
     "foto": "https://i.postimg.cc/PqFN2mdP/mm.jpg",
     "categoria": "TECNOLOGIA",
     "suspendido": false,
@@ -319,7 +319,7 @@
     "precio": 2100,
     "foto": "https://i.postimg.cc/qB92s8np/Captura-de-pantalla-2025-09-11-171821.png",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 90,
@@ -1130,9 +1130,10 @@
     "id": 240,
     "nombre": "BOTELLA  7500ML",
     "precio": 14250,
-    "foto": "https://i.postimg.cc/W183nfXL/Whats-App-Image-2025-09-10-at-23-33-21.jpg",
+    "foto": "https://i.postimg.cc/RhTPGK9x/SP750ML.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1787855989195
   },
   {
     "id": 243,
@@ -1894,11 +1895,12 @@
   },
   {
     "id": 1776950369413,
-    "nombre": " MAQUINA DE COSER A220V/ INCLUYE FUENTE",
+    "nombre": "MAQUINA DE COSER A220V/ INCLUYE FUENTE",
     "precio": 20200,
     "foto": "https://i.postimg.cc/1XWY3rNK/SM-202A.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1787858060347
   },
   {
     "id": 1776950598947,
@@ -2095,11 +2097,12 @@
   },
   {
     "id": 1777935070970,
-    "nombre": " DISPENSER DE DETERGENTE C/PORTA ESPONJA",
+    "nombre": "DISPENSER DE DETERGENTE C/PORTA ESPONJA",
     "precio": 11999,
     "foto": "https://i.postimg.cc/wMYD7sXd/dj.jpg",
     "categoria": "COCINA",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1787858664549
   },
   {
     "id": 1777935466886,
@@ -2316,7 +2319,7 @@
   },
   {
     "id": 1779320631887,
-    "nombre": "BOTELLA DE VIDRIO H2O",
+    "nombre": "BOTELLA DE MESA VIDRIO H2O",
     "precio": 9100,
     "foto": "https://i.postimg.cc/V65gtTsW/BB.jpg",
     "categoria": "COCINA",
@@ -2359,11 +2362,12 @@
   },
   {
     "id": 1779330741588,
-    "nombre": "LINTERNA RECARGABLE USB TIPO C",
+    "nombre": "LINTERNA RECARGABLE USB TIPO C BLISTER",
     "precio": 3920,
     "foto": "https://i.postimg.cc/fR0821Yd/mm.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1787858194234
   },
   {
     "id": 1779331044544,
@@ -3180,7 +3184,7 @@
     "precio": 6980,
     "foto": "https://i.postimg.cc/c1tRQb3V/MELECH-50.jpg",
     "categoria": "COCINA",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1785371223463
   },
   {
@@ -3256,15 +3260,6 @@
     "fechaIngreso": 1785371715639
   },
   {
-    "id": 1785371766391,
-    "nombre": "LECTOR DE TARJETA ING/ESP",
-    "precio": 9100,
-    "foto": "https://i.postimg.cc/jq4vfbXh/jugo.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": true,
-    "fechaIngreso": 1785371766391
-  },
-  {
     "id": 1785371798215,
     "nombre": "NAIPES ESPALOLES",
     "precio": 1500,
@@ -3308,15 +3303,6 @@
     "categoria": "NIÑOS",
     "suspendido": true,
     "fechaIngreso": 1785371938751
-  },
-  {
-    "id": 1785372006087,
-    "nombre": "MATERMO Y TAPA TERMO",
-    "precio": 21000,
-    "foto": "https://i.postimg.cc/bwgs0m5g/MT.png",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true,
-    "fechaIngreso": 1785372006087
   },
   {
     "id": 1785372059575,
@@ -3398,15 +3384,6 @@
     "categoria": "NIÑOS",
     "suspendido": false,
     "fechaIngreso": 1785431107057
-  },
-  {
-    "id": 1785431166302,
-    "nombre": "JUEGO MAGNETICO 42PCS",
-    "precio": 11900,
-    "foto": "https://i.postimg.cc/7YC9x6zD/JM-CT2.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": true,
-    "fechaIngreso": 1785431166302
   },
   {
     "id": 1785431216178,
@@ -3644,7 +3621,7 @@
   },
   {
     "id": 1787318529427,
-    "nombre": " LINTERMA 7 LED RECARGABLE",
+    "nombre": "LINTERMA 7 LED RECARGABLE",
     "precio": 5650,
     "foto": "https://i.postimg.cc/wMsL9TXW/LY-825-A.jpg",
     "categoria": "ILUMINACION",
@@ -3666,7 +3643,7 @@
     "precio": 5900,
     "foto": "https://i.postimg.cc/90q8s2rw/NN.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1787318877693
   },
   {
@@ -3680,7 +3657,7 @@
   },
   {
     "id": 1787319029210,
-    "nombre": " VASO DOBLE VIDRIO 150ML",
+    "nombre": "POCILLO CAFE DOBLE VIDRIO 150ML",
     "precio": 3249,
     "foto": "https://i.postimg.cc/ZqGV3gfz/MELECH-582.jpg",
     "categoria": "COCINA",
@@ -3689,7 +3666,7 @@
   },
   {
     "id": 1787319095076,
-    "nombre": " LINTERNA FAROL CAMPING ",
+    "nombre": "LINTERNA FAROL CAMPING ",
     "precio": 7799,
     "foto": "https://i.postimg.cc/Hsk4Jdpj/SH-5800T.jpg",
     "categoria": "ILUMINACION",
@@ -3707,7 +3684,7 @@
   },
   {
     "id": 1787319255353,
-    "nombre": " LINTERNA RECARGABLE 1200MAH",
+    "nombre": "LINTERNA RECARGABLE 1200MAH",
     "precio": 6900,
     "foto": "https://i.postimg.cc/tTR7rRvc/MELECH-277.jpg",
     "categoria": "ILUMINACION",
@@ -3773,7 +3750,7 @@
     "nombre": "MARCADORES PARA DISEÑO DE UÑAS X12",
     "precio": 8869,
     "foto": "https://i.postimg.cc/Qt6gmymX/YZA-588.jpg",
-    "categoria": "ACCESORIOS P/ BELLEZA",
+    "categoria": "LIBRERIA",
     "suspendido": false,
     "fechaIngreso": 1787319928362
   },
@@ -3788,7 +3765,7 @@
   },
   {
     "id": 1787320140517,
-    "nombre": " TAZA CAFE MEZCLADORA 380ML",
+    "nombre": "VASO C/ MEZCLADOR CARGA USB 380ML BLANCO",
     "precio": 12657,
     "foto": "https://i.postimg.cc/nhtRwMBs/HY-630.jpg",
     "categoria": "TERMOS Y VASOS",
@@ -3803,5 +3780,86 @@
     "categoria": "LIBRERIA",
     "suspendido": false,
     "fechaIngreso": 1787320670149
+  },
+  {
+    "id": 1787854910707,
+    "nombre": "JUEGO DE CARTA TRES",
+    "precio": 1700,
+    "foto": "https://i.postimg.cc/kG2wmzPT/tres.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1787854910707
+  },
+  {
+    "id": 1787855565408,
+    "nombre": "LINTERNA LED ZOOM LUZ LATERAL RECARGABLE",
+    "precio": 6450,
+    "foto": "https://i.postimg.cc/Y0yr44VF/ll.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1787855565408
+  },
+  {
+    "id": 1787855829406,
+    "nombre": "LINTERNA LED A PILAS ENGOMADA CHICA",
+    "precio": 910,
+    "foto": "https://i.postimg.cc/DZ4kCCpD/LLL.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1787855829406
+  },
+  {
+    "id": 1787856266664,
+    "nombre": "TAPON TERMO CON PICO ROJO",
+    "precio": 1980,
+    "foto": "https://i.postimg.cc/SRt9yxf7/TT0.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false,
+    "fechaIngreso": 1787856266664
+  },
+  {
+    "id": 1787856590956,
+    "nombre": "SET BROCHAS DE MAQUILLAJE 11PCS",
+    "precio": 8050,
+    "foto": "https://i.postimg.cc/LsXnsphP/BBB.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1787856590956
+  },
+  {
+    "id": 1787857144270,
+    "nombre": "CEPILLO COLORES VARIOS",
+    "precio": 3500,
+    "foto": "https://i.postimg.cc/43ZQ2nLp/PEINE.png",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1787857144270
+  },
+  {
+    "id": 1787857364955,
+    "nombre": "PARLANTE RUEDA",
+    "precio": 10920,
+    "foto": "https://i.postimg.cc/1X6KY6Qc/PR.jpg",
+    "categoria": "PARLANTES Y MICROFONOS",
+    "suspendido": false,
+    "fechaIngreso": 1787857364955
+  },
+  {
+    "id": 1787857692528,
+    "nombre": "PARLANTE C/MICROFONO Y POSA CELULAR 3PLG BT/FM/MP3",
+    "precio": 11480,
+    "foto": "https://i.postimg.cc/xjyJgtrs/PM.jpg",
+    "categoria": "PARLANTES Y MICROFONOS",
+    "suspendido": false,
+    "fechaIngreso": 1787857692528
+  },
+  {
+    "id": 1787857928595,
+    "nombre": "PARLANTE PORTATIL RGB KST-1828",
+    "precio": 14560,
+    "foto": "https://i.postimg.cc/fbfn1tM8/PP2.jpg",
+    "categoria": "PARLANTES Y MICROFONOS",
+    "suspendido": false,
+    "fechaIngreso": 1787857928595
   }
 ]
