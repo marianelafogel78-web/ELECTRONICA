@@ -537,15 +537,6 @@
     "fechaIngreso": 1779989408882
   },
   {
-    "id": 127,
-    "nombre": "SET ALICATES",
-    "precio": 2450,
-    "foto": "https://i.postimg.cc/Y0J4Kqc1/PEINE.jpg",
-    "categoria": "ACCESORIOS P/ BELLEZA",
-    "suspendido": false,
-    "fechaIngreso": 1779989453257
-  },
-  {
     "id": 128,
     "nombre": "FUNDA SUMERGIBLE CELULAR",
     "precio": 1100,
@@ -2446,7 +2437,7 @@
     "precio": 1480,
     "foto": "https://i.postimg.cc/WbqdkSfj/CC.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1779991263589
   },
   {
@@ -3312,15 +3303,6 @@
     "categoria": "HOGAR",
     "suspendido": false,
     "fechaIngreso": 1785372059575
-  },
-  {
-    "id": 1785372101287,
-    "nombre": "SET MANICURE BLISTER",
-    "precio": 2500,
-    "foto": "https://i.postimg.cc/hGhHxYtY/IMG-8037.jpg",
-    "categoria": "ACCESORIOS P/ BELLEZA",
-    "suspendido": false,
-    "fechaIngreso": 1785372101287
   },
   {
     "id": 1785372135950,
