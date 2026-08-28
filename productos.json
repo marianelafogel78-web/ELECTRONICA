@@ -1173,7 +1173,7 @@
     "precio": 1136,
     "foto": "https://i.postimg.cc/SKyfj5tn/AU-11007.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 253,
@@ -2451,7 +2451,7 @@
   },
   {
     "id": 1779991682258,
-    "nombre": "CABLE  TIPO C ENGOMADO TIPO C",
+    "nombre": "CABLE  TIPO C ENGOMADO ",
     "precio": 1570,
     "foto": "https://i.postimg.cc/ryQHrNRQ/CC.webp",
     "categoria": "CABLES",
@@ -3211,7 +3211,7 @@
     "precio": 1370,
     "foto": "https://i.postimg.cc/8k7PJpD0/cc.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785371494879
   },
   {
