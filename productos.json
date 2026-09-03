@@ -449,7 +449,7 @@
   {
     "id": 109,
     "nombre": "CEPILLO ALISADOR DE PELO ONICA",
-    "precio": 14150,
+    "precio": 16150,
     "foto": "https://i.postimg.cc/qMKW8Sn5/OA-CP202.jpg",
     "categoria": "ACCESORIOS P/ BELLEZA",
     "suspendido": false,
@@ -494,7 +494,7 @@
   {
     "id": 116,
     "nombre": "PLANCHITA DE PELO FLEQUILLO CHICA",
-    "precio": 3575,
+    "precio": 3600,
     "foto": "https://i.postimg.cc/sgTscGqv/SN-228.jpg",
     "categoria": "ACCESORIOS P/ BELLEZA",
     "suspendido": false,
@@ -503,8 +503,8 @@
   {
     "id": 117,
     "nombre": "SECADOR DE PELO 1000W",
-    "precio": 17350,
-    "foto": "https://i.postimg.cc/MKF5xDjS/SECADOR.jpg",
+    "precio": 9250,
+    "foto": "https://i.postimg.cc/zXhYrZnM/S.jpg",
     "categoria": "ACCESORIOS P/ BELLEZA",
     "suspendido": false,
     "fechaIngreso": 1779989369514
@@ -512,7 +512,7 @@
   {
     "id": 118,
     "nombre": "SECADOR DE PELO PROFESIONAL 2000W",
-    "precio": 14500,
+    "precio": 16500,
     "foto": "https://i.postimg.cc/NMHBcp9S/secador2000w.jpg",
     "categoria": "ACCESORIOS P/ BELLEZA",
     "suspendido": false,
@@ -580,10 +580,11 @@
   {
     "id": 136,
     "nombre": "BALANZA POCKET GRAMERA 500GR SV-500",
-    "precio": 5310,
+    "precio": 5740,
     "foto": "https://i.postimg.cc/mDGgtznk/K-MH500.jpg",
     "categoria": "BALANZAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1788465434208
   },
   {
     "id": 139,
@@ -728,10 +729,11 @@
   {
     "id": 173,
     "nombre": "VELADOR LUNA Y ESTRELLA 7969KA",
-    "precio": 7570,
+    "precio": 7900,
     "foto": "https://i.postimg.cc/1t2Xs7Qx/LED-83011.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1788465306905
   },
   {
     "id": 174,
@@ -1032,10 +1034,11 @@
   {
     "id": 218,
     "nombre": "MICROFONO INALAMBRICO (M-32006)",
-    "precio": 18730,
+    "precio": 21990,
     "foto": "https://i.postimg.cc/YqdtFwhg/MIC-32001.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1788463663936
   },
   {
     "id": 219,
@@ -1043,7 +1046,7 @@
     "precio": 6600,
     "foto": "https://i.postimg.cc/858GP755/TRP-72008.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 221,
@@ -1112,10 +1115,11 @@
   {
     "id": 237,
     "nombre": "VASO TERMICO 890ML C/SORBETE",
-    "precio": 13300,
+    "precio": 13990,
     "foto": "https://i.postimg.cc/Y0M2Z8MX/vt.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1788465157139
   },
   {
     "id": 240,
@@ -1149,7 +1153,7 @@
     "precio": 1725,
     "foto": "https://i.postimg.cc/T1P7hxfh/AURI.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 250,
@@ -1234,7 +1238,7 @@
   {
     "id": 272,
     "nombre": "CORTA BARBA 3 EN 1 RECARGABLE",
-    "precio": 15922,
+    "precio": 17090,
     "foto": "https://i.postimg.cc/DfcX2v8N/cortabarba.jpg",
     "categoria": "ACCESORIOS P/ BELLEZA",
     "suspendido": false,
@@ -1287,7 +1291,7 @@
     "precio": 10990,
     "foto": "https://i.postimg.cc/NfFJZPqy/auri1.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 285,
@@ -1351,7 +1355,7 @@
     "precio": 7150,
     "foto": "https://i.postimg.cc/SszQZGSV/auri.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 294,
@@ -1616,7 +1620,8 @@
     "precio": 4460,
     "foto": "https://i.postimg.cc/xC4bJVL5/FOCOLAS.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1788464567680
   },
   {
     "id": 1774046176557,
@@ -1688,10 +1693,11 @@
   {
     "id": 1775139313109,
     "nombre": "PARLANTE BT PORTATIL RESISTENTE AL AGUA",
-    "precio": 6700,
+    "precio": 6990,
     "foto": "https://i.postimg.cc/KcWkpDnT/PARLANTEBT.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1788463529241
   },
   {
     "id": 1775139595442,
@@ -1750,14 +1756,6 @@
     "categoria": "TECNOLOGIA",
     "suspendido": false,
     "fechaIngreso": 1779931919005
-  },
-  {
-    "id": 1776198939960,
-    "nombre": "SET BAÑO 6 PIEZAS DISPONIBLEEN GRIS C/NEGRO",
-    "precio": 19900,
-    "foto": "https://i.postimg.cc/L5zmSCLk/SET-BNO.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
   },
   {
     "id": 1776199806728,
@@ -2028,7 +2026,7 @@
     "precio": 8385,
     "foto": "https://i.postimg.cc/KjRMWYhN/AUT.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777737286896,
@@ -2192,7 +2190,7 @@
     "precio": 1337,
     "foto": "https://i.postimg.cc/VvmY0vWX/a11022.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1778884501053,
@@ -2363,10 +2361,11 @@
   {
     "id": 1779331044544,
     "nombre": "PARLANTE FABRIC FM/BT/USB",
-    "precio": 8750,
+    "precio": 10090,
     "foto": "https://i.postimg.cc/zB3bpYR9/MM.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
-    "suspendido": true
+    "suspendido": false,
+    "fechaIngreso": 1788463168596
   },
   {
     "id": 1779932098854,
@@ -2596,7 +2595,7 @@
   {
     "id": 1780696186069,
     "nombre": "DEPILADORA PARA DAMA RECARGABLE",
-    "precio": 7700,
+    "precio": 8170,
     "foto": "https://i.postimg.cc/xjBfd8Mt/zz.jpg",
     "categoria": "ACCESORIOS P/ BELLEZA",
     "suspendido": false,
@@ -3414,7 +3413,7 @@
   },
   {
     "id": 1785432874886,
-    "nombre": " PARLANTE MINI BLUETOOTH C/LUZ COLORES",
+    "nombre": "PARLANTE MINI BLUETOOTH C/LUZ COLORES",
     "precio": 5900,
     "foto": "https://i.postimg.cc/rpJWMXFx/L59.jpg",
     "categoria": "PARLANTES Y MICROFONOS",
@@ -3499,7 +3498,7 @@
     "precio": 2240,
     "foto": "https://i.postimg.cc/VLXRX92W/MELECH-720.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785850724747
   },
   {
@@ -3843,5 +3842,122 @@
     "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false,
     "fechaIngreso": 1787857928595
+  },
+  {
+    "id": 1788462118820,
+    "nombre": "TOALLA DEPORTIVA FRIA SECADO RAPIDO",
+    "precio": 4500,
+    "foto": "https://i.postimg.cc/pTPK2Hh8/tt.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false,
+    "fechaIngreso": 1788462118820
+  },
+  {
+    "id": 1788462256163,
+    "nombre": "BOTELLA TERMO 500ML C/TERMOMETRO LED",
+    "precio": 8750,
+    "foto": "https://i.postimg.cc/hj3vHW9K/bb.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false,
+    "fechaIngreso": 1788462256163
+  },
+  {
+    "id": 1788462343370,
+    "nombre": "CARGADOR TIME V8 2.1A",
+    "precio": 1990,
+    "foto": "https://i.postimg.cc/R0Zn8TjK/TMCC216.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false,
+    "fechaIngreso": 1788462343370
+  },
+  {
+    "id": 1788462514313,
+    "nombre": "CARGADOR TIPO C HYTOSHY 125W ",
+    "precio": 8190,
+    "foto": "https://i.postimg.cc/BQNSyG4J/ll.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false,
+    "fechaIngreso": 1788462514313
+  },
+  {
+    "id": 1788462605936,
+    "nombre": "KIT DE MOUSE Y TECLADO ",
+    "precio": 14140,
+    "foto": "https://i.postimg.cc/XJWt4pkd/TMU-001.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1788462605936
+  },
+  {
+    "id": 1788462778719,
+    "nombre": "PICADOR DE VERDURA 500ML",
+    "precio": 5530,
+    "foto": "https://i.postimg.cc/9Xn1BDqf/kk.jpg",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1788462778719
+  },
+  {
+    "id": 1788463003325,
+    "nombre": "MEDIA ESFERA CON BT/MP3-USB",
+    "precio": 16960,
+    "foto": "https://i.postimg.cc/jd6n13SV/DIC1010.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1788463003325
+  },
+  {
+    "id": 1788463333963,
+    "nombre": "PARLANTE MINI 2 PLG",
+    "precio": 6450,
+    "foto": "https://i.postimg.cc/3rctRRXv/yy.jpg",
+    "categoria": "PARLANTES Y MICROFONOS",
+    "suspendido": false,
+    "fechaIngreso": 1788463333963
+  },
+  {
+    "id": 1788463469497,
+    "nombre": "RADIO PARLANTE FM C/PANEL SOLAR",
+    "precio": 6870,
+    "foto": "https://i.postimg.cc/250K7xZG/yy.jpg",
+    "categoria": "PARLANTES Y MICROFONOS",
+    "suspendido": false,
+    "fechaIngreso": 1788463469497
+  },
+  {
+    "id": 1788463835422,
+    "nombre": "ALTAVOZ PARA DORMIR ULTRAFINO",
+    "precio": 10530,
+    "foto": "https://i.postimg.cc/bJTNTWRM/uu.jpg",
+    "categoria": "PARLANTES Y MICROFONOS",
+    "suspendido": false,
+    "fechaIngreso": 1788463835422
+  },
+  {
+    "id": 1788464239867,
+    "nombre": "HOLDER DOBLE SOPAPA ",
+    "precio": 1120,
+    "foto": "https://i.postimg.cc/0j7gnwvh/HD-71073.jpg",
+    "categoria": "SOPORTES TV/CELU",
+    "suspendido": false,
+    "fechaIngreso": 1788464239867
+  },
+  {
+    "id": 1788464326402,
+    "nombre": "SOPLETE REGULABLE MULTIUSO GASTRONOMIA",
+    "precio": 6370,
+    "foto": "https://i.postimg.cc/43jF0xWV/FG915.jpg",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1788464326402
+  },
+  {
+    "id": 1788464483401,
+    "nombre": "INFLADOR DE PIE LARGO METAL",
+    "precio": 9655,
+    "foto": "https://i.postimg.cc/W1BGLqP4/INF-91014.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false,
+    "fechaIngreso": 1788464483401
   }
 ]
