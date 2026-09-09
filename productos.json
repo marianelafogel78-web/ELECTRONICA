@@ -1654,7 +1654,7 @@
     "precio": 7560,
     "foto": "https://i.postimg.cc/bYbVCY3h/125.jpg",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1774561925116,
@@ -2168,15 +2168,6 @@
     "suspendido": false
   },
   {
-    "id": 1778543340202,
-    "nombre": "TECLADO GAMER RETROILUMINADO",
-    "precio": 9380,
-    "foto": "https://i.postimg.cc/VkVRq1mp/TG.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": true,
-    "fechaIngreso": 1779932007199
-  },
-  {
     "id": 1778636413553,
     "nombre": "TERMOMETRO ",
     "precio": 2300,
@@ -2436,7 +2427,7 @@
     "precio": 1480,
     "foto": "https://i.postimg.cc/WbqdkSfj/CC.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1779991263589
   },
   {
@@ -3959,5 +3950,122 @@
     "categoria": "VARIOS",
     "suspendido": false,
     "fechaIngreso": 1788464483401
+  },
+  {
+    "id": 1788958342572,
+    "nombre": "AURICULAR  U-70",
+    "precio": 1160,
+    "foto": "https://i.postimg.cc/6px6PnRm/aa.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false,
+    "fechaIngreso": 1788958342572
+  },
+  {
+    "id": 1788958554200,
+    "nombre": "AURICULAR YC-27 BASS",
+    "precio": 1370,
+    "foto": "https://i.postimg.cc/qqLfZ6TM/aa.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false,
+    "fechaIngreso": 1788958554200
+  },
+  {
+    "id": 1788958755566,
+    "nombre": "AURICULAR D-21",
+    "precio": 1540,
+    "foto": "https://i.postimg.cc/hP6MRPPw/aa.webp",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false,
+    "fechaIngreso": 1788958755566
+  },
+  {
+    "id": 1788958873965,
+    "nombre": "AURICULAR ROYALCELL 1005",
+    "precio": 1290,
+    "foto": "https://i.postimg.cc/nLHD667y/aa.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false,
+    "fechaIngreso": 1788958873965
+  },
+  {
+    "id": 1788958993076,
+    "nombre": "AURICULAR ROYALCELL D-21",
+    "precio": 1560,
+    "foto": "https://i.postimg.cc/RCfwJQMH/aa.webp",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false,
+    "fechaIngreso": 1788958993076
+  },
+  {
+    "id": 1788959087190,
+    "nombre": "AURICULAR ROYALCELL RE-10012 ",
+    "precio": 1570,
+    "foto": "https://i.postimg.cc/66dGpW01/aa.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false,
+    "fechaIngreso": 1788959087190
+  },
+  {
+    "id": 1788959293309,
+    "nombre": "AURICULAR U-19 ",
+    "precio": 915,
+    "foto": "https://i.postimg.cc/cJwdBHrZ/aa.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false,
+    "fechaIngreso": 1788959293309
+  },
+  {
+    "id": 1788959536727,
+    "nombre": "CARGADOR IBEK 4.8 TC",
+    "precio": 4560,
+    "foto": "https://i.postimg.cc/bJ5LYz9t/aa.webp",
+    "categoria": "CARGADORES",
+    "suspendido": false,
+    "fechaIngreso": 1788959536727
+  },
+  {
+    "id": 1788959629097,
+    "nombre": "CARGADOR IBEK 5.1 TC",
+    "precio": 5540,
+    "foto": "https://i.postimg.cc/BvQdXnH5/aa.webp",
+    "categoria": "CARGADORES",
+    "suspendido": false,
+    "fechaIngreso": 1788959629097
+  },
+  {
+    "id": 1788960570907,
+    "nombre": "AURICULAR BLUETOOTH P9 PLUS DISEÑO",
+    "precio": 8550,
+    "foto": "https://i.postimg.cc/3NCsk4S9/aa.jpg",
+    "categoria": "AURICULARES VINCHA",
+    "suspendido": false,
+    "fechaIngreso": 1788960570907
+  },
+  {
+    "id": 1788960822906,
+    "nombre": "CABLE PARA IMPRESORA",
+    "precio": 1870,
+    "foto": "https://i.postimg.cc/ydnhW7hW/aa.webp",
+    "categoria": "CABLES",
+    "suspendido": false,
+    "fechaIngreso": 1788960822906
+  },
+  {
+    "id": 1788960955391,
+    "nombre": "JACK AUXILIAR TC",
+    "precio": 2950,
+    "foto": "https://i.postimg.cc/1R2nBgzn/aajpg.webp",
+    "categoria": "CABLES",
+    "suspendido": false,
+    "fechaIngreso": 1788960955391
+  },
+  {
+    "id": 1788961027828,
+    "nombre": "JACK AUXILIAR LIGHTNING ",
+    "precio": 3050,
+    "foto": "https://i.postimg.cc/bwjgvy4Q/aa.png",
+    "categoria": "CABLES",
+    "suspendido": false,
+    "fechaIngreso": 1788961027828
   }
 ]
