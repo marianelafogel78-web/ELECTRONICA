@@ -805,7 +805,7 @@
   {
     "id": 185,
     "nombre": "CINTA METRICA 3M ",
-    "precio": 1710,
+    "precio": 1920,
     "foto": "https://i.postimg.cc/8P7Nkz0v/1901.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false,
@@ -823,7 +823,7 @@
   {
     "id": 187,
     "nombre": "CINTA METRICA 7.5M",
-    "precio": 4780,
+    "precio": 4580,
     "foto": "https://i.postimg.cc/mDnpmByx/1903.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false,
@@ -1136,7 +1136,7 @@
     "precio": 7970,
     "foto": "https://i.postimg.cc/XNTJJWBv/EX00016.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 244,
@@ -1286,14 +1286,6 @@
     "suspendido": false
   },
   {
-    "id": 283,
-    "nombre": "AURICULAR BT TIME BLANCO/NEGRO",
-    "precio": 10990,
-    "foto": "https://i.postimg.cc/NfFJZPqy/auri1.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
     "id": 285,
     "nombre": "CINTA DE TEFLON 12MM 10M",
     "precio": 1390,
@@ -1350,14 +1342,6 @@
     "suspendido": false
   },
   {
-    "id": 293,
-    "nombre": "AURICULAR INALAMBRICO OPEN-EAR",
-    "precio": 7150,
-    "foto": "https://i.postimg.cc/SszQZGSV/auri.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
     "id": 294,
     "nombre": "AURICULAR GATITO VINCHA",
     "precio": 7350,
@@ -1404,14 +1388,6 @@
     "precio": 2465,
     "foto": "https://i.postimg.cc/vTGP8ZSR/cable4en1.jpg",
     "categoria": "CABLES",
-    "suspendido": false
-  },
-  {
-    "id": 304,
-    "nombre": "ZAPATILLA USB",
-    "precio": 12460,
-    "foto": "https://i.postimg.cc/x8tqh6bM/alargueusb.jpg",
-    "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false
   },
   {
@@ -1646,14 +1622,6 @@
     "precio": 1250,
     "foto": "https://i.postimg.cc/DzzKxswF/cintapega.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
-    "id": 1774561651231,
-    "nombre": "CARGADOR ULTRA RAPIDO HYTOSHY 125W",
-    "precio": 7560,
-    "foto": "https://i.postimg.cc/bYbVCY3h/125.jpg",
-    "categoria": "CARGADORES",
     "suspendido": false
   },
   {
@@ -2019,14 +1987,6 @@
     "foto": "https://i.postimg.cc/jSfpy6mQ/AUR.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false
-  },
-  {
-    "id": 1777736847927,
-    "nombre": "AURICULAR BLUETOOH TIME JS235",
-    "precio": 8385,
-    "foto": "https://i.postimg.cc/KjRMWYhN/AUT.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
   },
   {
     "id": 1777737286896,
@@ -2715,7 +2675,7 @@
     "precio": 14500,
     "foto": "https://i.postimg.cc/yN7bVWjL/aa.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1781830176323
   },
   {
@@ -2971,18 +2931,9 @@
     "fechaIngreso": 1783027036890
   },
   {
-    "id": 1783027791756,
-    "nombre": "AURICULAR INALAMBRICO ULTRAPOD",
-    "precio": 6370,
-    "foto": "https://i.postimg.cc/MHLkhd8K/AU-17006.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true,
-    "fechaIngreso": 1783027791756
-  },
-  {
     "id": 1783027910228,
     "nombre": "CINTA METRICA 10 METROS ",
-    "precio": 4760,
+    "precio": 4900,
     "foto": "https://i.postimg.cc/7h2GvTrc/1904.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false,
@@ -3165,7 +3116,7 @@
     "precio": 6980,
     "foto": "https://i.postimg.cc/c1tRQb3V/MELECH-50.jpg",
     "categoria": "COCINA",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785371223463
   },
   {
@@ -3212,15 +3163,6 @@
     "categoria": "LIBRERIA",
     "suspendido": false,
     "fechaIngreso": 1785371540599
-  },
-  {
-    "id": 1785371602583,
-    "nombre": "MARCADOR BRILLO X 36 PCS DOBLE PUNTA",
-    "precio": 11620,
-    "foto": "https://i.postimg.cc/L68rBWLb/dcd2d7ae-cb4e-477e-8706-ffbddd34aeeb.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": false,
-    "fechaIngreso": 1785371602583
   },
   {
     "id": 1785371633367,
@@ -3273,7 +3215,7 @@
     "precio": 26200,
     "foto": "https://i.postimg.cc/wxWLDky7/NGW-45.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785371910343
   },
   {
@@ -3444,7 +3386,7 @@
     "precio": 7700,
     "foto": "https://i.postimg.cc/rpNMytng/20.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785605567284
   },
   {
