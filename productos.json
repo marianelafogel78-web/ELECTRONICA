@@ -1909,14 +1909,6 @@
     "fechaIngreso": 1780771267095
   },
   {
-    "id": 1777140955471,
-    "nombre": "TERMO ACERO 1L",
-    "precio": 16218,
-    "foto": "https://i.postimg.cc/QxmyTyXx/TERMO1L.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
-  },
-  {
     "id": 1777141020918,
     "nombre": "PINZA ALICATE ALTA CALIDAD 8\" -",
     "precio": 4800,
@@ -3621,7 +3613,7 @@
     "precio": 5990,
     "foto": "https://i.postimg.cc/tJQqKX2D/BT-32.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1787319520234
   },
   {
