@@ -1153,21 +1153,13 @@
     "precio": 1725,
     "foto": "https://i.postimg.cc/T1P7hxfh/AURI.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 250,
     "nombre": "AURICULAR BOLSITA NEGRO Y BLANCO",
     "precio": 1160,
     "foto": "https://i.postimg.cc/BQVrT5GZ/AU-11006.jpg",
-    "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
-    "id": 251,
-    "nombre": "AURICULAR AKG M/LIBRES",
-    "precio": 2050,
-    "foto": "https://i.postimg.cc/sxVTFH13/AR-12.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false
   },
@@ -1193,7 +1185,7 @@
     "precio": 1780,
     "foto": "https://i.postimg.cc/Pr9vkFT9/Whats-App-Image-2025-09-12-at-12-29-10.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 259,
@@ -3049,7 +3041,7 @@
   },
   {
     "id": 1785370898350,
-    "nombre": "CARGADOR AUTO 4.5 W C/USB TRANSPARENTE ILUMINADO",
+    "nombre": "CARGADOR DE AUTO 4.5 W C/USB TRANSPARENTE ILUMINADO",
     "precio": 4380,
     "foto": "https://i.postimg.cc/y6tFVLRs/CE.jpg",
     "categoria": "CARGADORES",
@@ -3116,7 +3108,7 @@
     "precio": 6980,
     "foto": "https://i.postimg.cc/c1tRQb3V/MELECH-50.jpg",
     "categoria": "COCINA",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1785371223463
   },
   {
@@ -3431,7 +3423,7 @@
     "precio": 2240,
     "foto": "https://i.postimg.cc/VLXRX92W/MELECH-720.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1785850724747
   },
   {
@@ -3476,7 +3468,7 @@
     "precio": 15700,
     "foto": "https://i.postimg.cc/FR27QnB2/PE.jpg",
     "categoria": "COCINA",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1786283527828
   },
   {
@@ -3809,7 +3801,7 @@
     "precio": 8190,
     "foto": "https://i.postimg.cc/BQNSyG4J/ll.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1788462514313
   },
   {
@@ -3951,14 +3943,14 @@
     "id": 1788959293309,
     "nombre": "AURICULAR U-19 ",
     "precio": 915,
-    "foto": "https://i.postimg.cc/cJwdBHrZ/aa.jpg",
+    "foto": "https://i.postimg.cc/tJ9S2RRK/aa.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false,
     "fechaIngreso": 1788959293309
   },
   {
     "id": 1788959536727,
-    "nombre": "CARGADOR IBEK 4.8 TC",
+    "nombre": "CARGADOR IBEK 4.8 TC 2 USB",
     "precio": 4560,
     "foto": "https://i.postimg.cc/bJ5LYz9t/aa.webp",
     "categoria": "CARGADORES",
@@ -4009,5 +4001,14 @@
     "categoria": "CABLES",
     "suspendido": false,
     "fechaIngreso": 1788961027828
+  },
+  {
+    "id": 1789075641224,
+    "nombre": "CARGADOR TIME 45W TC CC-59223",
+    "precio": 8330,
+    "foto": "https://i.postimg.cc/8cCd77zV/aa.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false,
+    "fechaIngreso": 1789075641224
   }
 ]
