@@ -343,7 +343,7 @@
     "precio": 9650,
     "foto": "https://i.postimg.cc/x8pQmKtH/Captura-de-pantalla-2025-09-11-175409.png",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 93,
@@ -1504,7 +1504,7 @@
     "precio": 13230,
     "foto": "https://i.postimg.cc/HntzfvmX/BOTELLA.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773349731406,
@@ -2010,7 +2010,7 @@
     "precio": 850,
     "foto": "https://i.postimg.cc/9F49t12B/GM.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777739556070,
@@ -3136,7 +3136,7 @@
     "precio": 1370,
     "foto": "https://i.postimg.cc/8k7PJpD0/cc.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1785371494879
   },
   {
@@ -3145,7 +3145,7 @@
     "precio": 4900,
     "foto": "https://i.postimg.cc/ncWVJ3Mt/KM-61281.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785371540599
   },
   {
@@ -3163,7 +3163,7 @@
     "precio": 6860,
     "foto": "https://i.postimg.cc/XvrDKzJn/JJ.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785371715639
   },
   {
@@ -3451,7 +3451,7 @@
     "precio": 6060,
     "foto": "https://i.postimg.cc/hvsDTrLT/diy.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1786282912396
   },
   {
@@ -3532,7 +3532,7 @@
     "precio": 5199,
     "foto": "https://i.postimg.cc/prNYhFLh/MELECH-688.jpg",
     "categoria": "HOGAR",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1787318601229
   },
   {
