@@ -262,7 +262,7 @@
     "precio": 5970,
     "foto": "https://i.postimg.cc/k55MHp8K/Whats-App-Image-2025-09-10-at-23-33-21-1.jpg",
     "categoria": "BALANZAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 71,
@@ -1405,7 +1405,7 @@
     "precio": 6825,
     "foto": "https://i.postimg.cc/wBncWQ68/Btidora.jpg",
     "categoria": "COCINA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 314,
@@ -2548,7 +2548,7 @@
   {
     "id": 1780769615099,
     "nombre": "AURICULAR ROYALCELL IPHONE RE-10018",
-    "precio": 3500,
+    "precio": 4410,
     "foto": "https://i.postimg.cc/65qr95Zq/IPH.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false,
@@ -2688,15 +2688,6 @@
     "categoria": "ILUMINACION",
     "suspendido": false,
     "fechaIngreso": 1782335557634
-  },
-  {
-    "id": 1782335869536,
-    "nombre": "LUZ LED EMERGENCIA 30 LED",
-    "precio": 4990,
-    "foto": "https://i.postimg.cc/BndCmHt9/30led.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false,
-    "fechaIngreso": 1782335869536
   },
   {
     "id": 1782337011449,
@@ -4002,5 +3993,104 @@
     "categoria": "CARGADORES",
     "suspendido": false,
     "fechaIngreso": 1789075641224
+  },
+  {
+    "id": 1789779934301,
+    "nombre": "SET DE HERRAMIENTAS 4 EN 1",
+    "precio": 5950,
+    "foto": "https://i.postimg.cc/L8zWMhFY/aa.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1789779934301
+  },
+  {
+    "id": 1789780056209,
+    "nombre": "MINI PARLANTE BASS WIRELESS",
+    "precio": 11200,
+    "foto": "https://i.postimg.cc/WpxjNDC2/aa8.jpg",
+    "categoria": "PARLANTES Y MICROFONOS",
+    "suspendido": false,
+    "fechaIngreso": 1789780056209
+  },
+  {
+    "id": 1789780158927,
+    "nombre": "LUZ DE EMERGENCIA 30 LED C/ENCHUFE",
+    "precio": 6000,
+    "foto": "https://i.postimg.cc/4y9D75q9/aa.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1789780158927
+  },
+  {
+    "id": 1789780241998,
+    "nombre": "CONTROL UNIVERSAL SAMSUNG",
+    "precio": 3950,
+    "foto": "https://i.postimg.cc/LsQwxwM1/aa.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1789780241998
+  },
+  {
+    "id": 1789780377600,
+    "nombre": "CONTROL DE AIRE ",
+    "precio": 3850,
+    "foto": "https://i.postimg.cc/fbygSC09/aa.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1789780377600
+  },
+  {
+    "id": 1789780505842,
+    "nombre": "AURICULAR C/MICROFONO JACK 3.5MM BOLSITA",
+    "precio": 1530,
+    "foto": "https://i.postimg.cc/sg6TzWHk/aa.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false,
+    "fechaIngreso": 1789780505842
+  },
+  {
+    "id": 1789780810431,
+    "nombre": "LUZ DE EMERGENCIA 60 LED C/ENCHUFE ",
+    "precio": 16100,
+    "foto": "https://i.postimg.cc/Kj0MTPMH/aa.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1789780810431
+  },
+  {
+    "id": 1789781077939,
+    "nombre": "TENDER RETRACTIL 3.2M",
+    "precio": 13860,
+    "foto": "https://i.postimg.cc/1tJt793q/aa.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1789781077939
+  },
+  {
+    "id": 1789781224398,
+    "nombre": "SECADOR DE PELO 2000W NV-7220",
+    "precio": 11440,
+    "foto": "https://i.postimg.cc/13h9HgrT/aa.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1789781224398
+  },
+  {
+    "id": 1789781307609,
+    "nombre": "BOLA LED DE CRISTAL 8CM",
+    "precio": 5950,
+    "foto": "https://i.postimg.cc/XJJ3J9nF/aa.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1789781307609
+  },
+  {
+    "id": 1789781413639,
+    "nombre": "TENDER DE ROPA RETRACTIL 4.2M",
+    "precio": 15750,
+    "foto": "https://i.postimg.cc/T36KPNFp/aa.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1789781413639
   }
 ]
