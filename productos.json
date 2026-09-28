@@ -63,7 +63,7 @@
     "precio": 21000,
     "foto": "https://i.postimg.cc/QMy31LPP/CAR-59046.jpg",
     "categoria": "FUENTES DE CARGA/ADAPTADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 26,
@@ -347,11 +347,12 @@
   },
   {
     "id": 93,
-    "nombre": "AURICULAR JK-604",
+    "nombre": "AURICULAR M10",
     "precio": 6550,
     "foto": "https://i.postimg.cc/c4s6Vj8d/AURIJK604.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1790606675611
   },
   {
     "id": 94,
@@ -767,7 +768,7 @@
     "precio": 6650,
     "foto": "https://i.postimg.cc/XvzxCszX/LED-83108.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785605305925
   },
   {
@@ -906,7 +907,7 @@
   {
     "id": 198,
     "nombre": "ZAPATILLA 3M",
-    "precio": 3360,
+    "precio": 3590,
     "foto": "https://i.postimg.cc/J4p922zN/Captura-de-pantalla-2025-09-11-161504.png",
     "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false,
@@ -915,20 +916,11 @@
   {
     "id": 199,
     "nombre": "ZAPATILLA 5M",
-    "precio": 4550,
+    "precio": 4950,
     "foto": "https://i.postimg.cc/J4p922zN/Captura-de-pantalla-2025-09-11-161504.png",
     "categoria": "ENCHUFES/EXTENSIONES",
     "suspendido": false,
     "fechaIngreso": 1782338771851
-  },
-  {
-    "id": 201,
-    "nombre": "CONSOLA VIDEO JUEGO 64GB RETRO 2.4G",
-    "precio": 45280,
-    "foto": "https://i.postimg.cc/Xvy2HTqt/JOY-61017.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": false,
-    "fechaIngreso": 1779931877846
   },
   {
     "id": 203,
@@ -1062,14 +1054,6 @@
     "precio": 11970,
     "foto": "https://i.postimg.cc/63Mj3S6Q/600M.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
-  },
-  {
-    "id": 227,
-    "nombre": "KIT AURICULAR Y RELOJ SMART C/MALLA INTERCAMBIABLE",
-    "precio": 22680,
-    "foto": "https://i.postimg.cc/nzWG0zZv/RELOS-7-MALLAS.jpg",
-    "categoria": "RELOJES",
     "suspendido": false
   },
   {
@@ -1308,7 +1292,7 @@
     "precio": 21000,
     "foto": "https://i.postimg.cc/P5fzcSC0/manguera.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 289,
@@ -1636,22 +1620,6 @@
     "fechaIngreso": 1783029047848
   },
   {
-    "id": 1775138909220,
-    "nombre": "BOTELLA DEPORTIVA PLASTICA 1L",
-    "precio": 4500,
-    "foto": "https://i.postimg.cc/6pXQFjT0/botella1.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
-    "id": 1775138965730,
-    "nombre": "BOTELLA DEPORTIVA PLASTICA 600ML",
-    "precio": 3500,
-    "foto": "https://i.postimg.cc/3JH7wyhq/botella2.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
     "id": 1775139313109,
     "nombre": "PARLANTE BT PORTATIL RESISTENTE AL AGUA",
     "precio": 6990,
@@ -1719,20 +1687,13 @@
     "fechaIngreso": 1779931919005
   },
   {
-    "id": 1776199806728,
-    "nombre": "TAPON PICO CEBADOR COMPATIBLE STANLEY",
-    "precio": 2860,
-    "foto": "https://i.postimg.cc/mZwbmqZx/TAPON-TERMO.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
     "id": 1776199994222,
-    "nombre": "AURICULAR INALAMBRICO JK603 PRO",
+    "nombre": "AURICULAR INALAMBRICO M90 PRO",
     "precio": 6300,
     "foto": "https://i.postimg.cc/yYkw0rk5/JK603.webp",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1790606639666
   },
   {
     "id": 1776455777520,
@@ -1906,7 +1867,7 @@
     "precio": 1540,
     "foto": "https://i.postimg.cc/PrRNFLNg/CABLEIP.jpg",
     "categoria": "CABLES",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1780771267095
   },
   {
@@ -2093,7 +2054,7 @@
     "precio": 8945,
     "foto": "https://i.postimg.cc/15Wd8YhL/DESB.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1781218783704
   },
   {
@@ -3182,7 +3143,7 @@
     "precio": 9100,
     "foto": "https://i.postimg.cc/NGPB6yQP/TP9650.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785371856224
   },
   {
@@ -3533,7 +3494,7 @@
     "precio": 5900,
     "foto": "https://i.postimg.cc/90q8s2rw/NN.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1787318877693
   },
   {
@@ -3751,15 +3712,6 @@
     "categoria": "PARLANTES Y MICROFONOS",
     "suspendido": false,
     "fechaIngreso": 1787857928595
-  },
-  {
-    "id": 1788462118820,
-    "nombre": "TOALLA DEPORTIVA FRIA SECADO RAPIDO",
-    "precio": 4500,
-    "foto": "https://i.postimg.cc/pTPK2Hh8/tt.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false,
-    "fechaIngreso": 1788462118820
   },
   {
     "id": 1788462256163,
@@ -4084,5 +4036,68 @@
     "categoria": "HOGAR",
     "suspendido": false,
     "fechaIngreso": 1789781413639
+  },
+  {
+    "id": 1790609326175,
+    "nombre": "AURICULAR BT M27",
+    "precio": 6900,
+    "foto": "https://i.postimg.cc/9QKr4bd3/m27.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false,
+    "fechaIngreso": 1790609326175
+  },
+  {
+    "id": 1790609462885,
+    "nombre": "AURICULAR BT STEREO ",
+    "precio": 6800,
+    "foto": "https://i.postimg.cc/rpT2YtcD/aa.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false,
+    "fechaIngreso": 1790609462885
+  },
+  {
+    "id": 1790609533916,
+    "nombre": "AURICULAR BT M19",
+    "precio": 6200,
+    "foto": "https://i.postimg.cc/nrjWLHps/m19.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false,
+    "fechaIngreso": 1790609533916
+  },
+  {
+    "id": 1790609879736,
+    "nombre": "DESTORNILLADOR BUSCAPOLO",
+    "precio": 1200,
+    "foto": "https://i.postimg.cc/W3PmZTMQ/BP.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1790609879736
+  },
+  {
+    "id": 1790610170204,
+    "nombre": "RELOJ DESPERTADOR PEQUEÑO",
+    "precio": 3400,
+    "foto": "https://i.postimg.cc/qBwctfzR/RELOJ.jpg",
+    "categoria": "RELOJES",
+    "suspendido": false,
+    "fechaIngreso": 1790610170205
+  },
+  {
+    "id": 1790610228339,
+    "nombre": "AURICULAR HS330",
+    "precio": 1700,
+    "foto": "https://i.postimg.cc/8CbcyG8z/aa.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false,
+    "fechaIngreso": 1790610228340
+  },
+  {
+    "id": 1790610535904,
+    "nombre": "CALCULADORA KARUIDA KK-2100C",
+    "precio": 6150,
+    "foto": "https://i.postimg.cc/bNjJjdzP/a.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false,
+    "fechaIngreso": 1790610535904
   }
 ]
