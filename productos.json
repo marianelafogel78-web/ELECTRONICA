@@ -1296,10 +1296,11 @@
   {
     "id": 287,
     "nombre": "AURICULAR INALAMBRICO 5.3",
-    "precio": 7000,
+    "precio": 8400,
     "foto": "https://i.postimg.cc/2SN7wzYB/JK605.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1790602759862
   },
   {
     "id": 288,
@@ -4074,15 +4075,6 @@
     "categoria": "ACCESORIOS P/ BELLEZA",
     "suspendido": false,
     "fechaIngreso": 1789781224398
-  },
-  {
-    "id": 1789781307609,
-    "nombre": "BOLA LED DE CRISTAL 8CM",
-    "precio": 5950,
-    "foto": "https://i.postimg.cc/XJJ3J9nF/aa.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false,
-    "fechaIngreso": 1789781307609
   },
   {
     "id": 1789781413639,
