@@ -3949,7 +3949,7 @@
   },
   {
     "id": 1789779934301,
-    "nombre": "SET DE HERRAMIENTAS 4 EN 1",
+    "nombre": "SET HERRAMIENTAS X 4 C/MARTILLO",
     "precio": 5950,
     "foto": "https://i.postimg.cc/L8zWMhFY/aa.jpg",
     "categoria": "HERRAMIENTAS",
@@ -4099,5 +4099,14 @@
     "categoria": "LIBRERIA",
     "suspendido": false,
     "fechaIngreso": 1790610535904
+  },
+  {
+    "id": 1790612976995,
+    "nombre": "SET HERRAMIENTAS X 4 C/PINZA",
+    "precio": 7000,
+    "foto": "https://i.postimg.cc/NFwvH9M7/aa.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1790612976995
   }
 ]
