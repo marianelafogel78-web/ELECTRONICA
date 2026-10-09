@@ -393,7 +393,7 @@
     "precio": 5710,
     "foto": "https://i.postimg.cc/mZtpnzn0/AR-1401.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1783029870835
   },
   {
@@ -525,7 +525,7 @@
     "precio": 15350,
     "foto": "https://i.postimg.cc/sxShT9NF/HT-9120.jpg",
     "categoria": "ACCESORIOS P/ BELLEZA",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1779989387194
   },
   {
@@ -573,10 +573,11 @@
   {
     "id": 134,
     "nombre": "INFLADOR MULTIUSO METALIZADO",
-    "precio": 4130,
+    "precio": 4340,
     "foto": "https://i.postimg.cc/RVB6h08N/INF-91006.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1791563066276
   },
   {
     "id": 136,
@@ -1142,10 +1143,11 @@
   {
     "id": 250,
     "nombre": "AURICULAR BOLSITA NEGRO Y BLANCO",
-    "precio": 1160,
+    "precio": 1350,
     "foto": "https://i.postimg.cc/BQVrT5GZ/AU-11006.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1791561928263
   },
   {
     "id": 252,
@@ -1169,7 +1171,7 @@
     "precio": 1780,
     "foto": "https://i.postimg.cc/Pr9vkFT9/Whats-App-Image-2025-09-12-at-12-29-10.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 259,
@@ -1234,7 +1236,7 @@
     "precio": 4620,
     "foto": "https://i.postimg.cc/kgNQtQ45/CX-E02.jpg",
     "categoria": "BALANZAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 280,
@@ -1337,10 +1339,11 @@
   {
     "id": 298,
     "nombre": "AURICULAR INALAMBRICOS BLUETOOTH JS602",
-    "precio": 6305,
+    "precio": 6990,
     "foto": "https://i.postimg.cc/Y9Kqj5Hm/auribt.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1791562020559
   },
   {
     "id": 299,
@@ -1420,10 +1423,11 @@
   {
     "id": 318,
     "nombre": "SET DE LLAVE TUBO 46PCS",
-    "precio": 10560,
+    "precio": 11200,
     "foto": "https://i.postimg.cc/9QYQgmV6/SETLLAVE.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1791562725983
   },
   {
     "id": 320,
@@ -1689,7 +1693,7 @@
   {
     "id": 1776199994222,
     "nombre": "AURICULAR INALAMBRICO M90 PRO",
-    "precio": 6300,
+    "precio": 6860,
     "foto": "https://i.postimg.cc/yYkw0rk5/JK603.webp",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false,
@@ -1864,10 +1868,10 @@
   {
     "id": 1777125561395,
     "nombre": "IPHONE CABLE 3.1 TIME CAB-43003",
-    "precio": 1540,
+    "precio": 1670,
     "foto": "https://i.postimg.cc/PrRNFLNg/CABLEIP.jpg",
     "categoria": "CABLES",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1780771267095
   },
   {
@@ -3104,7 +3108,7 @@
   {
     "id": 1785371633367,
     "nombre": "JUEGO DE CARTA UNO",
-    "precio": 1800,
+    "precio": 1850,
     "foto": "https://i.postimg.cc/N0G5bMnj/66077605-1d4b-440f-b72c-78eed76e5a59.jpg",
     "categoria": "NIÑOS",
     "suspendido": false,
@@ -3300,15 +3304,6 @@
     "fechaIngreso": 1785432959040
   },
   {
-    "id": 1785433062387,
-    "nombre": "VINCHA AJUSTABLE DE MICROFIBRA",
-    "precio": 2100,
-    "foto": "https://i.postimg.cc/GhxsknvC/MELECH-562.jpg",
-    "categoria": "ACCESORIOS P/ BELLEZA",
-    "suspendido": false,
-    "fechaIngreso": 1785433062387
-  },
-  {
     "id": 1785605454511,
     "nombre": "BOTELLA TERMICA 600ML",
     "precio": 11990,
@@ -3422,7 +3417,7 @@
     "precio": 6300,
     "foto": "https://i.postimg.cc/NFpR1qsx/aau.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1786401346138
   },
   {
@@ -4108,5 +4103,77 @@
     "categoria": "HERRAMIENTAS",
     "suspendido": false,
     "fechaIngreso": 1790612976995
+  },
+  {
+    "id": 1791562203276,
+    "nombre": "AURICULAR INALAMBRICO ULTRAPODS",
+    "precio": 6190,
+    "foto": "https://i.postimg.cc/L5F1JM3V/aa.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false,
+    "fechaIngreso": 1791562203276
+  },
+  {
+    "id": 1791562318036,
+    "nombre": "AURICULAR BLUETOOH TIME JS-25",
+    "precio": 10220,
+    "foto": "https://i.postimg.cc/pV1NMXkX/aa.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false,
+    "fechaIngreso": 1791562318036
+  },
+  {
+    "id": 1791562441426,
+    "nombre": "AURICULAR BLUETOOTH TIME JS-370",
+    "precio": 12250,
+    "foto": "https://i.postimg.cc/ZR213wWH/aa0.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false,
+    "fechaIngreso": 1791562441426
+  },
+  {
+    "id": 1791562645896,
+    "nombre": "REFLECTOR MINI SOLAR BK-120",
+    "precio": 11900,
+    "foto": "https://i.postimg.cc/zGTXfRPQ/aa.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1791562645896
+  },
+  {
+    "id": 1791563416528,
+    "nombre": "JOYSTICK DE PC NOGA",
+    "precio": 7980,
+    "foto": "https://i.postimg.cc/9M0DzQ9R/aa.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false,
+    "fechaIngreso": 1791563416528
+  },
+  {
+    "id": 1791563558471,
+    "nombre": "SET DE 3 CUCHILLOS BLISTER ",
+    "precio": 9100,
+    "foto": "JOYSTICK DE PC NOGA",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1791563558471
+  },
+  {
+    "id": 1791563659046,
+    "nombre": " TERMO 750ML ACERO CON PICO CEBADOR",
+    "precio": 18900,
+    "foto": "https://i.postimg.cc/bvWZDj9L/aa.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false,
+    "fechaIngreso": 1791563659046
+  },
+  {
+    "id": 1791563790684,
+    "nombre": "DISCO DE CORTE 115MM X10UNDS",
+    "precio": 6020,
+    "foto": "https://i.postimg.cc/T3yGy5Nd/asd.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1791563790684
   }
 ]
