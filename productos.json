@@ -662,14 +662,6 @@
     "suspendido": false
   },
   {
-    "id": 153,
-    "nombre": "VENTILADOR RECARGABLE HR2490",
-    "precio": 5600,
-    "foto": "https://i.postimg.cc/5NRVCmDh/VENTI.png",
-    "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
     "id": 159,
     "nombre": "LINTERNA  MINERA",
     "precio": 3290,
@@ -882,11 +874,12 @@
   },
   {
     "id": 195,
-    "nombre": "LLAVE T SET 24 PCS",
+    "nombre": "LLAVE T SET 24 PIEZAS",
     "precio": 3350,
     "foto": "https://i.postimg.cc/G2BxhfZd/TS-024.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1792092574866
   },
   {
     "id": 196,
@@ -1116,14 +1109,6 @@
     "fechaIngreso": 1787855989195
   },
   {
-    "id": 243,
-    "nombre": "BOTELLA TERMO 500ML C/TERMOMETRO LED",
-    "precio": 7970,
-    "foto": "https://i.postimg.cc/XNTJJWBv/EX00016.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
     "id": 244,
     "nombre": "BOTELLA DE 500ML SPORT",
     "precio": 11900,
@@ -1302,7 +1287,7 @@
     "precio": 5670,
     "foto": "https://i.postimg.cc/dV0dtzQ6/soportetn65pul.jpg",
     "categoria": "SOPORTES TV/CELU",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 291,
@@ -1831,7 +1816,7 @@
     "precio": 2470,
     "foto": "https://i.postimg.cc/t4fY1096/74BTYP.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777122731892,
@@ -2053,15 +2038,6 @@
     "fechaIngreso": 1781218827542
   },
   {
-    "id": 1778002541230,
-    "nombre": "SET DESTORNILLADOR DE GOLPE X6 AZUL",
-    "precio": 8945,
-    "foto": "https://i.postimg.cc/15Wd8YhL/DESB.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true,
-    "fechaIngreso": 1781218783704
-  },
-  {
     "id": 1778012838218,
     "nombre": "TIJERA DE PODAR",
     "precio": 5247,
@@ -2099,7 +2075,7 @@
     "precio": 2500,
     "foto": "https://i.postimg.cc/zDkryJbW/PM.jpg",
     "categoria": "INVIERNO",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1778884771450,
@@ -3174,7 +3150,7 @@
     "precio": 13860,
     "foto": "https://i.postimg.cc/Zq6y0CMq/HOG0653A.jpg",
     "categoria": "HOGAR",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1785372059575
   },
   {
@@ -3453,7 +3429,7 @@
     "precio": 3500,
     "foto": "https://i.postimg.cc/xjgWmjSX/RR.jpg",
     "categoria": "VARIOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1787318350790
   },
   {
@@ -3502,15 +3478,6 @@
     "fechaIngreso": 1787318938464
   },
   {
-    "id": 1787319029210,
-    "nombre": "POCILLO CAFE DOBLE VIDRIO 150ML",
-    "precio": 3249,
-    "foto": "https://i.postimg.cc/ZqGV3gfz/MELECH-582.jpg",
-    "categoria": "COCINA",
-    "suspendido": false,
-    "fechaIngreso": 1787319029210
-  },
-  {
     "id": 1787319095076,
     "nombre": "LINTERNA FAROL CAMPING ",
     "precio": 7799,
@@ -3521,7 +3488,7 @@
   },
   {
     "id": 1787319169807,
-    "nombre": " TRIPODE C/LUZLED Y MICROFONO",
+    "nombre": " TRIPODE C/LUZ LED Y MICROFONO",
     "precio": 9690,
     "foto": "https://i.postimg.cc/vmFVvsdg/AY-49.jpg",
     "categoria": "TECNOLOGIA",
@@ -4153,7 +4120,7 @@
     "id": 1791563558471,
     "nombre": "SET DE 3 CUCHILLOS BLISTER ",
     "precio": 9100,
-    "foto": "JOYSTICK DE PC NOGA",
+    "foto": "https://i.postimg.cc/SxvNh79v/pp.jpg",
     "categoria": "COCINA",
     "suspendido": false,
     "fechaIngreso": 1791563558471
@@ -4175,5 +4142,77 @@
     "categoria": "HERRAMIENTAS",
     "suspendido": false,
     "fechaIngreso": 1791563790684
+  },
+  {
+    "id": 1792092234826,
+    "nombre": "SET HERRAMIENTAS  X 3 ",
+    "precio": 9100,
+    "foto": "https://i.postimg.cc/ydpR4zvX/as.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1792092234826
+  },
+  {
+    "id": 1792093748293,
+    "nombre": "MAQUINA REMOVEDORA DE PUNTOS NEGROS ",
+    "precio": 12000,
+    "foto": "https://i.postimg.cc/gcQxpsHX/aa.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1792093748293
+  },
+  {
+    "id": 1792093856002,
+    "nombre": "TORNO ELECTRICO MANICURA",
+    "precio": 10250,
+    "foto": "https://impotekno.com/fotos/8120-1.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1792093856002
+  },
+  {
+    "id": 1792094140527,
+    "nombre": "ARBOL DE NAVIDAD 50CM C/LED MULTICOLOR ",
+    "precio": 45000,
+    "foto": "https://i.postimg.cc/CK8YVySh/pp.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false,
+    "fechaIngreso": 1792094140527
+  },
+  {
+    "id": 1792094368741,
+    "nombre": "CESTA ORGANIZADOR ",
+    "precio": 6525,
+    "foto": "https://i.postimg.cc/ZnGF2ycp/pp.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1792094368741
+  },
+  {
+    "id": 1792094484268,
+    "nombre": "PLUMERO DE MICROFIBRA EXTENSIBLE 3 EN 1",
+    "precio": 10080,
+    "foto": "https://i.postimg.cc/jj2cWKLd/pp.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1792094484269
+  },
+  {
+    "id": 1792094772464,
+    "nombre": "PISTOLA MASAJEADORA",
+    "precio": 16240,
+    "foto": "https://i.postimg.cc/wjmT9RQn/pp.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false,
+    "fechaIngreso": 1792094772464
+  },
+  {
+    "id": 1792094875687,
+    "nombre": " MANDOLINA PICADOR DE VERDURAS 16PCS",
+    "precio": 13650,
+    "foto": "https://i.postimg.cc/sfM2TLZC/pp.jpg",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1792094875687
   }
 ]
