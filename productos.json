@@ -76,18 +76,20 @@
   {
     "id": 27,
     "nombre": "CABLE HDMI 1.5M",
-    "precio": 1950,
+    "precio": 2030,
     "foto": "https://i.postimg.cc/L4wfQkpq/CABLEUSB.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1792191149040
   },
   {
     "id": 28,
     "nombre": "CABLE TIPO C PUNTA DE METAL",
-    "precio": 1540,
+    "precio": 1790,
     "foto": "https://i.postimg.cc/wMK5Yd3B/CABLE-PUNTA-METAL.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1792190956687
   },
   {
     "id": 29,
@@ -385,7 +387,7 @@
     "precio": 9050,
     "foto": "https://i.postimg.cc/26MFHY5y/AURIVINCHA.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 100,
@@ -393,7 +395,7 @@
     "precio": 5710,
     "foto": "https://i.postimg.cc/mZtpnzn0/AR-1401.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1783029870835
   },
   {
@@ -518,15 +520,6 @@
     "categoria": "ACCESORIOS P/ BELLEZA",
     "suspendido": false,
     "fechaIngreso": 1779989398138
-  },
-  {
-    "id": 119,
-    "nombre": "SECADOR DE PELO HYTOSHY 1000W",
-    "precio": 15350,
-    "foto": "https://i.postimg.cc/sxShT9NF/HT-9120.jpg",
-    "categoria": "ACCESORIOS P/ BELLEZA",
-    "suspendido": true,
-    "fechaIngreso": 1779989387194
   },
   {
     "id": 120,
@@ -752,7 +745,7 @@
     "precio": 2050,
     "foto": "https://i.postimg.cc/ZYfHfLXq/luz-bici.png",
     "categoria": "ILUMINACION",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1780695189709
   },
   {
@@ -817,7 +810,7 @@
   {
     "id": 187,
     "nombre": "CINTA METRICA 7.5M",
-    "precio": 4580,
+    "precio": 4620,
     "foto": "https://i.postimg.cc/mDnpmByx/1903.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false,
@@ -862,7 +855,7 @@
     "precio": 2671,
     "foto": "https://i.postimg.cc/k49s1xPk/BP.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 194,
@@ -1135,14 +1128,6 @@
     "fechaIngreso": 1791561928263
   },
   {
-    "id": 252,
-    "nombre": "AURICULAR BOLSITA TIME M/L",
-    "precio": 1136,
-    "foto": "https://i.postimg.cc/SKyfj5tn/AU-11007.jpg",
-    "categoria": "AURICULARES C/CABLE",
-    "suspendido": true
-  },
-  {
     "id": 253,
     "nombre": "AURICULAR S10+ SAMSUNG",
     "precio": 1900,
@@ -1179,8 +1164,9 @@
     "nombre": "PORTA ROLLO PAPEL HIEGIENICO",
     "precio": 5590,
     "foto": "https://i.postimg.cc/qBKn0pNy/portarollo.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
+    "categoria": "ORDEN Y LIMPIEZA",
+    "suspendido": false,
+    "fechaIngreso": 1792195062171
   },
   {
     "id": 269,
@@ -1449,7 +1435,7 @@
   {
     "id": 1772715449206,
     "nombre": "CABLE HDMI MALLADO 3M",
-    "precio": 2610,
+    "precio": 2718.99,
     "foto": "https://i.postimg.cc/t46yWFNr/HDMI3MM.jpg",
     "categoria": "CABLES",
     "suspendido": false,
@@ -1593,7 +1579,7 @@
   {
     "id": 1774561925116,
     "nombre": "AURICULAR SPORT JBL ",
-    "precio": 1620,
+    "precio": 1670,
     "foto": "https://i.postimg.cc/d1pZwy1y/aurijblsp.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false,
@@ -1934,10 +1920,11 @@
   {
     "id": 1777737682093,
     "nombre": "CABLE TIPO C CON LUZ 41016",
-    "precio": 1785,
+    "precio": 2019.98,
     "foto": "https://i.postimg.cc/kXhV2St4/CTC.jpg",
     "categoria": "CABLES",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1792190839330
   },
   {
     "id": 1777738095045,
@@ -2010,7 +1997,7 @@
     "precio": 4690,
     "foto": "https://i.postimg.cc/59Znc6D6/CANL.jpg",
     "categoria": "CANDADOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777938554781,
@@ -2050,8 +2037,9 @@
     "nombre": "TENDER DE ROPA PARA PARED EXTENSIBLE 12M",
     "precio": 15680,
     "foto": "https://i.postimg.cc/yxqr7S1V/TR.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
+    "categoria": "ORDEN Y LIMPIEZA",
+    "suspendido": false,
+    "fechaIngreso": 1792195081786
   },
   {
     "id": 1778636413553,
@@ -2247,7 +2235,7 @@
   {
     "id": 1779932098854,
     "nombre": "CABLE AUXILIAR CORDON 3.5",
-    "precio": 760,
+    "precio": 800,
     "foto": "https://i.postimg.cc/43M5Zhz4/CC.jpg",
     "categoria": "CABLES",
     "suspendido": false,
@@ -2304,7 +2292,7 @@
     "precio": 18800,
     "foto": "https://i.postimg.cc/fL7KDDmv/CC.webp",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1779991022033
   },
   {
@@ -2322,7 +2310,7 @@
     "precio": 19990,
     "foto": "https://i.postimg.cc/5N8Frn5B/CC.webp",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1779991370620
   },
   {
@@ -2564,7 +2552,7 @@
     "nombre": "MOPA AUTOMATICA 360° C/ MICROFIBRA",
     "precio": 10400,
     "foto": "https://i.postimg.cc/WbvxHTtF/aa.jpg",
-    "categoria": "HOGAR",
+    "categoria": "ORDEN Y LIMPIEZA",
     "suspendido": false,
     "fechaIngreso": 1781799866329
   },
@@ -2601,7 +2589,7 @@
     "precio": 14500,
     "foto": "https://i.postimg.cc/yN7bVWjL/aa.jpg",
     "categoria": "NIÑOS",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1781830176323
   },
   {
@@ -2618,7 +2606,7 @@
     "nombre": "ORGANIZADOR DE ESCOBAS PARA COLGAR",
     "precio": 10300,
     "foto": "https://i.postimg.cc/d1GrHxpt/MELECH-595.jpg",
-    "categoria": "HOGAR",
+    "categoria": "ORDEN Y LIMPIEZA",
     "suspendido": false,
     "fechaIngreso": 1782334703785
   },
@@ -2690,7 +2678,7 @@
     "nombre": "ASPIRADORA PORTATIL VACCUN",
     "precio": 7200,
     "foto": "https://i.postimg.cc/tTKNYfFY/AS-228.jpg",
-    "categoria": "HOGAR",
+    "categoria": "ORDEN Y LIMPIEZA",
     "suspendido": false,
     "fechaIngreso": 1782859300906
   },
@@ -2699,7 +2687,7 @@
     "nombre": "SACA PELUSA / PELOS MASCOTAS",
     "precio": 6700,
     "foto": "https://i.postimg.cc/C56BRn3G/F0023.jpg",
-    "categoria": "HOGAR",
+    "categoria": "VARIOS",
     "suspendido": false,
     "fechaIngreso": 1782859499484
   },
@@ -2709,7 +2697,7 @@
     "precio": 13900,
     "foto": "https://i.postimg.cc/8C83R2tb/TH-27G.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1783014248023
   },
   {
@@ -2853,7 +2841,7 @@
     "precio": 4900,
     "foto": "https://i.postimg.cc/7h2GvTrc/1904.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1783027910228
   },
   {
@@ -2895,7 +2883,7 @@
   {
     "id": 1783548593477,
     "nombre": "CARGADOR HYTOSHY 168W",
-    "precio": 7950,
+    "precio": 8260,
     "foto": "https://i.postimg.cc/8PNT2JsC/H168.jpg",
     "categoria": "CARGADORES",
     "suspendido": false,
@@ -3084,7 +3072,7 @@
   {
     "id": 1785371633367,
     "nombre": "JUEGO DE CARTA UNO",
-    "precio": 1850,
+    "precio": 1950,
     "foto": "https://i.postimg.cc/N0G5bMnj/66077605-1d4b-440f-b72c-78eed76e5a59.jpg",
     "categoria": "NIÑOS",
     "suspendido": false,
@@ -3141,7 +3129,7 @@
     "precio": 16900,
     "foto": "https://i.postimg.cc/bvrBQ0q2/cdf07ea6-be45-4fab-b6ca-6ae8540d320c.jpg",
     "categoria": "NIÑOS",
-    "suspendido": true,
+    "suspendido": false,
     "fechaIngreso": 1785371938751
   },
   {
@@ -3424,15 +3412,6 @@
     "fechaIngreso": 1787318154440
   },
   {
-    "id": 1787318350789,
-    "nombre": "RIÑONERA SPORT SOLO EN NEGRO",
-    "precio": 3500,
-    "foto": "https://i.postimg.cc/xjgWmjSX/RR.jpg",
-    "categoria": "VARIOS",
-    "suspendido": true,
-    "fechaIngreso": 1787318350790
-  },
-  {
     "id": 1787318450528,
     "nombre": "SET DE CUCHILLOS 6 PZS",
     "precio": 5500,
@@ -3537,7 +3516,7 @@
     "precio": 15050,
     "foto": "https://i.postimg.cc/BZT48fhG/RH-11-15.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1787319586078
   },
   {
@@ -3977,14 +3956,14 @@
     "nombre": "TENDER RETRACTIL 3.2M",
     "precio": 13860,
     "foto": "https://i.postimg.cc/1tJt793q/aa.jpg",
-    "categoria": "HOGAR",
+    "categoria": "ORDEN Y LIMPIEZA",
     "suspendido": false,
     "fechaIngreso": 1789781077939
   },
   {
     "id": 1789781224398,
     "nombre": "SECADOR DE PELO 2000W NV-7220",
-    "precio": 11440,
+    "precio": 15400,
     "foto": "https://i.postimg.cc/13h9HgrT/aa.jpg",
     "categoria": "ACCESORIOS P/ BELLEZA",
     "suspendido": false,
@@ -3995,7 +3974,7 @@
     "nombre": "TENDER DE ROPA RETRACTIL 4.2M",
     "precio": 15750,
     "foto": "https://i.postimg.cc/T36KPNFp/aa.jpg",
-    "categoria": "HOGAR",
+    "categoria": "ORDEN Y LIMPIEZA",
     "suspendido": false,
     "fechaIngreso": 1789781413639
   },
@@ -4127,7 +4106,7 @@
   },
   {
     "id": 1791563659046,
-    "nombre": " TERMO 750ML ACERO CON PICO CEBADOR",
+    "nombre": "TERMO 750ML ACERO CON PICO CEBADOR",
     "precio": 18900,
     "foto": "https://i.postimg.cc/bvWZDj9L/aa.jpg",
     "categoria": "TERMOS Y VASOS",
@@ -4184,7 +4163,7 @@
     "nombre": "CESTA ORGANIZADOR ",
     "precio": 6525,
     "foto": "https://i.postimg.cc/ZnGF2ycp/pp.jpg",
-    "categoria": "HOGAR",
+    "categoria": "ORDEN Y LIMPIEZA",
     "suspendido": false,
     "fechaIngreso": 1792094368741
   },
@@ -4193,7 +4172,7 @@
     "nombre": "PLUMERO DE MICROFIBRA EXTENSIBLE 3 EN 1",
     "precio": 10080,
     "foto": "https://i.postimg.cc/jj2cWKLd/pp.jpg",
-    "categoria": "HOGAR",
+    "categoria": "ORDEN Y LIMPIEZA",
     "suspendido": false,
     "fechaIngreso": 1792094484269
   },
@@ -4208,11 +4187,92 @@
   },
   {
     "id": 1792094875687,
-    "nombre": " MANDOLINA PICADOR DE VERDURAS 16PCS",
+    "nombre": "MANDOLINA PICADOR DE VERDURAS 16PCS",
     "precio": 13650,
     "foto": "https://i.postimg.cc/sfM2TLZC/pp.jpg",
     "categoria": "COCINA",
     "suspendido": false,
     "fechaIngreso": 1792094875687
+  },
+  {
+    "id": 1792190478056,
+    "nombre": "DEPILADOR DE NARIZ/OREJAS",
+    "precio": 4650,
+    "foto": "https://i.postimg.cc/xdTHf5hL/a3.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1792190478056
+  },
+  {
+    "id": 1792190653517,
+    "nombre": "SECADOR DE PELO 2 EN 1 DIFUSOR 1600W",
+    "precio": 18200,
+    "foto": "https://i.postimg.cc/3wR45R0j/a2.jpg",
+    "categoria": "ACCESORIOS P/ BELLEZA",
+    "suspendido": false,
+    "fechaIngreso": 1792190653517
+  },
+  {
+    "id": 1792190769158,
+    "nombre": "VASO TERMICO CHOPERA 710ML",
+    "precio": 12900,
+    "foto": "https://i.postimg.cc/SRpxsNjF/a4.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false,
+    "fechaIngreso": 1792190769158
+  },
+  {
+    "id": 1792191480397,
+    "nombre": "ENCHUFE INTELIGENTE WIFI",
+    "precio": 17920,
+    "foto": "https://i.postimg.cc/rF0fcVxT/a4jpg.jpg",
+    "categoria": "ENCHUFES/EXTENSIONES",
+    "suspendido": false,
+    "fechaIngreso": 1792191480397
+  },
+  {
+    "id": 1792192498757,
+    "nombre": "SET JUEGO POKER",
+    "precio": 18200,
+    "foto": "https://i.postimg.cc/W1rjDPRQ/a14.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1792192498757
+  },
+  {
+    "id": 1792192583025,
+    "nombre": "BOLSO MATERNAL PAÑALERO",
+    "precio": 11620,
+    "foto": "https://i.postimg.cc/HkG11PJX/a6.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false,
+    "fechaIngreso": 1792192583025
+  },
+  {
+    "id": 1792192825472,
+    "nombre": "ALARMA CON SENSOR P/VENTANA Y PUERTAS",
+    "precio": 2700,
+    "foto": "https://i.postimg.cc/jq7r3b2Y/a776.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false,
+    "fechaIngreso": 1792192825472
+  },
+  {
+    "id": 1792192910901,
+    "nombre": "SET ABRIDOR DE VINO",
+    "precio": 6020,
+    "foto": "https://i.postimg.cc/fLS1Pcz4/a7.jpg",
+    "categoria": "COCINA",
+    "suspendido": false,
+    "fechaIngreso": 1792192910901
+  },
+  {
+    "id": 1792192991154,
+    "nombre": "LUZ RECARGABLE DE BICI C/ BOCINA",
+    "precio": 5600,
+    "foto": "https://i.postimg.cc/L8y76C5G/a8.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1792192991154
   }
 ]
