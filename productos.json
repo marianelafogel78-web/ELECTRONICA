@@ -1186,7 +1186,7 @@
   },
   {
     "id": 272,
-    "nombre": "CORTA BARBA 3 EN 1 RECARGABLE",
+    "nombre": "CORTA BARBA Y CABELLO 3 EN 1 RECARGABLE",
     "precio": 17090,
     "foto": "https://i.postimg.cc/DfcX2v8N/cortabarba.jpg",
     "categoria": "ACCESORIOS P/ BELLEZA",
@@ -1448,15 +1448,6 @@
     "foto": "https://i.postimg.cc/dQ7qJMZH/CARGADOR.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
-  },
-  {
-    "id": 1772715708321,
-    "nombre": "SECADOR DE PELO 2000W 80000 RPM ONICA",
-    "precio": 15360,
-    "foto": "https://i.postimg.cc/h4mHCKdB/SECCADOR.jpg",
-    "categoria": "ACCESORIOS P/ BELLEZA",
-    "suspendido": false,
-    "fechaIngreso": 1779989377570
   },
   {
     "id": 1772715810223,
@@ -1826,7 +1817,7 @@
     "precio": 14700,
     "foto": "https://i.postimg.cc/d1Xhyz2R/ANAFE1.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777125280505,
@@ -2665,21 +2656,12 @@
     "fechaIngreso": 1782339017881
   },
   {
-    "id": 1782478705417,
-    "nombre": "PATILLERA MESSI METAL",
-    "precio": 7100,
-    "foto": "https://i.postimg.cc/BZH0cBXT/pm.jpg",
-    "categoria": "ACCESORIOS P/ BELLEZA",
-    "suspendido": false,
-    "fechaIngreso": 1782478705417
-  },
-  {
     "id": 1782859300905,
     "nombre": "ASPIRADORA PORTATIL VACCUN",
     "precio": 7200,
     "foto": "https://i.postimg.cc/tTKNYfFY/AS-228.jpg",
     "categoria": "ORDEN Y LIMPIEZA",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1782859300906
   },
   {
@@ -3113,15 +3095,6 @@
     "categoria": "NIÑOS",
     "suspendido": true,
     "fechaIngreso": 1785371856224
-  },
-  {
-    "id": 1785371910343,
-    "nombre": "CAMARA IP DOMO NOGA",
-    "precio": 26200,
-    "foto": "https://i.postimg.cc/wxWLDky7/NGW-45.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": true,
-    "fechaIngreso": 1785371910343
   },
   {
     "id": 1785371938751,
@@ -3608,15 +3581,6 @@
     "categoria": "TERMOS Y VASOS",
     "suspendido": false,
     "fechaIngreso": 1787856266664
-  },
-  {
-    "id": 1787856590956,
-    "nombre": "SET BROCHAS DE MAQUILLAJE 11PCS",
-    "precio": 8050,
-    "foto": "https://i.postimg.cc/LsXnsphP/BBB.jpg",
-    "categoria": "ACCESORIOS P/ BELLEZA",
-    "suspendido": false,
-    "fechaIngreso": 1787856590956
   },
   {
     "id": 1787857144270,
@@ -4110,7 +4074,7 @@
     "precio": 18900,
     "foto": "https://i.postimg.cc/bvWZDj9L/aa.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1791563659046
   },
   {
